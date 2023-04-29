@@ -1,0 +1,800 @@
+FDIC Certificate # 12309			FRB District/ID_RSSD 11 / 617051			CITIZENS BANK, NATIONAL ASSOCIATION			 ABILENE, TX			Summary Ratios
+OCC Charter #  23834			County:  TAYLOR			Summary Ratios--Page 1 						04/15/2023 10:07:46 PM
+Public Report
+
+		12/31/2022			06/30/2022			12/31/2021			06/30/2021			12/31/2020
+Earnings and Profitability	BANK	PG 8	PCT	BANK	PG 8	PCT	BANK	PG 8	PCT	BANK	PG 8	PCT	BANK	PG 8	PCT
+  Percent of Average Assets:																
+    Interest Income (TE)	3.71	3.68	51	3.31	3.31	50	3.81	3.50	65	3.61	3.55	49	4.49	3.92	79
+     - Interest Expense	0.20	0.37	24	0.06	0.26	6	0.08	0.33	9	0.10	0.37	10	0.24	0.60	15
+      Net Interest Income (TE)	3.51	3.30	65	3.25	3.03	65	3.72	3.16	80	3.51	3.17	69	4.24	3.31	93
+     + Noninterest Income	0.33	0.42	46	0.29	0.43	42	0.33	0.54	43	0.35	0.53	49	0.31	0.51	43
+     - Noninterest Expense	2.08	2.46	29	2.01	2.43	28	2.13	2.47	29	2.16	2.43	32	2.31	2.61	35
+      Pre-Provision Net Revenue (TE)	1.76	1.34	78	1.53	1.15	76	1.92	1.32	82	1.71	1.38	72	2.25	1.34	89
+     - Provision: Loan & Lease Losses	0.00	0.04	41	0.00	0.04	51	0.00	0.06	35	0.00	0.05	45	0.04	0.14	27
+     - Provision: Credit Loss Oth Assets	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.01	N/A
+      Pretax Operating Income (TE)	1.76	1.28	80	1.53	1.11	76	1.92	1.26	84	1.71	1.32	72	2.21	1.18	91
+     + Realized Gains/Losses Sec	0.00	0.00	17	0.00	0.00	7	0.00	0.01	4	0.00	0.00	78	0.15	0.02	91
+     + Unrealized Gains / Losses Equity Sec	0.00	0.00	94	0.00	0.00	96	0.00	0.00	90	0.00	0.00	91	0.00	0.00	93
+    Pretax Net Operating Income (TE)	1.76	1.26	81	1.53	1.10	77	1.92	1.27	84	1.71	1.34	72	2.35	1.23	92
+      Net Operating Income	1.59	1.08	84	1.38	0.93	81	1.81	1.09	88	1.60	1.15	79	2.24	1.06	92
+    Net Inc Attrib to Min Ints	0.00	0.00	99	0.00	0.00	99	0.00	0.00	99	0.00	0.00	99	0.00	0.00	99
+    Net Income Adjusted Sub S	1.39	0.99	83	1.21	0.85	77	1.51	1.01	85	1.35	1.05	73	1.86	0.96	92
+      Net Income	1.59	1.08	84	1.38	0.93	81	1.81	1.09	88	1.60	1.15	79	2.24	1.06	92
+																
+  Margin Analysis:																
+  Avg Earning Assets to Avg Assets	92.94	96.02	16	92.09	95.49	16	90.20	95.00	11	89.91	94.78	11	89.75	94.82	11
+  Avg Int-Bearing Funds to Avg Assets	44.12	64.01	7	43.19	64.03	4	44.81	64.62	5	46.30	65.10	7	52.08	66.29	10
+  Int Inc (TE) to Avg Earn Assets	3.99	3.85	61	3.60	3.48	56	4.22	3.71	76	4.02	3.78	64	5.00	4.15	89
+  Int Expense to Avg Earn Assets	0.22	0.39	25	0.06	0.28	7	0.09	0.35	9	0.11	0.39	10	0.27	0.63	17
+  Net Int Inc-TE to Avg Earn Assets	3.78	3.45	68	3.53	3.19	69	4.13	3.35	85	3.91	3.37	78	4.73	3.50	96
+																
+  Loan & Lease Analysis:																
+  Net Loss to Average Total LN&LS	-0.07	0.02	11	-0.15	0.00	5	0.00	0.01	63	0.00	0.00	39	0.07	0.05	76
+  Earnings Coverage of Net Losses (X)	N/A	177.66	N/A	N/A	158.90	N/A	2,260.00	211.51	96	N/A	143.58	N/A	40.97	74.22	59
+  LN&LS Allowance to LN&LS Not HFS	1.60	1.30	77	1.81	1.35	82	1.65	1.38	76	1.48	1.35	67	1.49	1.37	66
+  LN&LS Allowance to Net Losses (X)	N/A	94.84	N/A	N/A	100.39	N/A	1,139.00	114.59	96	N/A	65.92	N/A	19.00	46.18	51
+  LN&LS Allowance to Nonaccrual LN&LS (X)	N/A	8.76	N/A	N/A	15.93	N/A	N/A	12.12	N/A	N/A	14.30	N/A	N/A	9.43	N/A
+  30-89 Days Past Due	0.00	0.30	30	0.00	0.30	32	0.11	0.26	53	0.05	0.29	47	0.01	0.37	33
+  Total LN&LS-90+ Days PD & Nonaccrual	0.00	0.32	38	0.00	0.34	32	0.00	0.34	33	0.00	0.38	32	0.00	0.45	29
+  Non-Curr Lns+OREO to Lns+OREO	0.00	0.36	34	0.00	0.40	29	0.00	0.41	29	0.00	0.47	28	0.00	0.57	24
+																
+  Liquidity																
+  Net Non Core Fund Dep New $250M	15.47	-5.35	86	5.78	-11.54	82	-10.12	-15.19	50	0.25	-12.55	71	5.09	-9.55	75
+  Net Loans & Leases to Assets	55.72	60.26	39	51.87	57.74	35	51.34	56.85	38	61.04	59.01	51	64.63	61.68	52
+  Net Loans & Leases to Deposits	62.70	70.03	38	57.99	66.21	36	58.39	65.83	38	70.52	69.07	49	74.78	73.84	49
+																
+  Capitalization																
+  Leverage Ratio	9.3562	11.26	26	9.2738	10.85	31	8.6322	10.55	17	9.1079	10.55	28	9.0189	10.80	25
+  Total Capital Ratio	13.8088	18.06	20	14.2428	18.02	26	N/A	18.00	N/A	N/A	18.34	N/A	N/A	18.15	N/A
+  Cash Dividends to Net Income	60.62	30.64	78	44.89	26.59	68	73.96	32.46	86	42.94	27.73	63	81.85	32.25	87
+  Non-Curr Lns+OREO to T1 Capital+Allowance	0.00	1.76	35	0.00	1.87	30	0.00	2.03	30	0.00	2.43	29	0.00	3.18	24
+																
+  Growth Rates																
+  Total Assets	-0.99	2.32	37	0.31	5.30	29	13.21	10.59	66	5.32	9.76	30	9.17	20.23	19
+  Tier 1 Capital	7.40	8.29	55	4.75	7.59	40	5.66	9.59	40	6.02	8.66	47	4.72	6.55	40
+  Net Loans & Leases	7.45	10.61	40	-14.76	3.77	5	-10.07	1.88	18	-8.76	0.00	18	4.94	12.09	36
+  Short Term Investments	-85.50	-27.55	6	-44.36	-3.90	22	157.43	21.75	92	344.21	24.03	97	184.80	78.80	85
+  Short Term Non Core Funding	69.42	50.58	71	7.52	14.83	56	-2.98	6.93	46	-39.82	-0.06	25	-33.31	18.45	19
+																
+Average Total Assets		129,637			129,542			124,785			122,067			115,150
+Net Income		2,062			891			2,258			978			2,578
+						
+Number of banks in Peer Group		237			253			254			268			268
+
+
+
+FDIC Certificate # 12309			FRB District/ID_RSSD 11 / 617051			CITIZENS BANK, NATIONAL ASSOCIATION			 ABILENE, TX			Income Statement $
+OCC Charter #  23834			County:  TAYLOR			Income Statement $--Page 2 						04/15/2023 10:07:46 PM
+Public Report
+
+																	Percent Change
+		12/31/2022			06/30/2022			12/31/2021			06/30/2021			12/31/2020			1 Year
+Interest and Fees on Loans		3,678			1,652			4,103			1,902			4,528			-10.36
+Income From Lease Financing		0			0			0			0			0			N/A
+  Tax-Exempt		28			14			31			15			34			-9.68
+  Estimated Tax Benefit		7			4			8			4			9			-9.68
+    Income on Loans & Leases (TE)		3,685			1,656			4,111			1,906			4,537			-10.36
+							
+US Treas & Agency (Excl MBS)		0			0			0			0			0			N/A
+Mortgage Backed Securities		0			0			0			0			0			N/A
+  Estimated Tax Benefit		216			96			127			60			122			71.01
+All Other Securities		814			361			477			225			466			70.65
+  Tax-Exempt Securities Income		814			361			476			224			460			71.01
+Investment Interest Income (TE)		1,030			457			604			285			588			70.73
+							
+Interest on Due From Banks		61			19			12			3			4			408.33
+Int on Fed Funds Sold & Resales		0			0			0			0			0			N/A
+Trading Account Income		N/A			N/A			N/A			N/A			N/A			N/A
+Other Interest Income		36			13			26			12			36			38.46
+							
+  Total Interest Income (TE)		4,813			2,145			4,753			2,206			5,165			1.26
+							
+Int on Deposits in Foreign Off		N/A			N/A			N/A			N/A			N/A			N/A
+Interest on Domestic Deposits		227			38			105			61			253			116.19
+Int on Fed Funds Purch & Repos		5			0			0			0			1			N/A
+Int Trad Liab & Oth Borrowings		N/A			N/A			N/A			N/A			N/A			N/A
+Int on Sub Notes & Debentures		N/A			N/A			N/A			N/A			N/A			N/A
+Other Interest Expense		32			0			0			0			25			N/A
+							
+  Total Interest Expense		264			38			105			61			279			151.43
+							
+  Net Interest Income (TE)		4,549			2,107			4,648			2,145			4,886			-2.13
+Non-interest Income		428			186			408			215			358			4.90
+  Adjusted Operating Income (TE)		4,977			2,293			5,056			2,360			5,244			-1.56
+							
+Non-Interest Expense		2,690			1,301			2,661			1,318			2,655			1.09
+  Pre-Provision Net Revenue (TE)		2,287			992			2,395			1,042			2,589			-4.51
+Provision: Loan & Lease Losses		0			0			0			0			50			N/A
+Provision: Credit Losses Other Assets		N/A			N/A			N/A			N/A			N/A			N/A
+  Pretax Operating Income (TE)		2,287			992			2,395			1,042			2,539			-4.51
+							
+Realized G/L Hld-to-Maturity Sec		0			0			0			0			0			N/A
+Realized G/L Avail-for Sale Sec		-1			-1			-2			0			170			50.00
+Unrealized G/L Equity Securities		0			0			0			0			0			N/A
+  Pretax Net Operating Inc (TE)		2,286			991			2,393			1,042			2,709			-4.47
+							
+Applicable Income Taxes		0			0			0			0			0			N/A
+Current Tax Equiv Adjustment		224			100			135			64			131			66.07
+Other Tax Equiv Adjustments		0			0			0			0			0			N/A
+  Applicable Income Taxes (TE)		224			100			135			64			131			66.07
+							
+  Net Operating Income		2,062			891			2,258			978			2,578			-8.68
+							
+Net Discontinued / Extraordinary Items		0			0			0			0			0			N/A
+Net Inc Noncontrolling Minority Interests		0			0			0			0			0			N/A
+  Net Income		2,062			891			2,258			978			2,578			-8.68
+							
+Cash Dividends Declared		1,250			400			1,670			420			2,110			-25.15
+Retained Earnings		812			491			588			558			468			38.10
+Memo: Net International Income		N/A			N/A			N/A			N/A			N/A			N/A
+Memo: Interest on Time Dep Over Ins Limit		125			19			55			32			118			127.27
+
+
+
+FDIC Certificate # 12309			FRB District/ID_RSSD 11 / 617051			CITIZENS BANK, NATIONAL ASSOCIATION			 ABILENE, TX			Asset Yields and Funding Costs
+OCC Charter #  23834			County:  TAYLOR			Asset Yields and Funding Costs--Page 3a 						04/15/2023 10:07:46 PM
+Public Report
+
+		12/31/2022			06/30/2022			12/31/2021			06/30/2021			12/31/2020
+YIELD ON OR COST OF:	BANK	PG 8	PCT	BANK	PG 8	PCT	BANK	PG 8	PCT	BANK	PG 8	PCT	BANK	PG 8	PCT
+  Total Loan & Leases (TE)	5.36	5.19	64	5.00	4.98	55	5.49	5.29	62	4.89	5.27	31	5.61	5.31	71
+    Loans in Domestic Offices	5.35	5.18	63	4.99	4.98	55	5.48	5.29	62	4.88	5.27	31	5.60	5.30	71
+      Real Estate	5.26	5.04	65	5.00	4.85	63	5.14	5.02	61	5.12	5.07	62	5.48	5.32	61
+        Secured by 1-4 Fam Resi Prop	5.47	5.21	62	5.23	4.96	65	5.05	5.07	51	4.98	5.08	48	5.42	5.43	55
+        All Other Loans Sec Real Estate	5.16	5.03	60	4.91	4.84	57	5.18	5.07	59	5.19	5.08	59	5.52	5.32	64
+      Commercial & Industrial	5.97	5.87	60	5.12	5.64	40	7.03	6.47	65	4.08	6.11	17	5.96	5.32	73
+      Individual	5.58	6.23	44	4.86	6.21	32	4.91	6.46	29	4.93	6.44	27	5.50	6.45	36
+        Credit Card	N/A	10.88	N/A	N/A	9.48	N/A	N/A	9.55	N/A	N/A	8.51	N/A	N/A	9.20	N/A
+      Agricultural	5.48	5.14	72	5.07	4.80	71	4.58	5.06	33	5.22	4.99	74	5.72	5.33	78
+    Loans in Foreign Offices	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+  Total Investment Securities (TE)	2.45	1.96	77	2.37	1.74	85	2.70	1.72	88	2.86	1.79	89	3.05	2.25	86
+  Total Investment Securities (Book)	1.93	1.85	58	1.87	1.64	68	2.13	1.59	82	2.26	1.65	84	2.41	2.09	73
+    US Treas & Agency (Excl MBS)	0.00	1.62	1	0.00	1.31	2	0.00	1.14	3	N/A	1.20	N/A	0.00	1.71	5
+    Mortgage Backed Securities	N/A	1.85	N/A	N/A	1.57	N/A	N/A	1.32	N/A	N/A	1.33	N/A	N/A	1.92	N/A
+    All Other Securities	1.94	2.21	42	1.89	2.10	42	2.15	2.14	56	2.26	2.20	59	2.44	2.27	54
+  Interest-Bearing Bank Balances	0.75	1.45	10	0.29	0.60	10	0.09	0.37	10	0.06	0.36	9	0.22	0.75	10
+  Federal Funds Sold & Resales	N/A	1.64	N/A	N/A	0.49	N/A	N/A	0.10	N/A	N/A	0.05	N/A	N/A	0.40	N/A
+  Total Interest Bearing Deposits	0.40	0.54	36	0.14	0.38	10	0.19	0.48	13	0.22	0.52	14	0.46	0.87	19
+    Transaction accounts	0.49	0.23	83	0.08	0.14	28	0.03	0.14	7	0.04	0.14	13	0.11	0.21	30
+    Other Savings Deposits	0.08	0.38	7	0.04	0.23	3	0.05	0.23	4	0.06	0.24	7	0.16	0.41	14
+    Time Deposits	0.67	0.91	27	0.26	0.75	5	0.38	0.96	8	0.44	1.06	9	0.84	1.60	7
+    Foreign Office Deposits	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+																
+    Federal Funds Purchased & Repos	4.43	1.87	83	0.00	0.40	45	N/A	0.09	N/A	N/A	0.09	N/A	0.54	0.52	62
+    Other Borrowed Money	N/A	2.38	N/A	N/A	1.91	N/A	N/A	1.80	N/A	N/A	1.53	N/A	N/A	1.40	N/A
+    Subord Notes & Debentures	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+    Other Interest Expense	4.34	1.84	93	N/A	1.35	N/A	N/A	1.12	N/A	N/A	1.18	N/A	0.52	1.15	31
+    All Interest-Bearing Funds	0.46	0.59	37	0.14	0.41	9	0.19	0.50	12	0.22	0.55	12	0.47	0.89	18
+																
+    Memo: Interest on Time Dep Over Ins Limit	0.84	0.99	45	0.28	0.78	13	0.40	1.01	14	0.46	1.11	13	0.83	1.69	10
+																
+  PERCENT OF AVERAGE ASSETS:																
+    Total Loan & Leases	53.07	57.76	40	51.12	56.88	38	59.97	59.59	49	63.86	60.88	52	70.22	65.52	56
+      Loans in Domestic Offices	53.07	57.40	41	51.12	56.56	38	59.97	59.25	49	63.86	60.60	52	70.22	65.17	57
+        Real Estate	42.42	44.31	48	40.69	43.70	44	44.58	42.94	54	44.96	42.45	56	47.36	46.02	50
+          Secured by 1-4 Fam Resi Prop	14.31	14.85	51	12.58	14.33	46	13.89	14.45	53	13.98	13.87	57	15.98	14.79	58
+          All Other Loans Sec Real Estate	28.11	28.12	52	28.11	27.96	50	30.68	27.08	63	30.98	27.14	63	31.38	29.60	57
+        Commercial & Industrial	6.46	7.16	49	5.76	7.11	42	10.91	10.02	59	14.48	11.27	71	15.81	11.88	72
+        Individual	2.87	1.45	79	3.24	1.38	83	2.91	1.36	79	3.13	1.33	81	5.27	1.39	91
+          Credit Card	0.00	0.01	88	0.00	0.01	88	0.00	0.00	89	0.00	0.00	89	0.00	0.00	88
+        Agricultural	0.69	5.13	11	0.79	4.95	10	1.40	5.25	15	1.29	5.73	14	1.78	6.73	14
+      Loans in Foreign Offices	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+    Total Investment Securities	32.48	21.55	72	29.73	20.32	70	17.92	15.73	59	16.28	14.60	59	16.76	12.79	65
+      US Treas & Agency (Excl MBS)	0.13	5.81	19	0.26	5.02	21	0.13	2.66	31	0.00	2.21	31	0.14	1.82	39
+      Mortgage Backed Securities	0.00	5.94	23	0.00	5.94	24	0.00	5.33	23	0.00	4.80	25	0.00	4.45	24
+      All Other Securities	32.35	6.43	96	29.47	6.29	96	17.79	5.74	89	16.28	5.57	86	16.62	4.83	89
+    Interest-Bearing Bank Balances	6.29	11.83	40	10.16	13.55	49	11.18	13.90	45	8.62	13.33	38	1.55	11.31	10
+    Federal Funds Sold & Resales	0.00	1.00	48	0.00	0.80	54	0.00	0.97	50	0.00	1.01	53	0.00	1.20	44
+    Total Interest Bearing Deposits	43.47	61.95	6	43.18	62.09	5	44.81	61.65	7	46.30	61.54	11	47.75	61.50	12
+      Transaction Accounts	7.77	12.35	35	7.94	12.35	36	7.22	11.57	33	7.37	11.43	33	7.07	10.34	38
+      Other Savings Deposits	17.10	29.44	13	17.56	29.19	13	18.74	27.61	19	19.37	26.97	20	19.08	25.18	23
+      Time Deposits	18.59	17.94	58	17.68	18.24	55	18.85	20.48	54	19.56	20.92	54	21.60	23.83	51
+      Foreign Office Deposits	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+																
+    Federal Funds Purchased & Repos	0.09	0.10	77	0.01	0.07	77	0.00	0.05	67	0.00	0.03	75	0.16	0.13	84
+    Other Borrowed Money	0.57	1.19	55	0.00	1.09	49	0.00	1.86	40	0.00	2.17	40	4.17	3.21	66
+    Subord Notes & Debentures	0.00	0.00	99	0.00	0.00	99	0.00	0.00	99	0.00	0.00	99	0.00	0.00	99
+    Other Interest Expense Balances	0.57	1.19	55	0.00	1.09	49	0.00	1.86	40	0.00	2.17	40	4.17	3.21	66
+    All Interest-Bearing Funds	44.12	64.01	7	43.19	64.03	4	44.81	64.62	5	46.30	65.10	7	52.08	66.29	10
+																
+    Time Deposits Over Ins Limit	11.48	4.14	92	10.38	4.13	90	10.95	4.47	90	11.38	4.54	91	12.37	5.21	90
+																
+
+
+
+FDIC Certificate # 12309			FRB District/ID_RSSD 11 / 617051			CITIZENS BANK, NATIONAL ASSOCIATION			 ABILENE, TX			Balance Sheet $
+OCC Charter #  23834			County:  TAYLOR			Balance Sheet $--Page 4 						04/15/2023 10:07:46 PM
+Public Report
+
+																	Percent Change															
+		12/31/2022			06/30/2022			12/31/2021			06/30/2021			12/31/2020			1 Quarter			1 Year
+Assets:
+  Real Estate Loans		59,431			52,915			55,372			56,348			56,263			4.14			7.33
+  Commercial Loans		9,973			8,271			6,605			14,525			13,717			-2.23			50.99
+  Individual Loans		3,146			3,064			4,549			3,755			3,961			-5.21			-30.84
+  Agricultural Loans		960			749			1,774			1,442			1,893			19.55			-45.89
+  Other Loans & Leases		749			826			842			901			925			-7.53			-11.05
+    LN&LS Allowance		1,188			1,189			1,139			1,141			1,140			-0.08			4.30
+    Unearned Income		0			0			0			0			0			N/A			N/A
+      Net Loans & Leases		73,071			64,636			68,003			75,830			75,619			2.90			7.45
+  U.S. Treasury & Agency Securities		0			0			0			0			0			N/A			N/A
+  Municipal Securities		43,709			42,739			29,104			22,920			20,527			0.95			50.18
+  Foreign Debt Securities		0			0			0			0			0			N/A			N/A
+  All Other Securities		0			0			0			0			0			N/A			N/A
+    HTM Securities Allowance		N/A			N/A			N/A			N/A			N/A			N/A			N/A
+  Interest-Bearing Bank Balances		965			3,786			21,816			11,838			7,673			-68.78			-95.58
+  Federal Funds Sold & Resales		0			0			0			0			0			N/A			N/A
+  Trading Account Assets		0			0			0			0			0			N/A			N/A
+    Total Investments		44,674			46,525			50,920			34,758			28,200			-3.70			-12.27
+    Total Earning Assets		117,745			111,161			118,923			110,588			103,819			0.29			-0.99
+								
+  Nonint Cash & Due From Banks		2,396			2,643			2,974			3,076			2,640			-14.85			-19.44
+  Premises, Fix Assts, Cap Leases		2,331			2,279			2,323			2,344			2,380			-0.30			0.34
+  Other Real Estate Owned		0			0			0			0			0			N/A			N/A
+  Dir & Indir Inv RE Ventures		0			0			0			0			0			N/A			N/A
+  Inv in Unconsolidated Subs		0			0			0			0			0			N/A			N/A
+  Acceptances & Oth Assets		8,671			8,536			8,240			8,220			8,166			5.12			5.23
+    Total Assets		131,143			124,619			132,460			124,228			117,005			0.26			-0.99
+  Average Assets During Quarter		129,985			127,642			131,136			124,183			119,180			0.39			-0.88
+								
+  Liabilities:								
+  Demand Deposits		59,223			56,061			60,739			52,971			42,218			-0.55			-2.50
+  All Now & ATS Accounts		10,111			9,748			9,274			9,257			8,819			-2.07			9.03
+  Money Market Deposit Accounts		10,363			13,834			14,086			13,751			17,379			-30.82			-26.43
+  Other savings Deposits		8,100			9,284			9,157			8,626			8,538			-8.22			-11.54
+  Time Deps At Or Below Insurance Limit		8,688			9,199			9,747			9,488			10,347			-5.15			-10.86
+  Less: Fully Insured Brokered Deposits		1			1			1			1			0			0.00			0.00
+    Core Deposits		96,484			98,125			103,002			94,092			87,301			-6.18			-6.33
+  Fully Insured Brokered Deposits		1			1			1			1			0			0.00			0.00
+  Time Deps Above Insurance Limit		20,049			13,340			13,464			13,440			13,821			32.68			48.91
+  Deposits in Foreign Offices		N/A			N/A			N/A			N/A			N/A			N/A			N/A
+    Total Deposits		116,535			111,466			116,467			107,533			101,122			-1.20			0.06
+  Federal Funds Purch & Resale		0			0			0			0			0			N/A			N/A
+  Fed Home Loan Bor Mat < 1 Year		1,000			0			0			0			0			N/A			N/A
+  Fed Home Loan Bor Mat > 1 Year		0			0			0			0			0			N/A			N/A
+  Oth Borrowing Mat < 1 Year		0			0			0			0			0			N/A			N/A
+  Oth Borrowing Mat > 1 Year		0			0			0			0			0			N/A			N/A
+  Subordinated Notes & Debentures		0			0			0			0			0			N/A			N/A
+  Acceptances & Other Liabilities		134			253			121			662			158			-57.73			10.74
+    Total Liabilities (Incl Mortg)		117,669			111,719			116,588			108,195			101,280			-0.51			0.93
+  Total Bank Capital & Min Int		13,474			12,900			15,872			16,033			15,725			7.51			-15.11
+    Total Liabilities & Capital		131,143			124,619			132,460			124,228			117,005			0.26			-0.99
+								
+  Memoranda:								
+  Officers, Shareholder Loans (#)		2			3			2			2			2						
+  Officers, Shareholder Loans ($)		1,859			1,808			2,293			2,265			2,977			3.68			-18.93
+  Held-to-Maturity Securities		0			0			0			0			0			N/A			N/A
+  Available-for-Sale Securities		43,709			42,739			29,104			22,920			20,527			0.95			50.18
+  All Brokered Deposits		1			1			1			1			5,196			0.00			0.00
+  LN&LS in Foreign Offices		N/A			N/A			N/A			N/A			N/A			N/A			N/A
+  Loans Held for Sale		0			0			0			0			0			N/A			N/A
+  Loans not Held for Sale		74,259			65,825			69,142			76,971			76,759			2.85			7.40
+
+
+
+FDIC Certificate # 12309			FRB District/ID_RSSD 11 / 617051			CITIZENS BANK, NATIONAL ASSOCIATION			 ABILENE, TX			Balance Sheet %
+OCC Charter #  23834			County:  TAYLOR			Balance Sheet Percentage Composition--Page 6 						04/15/2023 10:07:46 PM
+Public Report
+
+		12/31/2022			06/30/2022			12/31/2021			06/30/2021			12/31/2020
+Percent of Average Assets	BANK	PG 8	PCT	BANK	PG 8	PCT	BANK	PG 8	PCT	BANK	PG 8	PCT	BANK	PG 8	PCT
+  Loans Held For Sale	0.00	0.02	82	0.00	0.03	82	0.00	0.06	77	0.00	0.06	78	0.00	0.07	74
+  Loans Not Held For Sale	53.14	57.92	39	51.27	56.96	37	59.43	59.20	48	63.93	60.32	53	69.42	64.49	56
+    Less: LN&LS Allowance	0.91	0.76	64	0.91	0.75	65	0.92	0.77	68	0.95	0.78	69	1.00	0.83	72
+      Net Loans & Leases	52.23	57.39	39	50.37	56.52	36	58.51	58.80	47	62.99	59.96	52	68.42	64.24	54
+																
+  Interest-Bearing Bank Balances	7.31	11.98	42	11.19	13.75	52	11.68	14.45	45	8.46	14.05	33	2.28	11.75	10
+  Federal Funds Sold & Resales	0.00	1.00	52	0.00	0.85	56	0.00	1.03	52	0.00	1.06	54	0.00	1.21	46
+  Trading Account Assets	0.00	0.00	99	0.00	0.01	98	0.00	0.00	99	0.00	0.00	99	0.00	0.00	99
+  Held-to-Maturity Securities	0.00	0.84	70	0.00	0.66	72	0.00	0.43	74	0.00	0.40	73	0.00	0.39	73
+    HTM Securities Allowance	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+  Available-for-Sale Securities	30.18	17.39	72	28.14	16.99	72	19.06	14.55	63	17.57	13.45	64	17.61	11.84	68
+  Marketable Equity Sec at FV	0.00	0.00	86	0.00	0.00	88	0.00	0.00	89	0.00	0.00	89	0.00	0.00	88
+																
+    Total Earning Assets	89.73	94.60	5	89.70	94.68	5	89.25	94.75	6	89.02	94.58	6	88.31	94.27	5
+																
+  Nonint Cash & Due From Banks	2.07	1.68	70	2.12	1.68	70	2.31	1.86	75	2.28	1.91	71	2.38	1.84	76
+  Premises, Fix Assts & Cap Leases	1.78	1.11	78	1.78	1.13	77	1.89	1.09	78	1.96	1.13	78	2.19	1.23	78
+  Other Real Estate Owned	0.00	0.01	77	0.00	0.01	79	0.00	0.03	69	0.00	0.04	69	0.00	0.07	57
+  Dir & Indir Inv RE Ventures	0.00	0.00	98	0.00	0.00	98	0.00	0.00	98	0.00	0.00	98	0.00	0.00	98
+  Inv in Unconsolidated Subs	0.00	0.01	95	0.00	0.01	96	0.00	0.01	96	0.00	0.01	96	0.00	0.01	96
+  Acceptances & Other Assets	6.43	2.32	98	6.40	2.22	98	6.55	2.01	99	6.73	2.08	98	7.12	2.24	97
+    Total Non-Earning Assets	10.27	5.40	94	10.30	5.32	94	10.75	5.25	93	10.98	5.42	93	11.69	5.75	94
+      Total Assets	100.00	100.00	99	100.00	100.00	99	100.00	100.00	99	100.00	100.00	99	100.00	100.00	92
+																
+  Standby Letters of Credit	0.35	0.13	82	0.36	0.13	81	0.39	0.13	83	0.41	0.13	83	0.44	0.15	85
+																
+  Liabilities																
+  Demand Deposits	45.43	26.24	91	45.48	26.20	92	42.11	24.90	91	40.18	24.13	90	34.00	21.70	88
+  All NOW & ATS Accounts	7.75	10.38	39	7.71	10.13	40	7.41	9.59	39	7.57	9.49	39	7.23	8.74	44
+  Money Market Deposit Accounts	10.27	15.66	31	10.66	16.13	30	11.29	16.46	32	11.91	16.47	34	12.76	15.01	41
+  Other Savings Deposits	6.87	11.75	33	7.14	10.97	39	7.14	10.14	43	7.26	9.45	44	6.64	8.44	47
+  Time Deps At or Below Insurance Limit	7.11	13.58	24	7.32	13.82	26	7.99	15.56	21	8.26	15.90	23	9.29	18.08	23
+  Less: Fully Insured Brokered Deposits	0.00	0.52	68	0.00	0.47	72	0.00	0.66	68	0.00	0.74	68	0.00	1.08	64
+    Core Deposits	77.42	81.66	25	78.31	81.74	27	75.94	79.65	28	75.18	78.81	27	69.93	75.82	24
+  Fully Insured Brokered Deposits	0.00	0.52	68	0.00	0.47	72	0.00	0.66	68	0.00	0.74	68	0.00	1.08	64
+  Time Deps Above Insurance Limit	11.60	4.21	92	10.37	4.14	91	10.96	4.47	91	11.38	4.54	91	12.40	5.25	89
+  Deposits in Foreign Offices	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+    Total Deposits	89.02	87.33	59	88.68	87.41	55	86.90	85.84	54	86.56	85.32	55	82.33	83.47	36
+																
+  Federal Funds Purch & Repos	0.00	0.14	72	0.00	0.07	82	0.00	0.06	83	0.00	0.05	85	0.02	0.09	78
+  Total Fed Home Loan Borrowings	0.15	1.25	50	0.00	1.06	54	0.00	1.41	46	0.00	1.60	46	4.03	2.19	71
+  Total Other Borrowings	0.00	0.01	88	0.00	0.02	88	0.00	0.25	80	0.00	0.35	81	0.00	0.58	75
+    Memo: Sht Ter N Core Funding	11.59	4.66	91	10.10	4.30	90	10.13	4.61	90	10.54	4.88	88	15.75	6.15	90
+																
+  Subordinated Notes & Debentures	0.00	0.00	99	0.00	0.00	99	0.00	0.00	99	0.00	0.00	99	0.00	0.00	99
+  Acceptances & Other Liabilities	0.15	0.42	16	0.14	0.41	18	0.34	0.43	48	0.37	0.45	52	0.37	0.49	42
+    Total Liabilities (Incl Mortg)	89.32	90.11	36	88.82	89.88	30	87.23	89.20	22	86.93	89.21	18	86.76	88.42	26
+																
+  Total Bank Capital & Min Int	10.68	9.89	63	11.18	10.12	69	12.77	10.80	77	13.07	10.79	81	13.24	11.58	73
+    Total Liabilities & Capital	100.00	100.00	99	100.00	100.00	99	100.00	100.00	94	100.00	100.00	93	100.00	100.00	93
+																
+  Memo: All Brokered Deposits	0.00	0.82	64	0.00	0.78	68	0.84	0.96	74	1.44	1.06	76	4.55	1.43	82
+    Insured Brokered Deposits	0.00	0.52	68	0.00	0.47	72	0.00	0.66	68	0.00	0.74	68	0.00	1.08	64
+																
+  Loans HFS as a % Loans	0.00	0.03	82	0.00	0.05	82	0.00	0.09	77	0.00	0.10	77	0.00	0.10	74
+
+
+
+FDIC Certificate # 12309			FRB District/ID_RSSD 11 / 617051			CITIZENS BANK, NATIONAL ASSOCIATION			 ABILENE, TX			Concentrations of Credit
+OCC Charter #  23834			County:  TAYLOR			Analysis of Concentrations of Credit--Page 7B 						04/15/2023 10:07:46 PM
+Public Report
+
+		12/31/2022			06/30/2022			12/31/2021			06/30/2021			12/31/2020
+Loan & Leases as a % of Tier 1 Capital Plus Allowance	BANK	PG 8	PCT	BANK	PG 8	PCT	BANK	PG 8	PCT	BANK	PG 8	PCT	BANK	PG 8	PCT
+  Real Estate Loans	458.36	407.23	61	418.43	402.06	53	457.43	401.55	63	466.53	392.66	65	488.44	406.09	66
+    Construction & Development	74.88	39.28	79	64.55	38.73	71	41.27	37.10	61	43.33	33.41	65	41.30	33.01	62
+      1-4 Family Construction	51.90	16.36	88	41.08	17.38	83	29.76	16.57	75	30.96	13.95	79	21.33	13.18	71
+      Other Const & Land Development	22.98	21.57	61	23.47	19.73	62	11.52	19.15	40	12.38	18.01	43	19.97	18.53	56
+    Secured by Farmland	25.54	18.80	69	25.79	17.52	71	24.91	18.65	69	11.81	18.80	60	10.68	17.28	59
+    1-4 Family Residential	172.24	138.68	64	146.69	130.90	61	141.28	129.42	59	137.80	124.85	60	159.79	127.72	67
+      Home Equity Loans	3.93	12.11	38	4.11	11.94	40	4.28	11.94	40	2.86	11.91	33	1.94	12.93	31
+      1-4 Family 1st Lien Loans	161.76	118.59	71	140.59	112.32	64	135.61	110.61	65	133.52	106.06	66	156.68	107.38	74
+      1-4 Family Jr Lien Loans	6.55	3.86	73	1.98	3.02	52	1.40	3.09	41	1.42	3.03	43	1.16	3.19	40
+    Multifamily	26.61	17.34	73	27.83	16.14	74	44.34	16.76	84	45.10	17.01	83	35.91	19.65	78
+    Non-Farm Non-Residential	159.10	154.62	57	153.58	160.61	55	205.63	163.96	65	228.50	159.94	71	240.77	170.65	71
+      Owner Occupied Non-Farm Non-Residential	33.63	71.48	23	40.57	75.30	31	51.86	80.83	37	58.89	74.88	41	61.18	79.50	42
+      Other Non-Farm Non-Residential	125.47	75.97	77	113.02	74.15	74	153.77	78.81	82	169.61	77.03	85	179.59	82.27	85
+    RE Loans in Foreign Offices	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+																
+  Financial Institution Loans	0.00	0.30	97	0.00	0.29	96	0.00	0.23	96	0.00	0.11	97	0.00	0.17	97
+  Agricultural Loans	7.40	8.98	68	5.92	7.45	69	14.66	9.15	74	11.94	9.63	71	16.43	8.73	75
+  Commercial & Industrial Loans	76.92	63.19	64	65.40	64.78	57	54.56	71.23	44	120.26	101.52	64	119.08	106.26	64
+  Loans to Individuals	24.26	14.14	76	24.23	13.39	76	37.58	12.90	86	31.09	12.73	82	34.39	12.32	85
+    Credit Card Loans	0.00	0.04	88	0.00	0.05	88	0.00	0.04	89	0.00	0.03	89	0.00	0.03	88
+    Auto Loans	4.60	5.62	60	4.57	5.09	64	5.35	5.10	66	5.90	4.85	69	5.85	4.47	71
+  Municipal Loans	5.74	0.57	92	6.41	0.61	93	6.90	0.70	92	7.43	0.68	93	8.00	0.71	93
+  Non-Depository and Other	0.04	0.57	48	0.12	0.55	61	0.06	0.58	54	0.03	0.70	47	0.03	0.91	48
+  Loans to Foreign Governments	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+  Lease Financing Receivables	0.00	0.04	92	0.00	0.07	92	0.00	0.11	91	0.00	0.06	91	0.00	0.09	90
+    Leases to Individuals	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+    All Other Leases	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+																
+  Supplemental:																
+  Loans to Finance Commercial Real Estate	0.00	0.18	86	0.00	0.22	85	0.00	0.17	87	0.00	0.14	87	0.00	0.19	86
+  Foreign Office Loans & Leases	0.00	0.00	99	0.00	0.00	99	0.00	0.00	99	0.00	0.00	99	0.00	0.00	99
+																
+  Commercial Real Estate Loans as a % of Tier 1 Capital Plus Allowance:																
+  Non-owner OCC Commercial Real Estate	226.96	150.31	73	205.39	150.87	70	239.38	148.52	80	258.04	142.71	82	256.79	150.11	81
+    Memo: NOO CRE 3-Year Growth Rate	26.00	47.04	40	10.59	47.19	30	28.18	36.31	54	19.00	32.45	44	13.04	28.98	40
+  Total Commercial Real Estate	260.59	230.66	58	245.96	235.39	53	291.24	235.16	63	316.93	227.85	71	317.97	240.86	67
+																
+  Commercial Real Estate Loans as a % of Total LN&LS:																
+  Construction & Development	13.07	7.56	75	12.40	7.48	74	7.23	6.96	57	6.80	6.09	59	6.20	5.84	57
+  Non-owner OCC Commercial Real Estate	39.63	28.89	72	39.46	29.16	70	41.91	28.30	77	40.49	26.16	79	38.54	26.50	76
+  Total Commercial Real Estate	45.50	44.85	52	47.25	45.99	52	50.99	45.21	59	49.73	42.01	64	47.72	42.48	59
+
+
+
+FDIC Certificate # 12309			FRB District/ID_RSSD 11 / 617051			CITIZENS BANK, NATIONAL ASSOCIATION			 ABILENE, TX			Interest Rate Risk
+OCC Charter #  23834			County:  TAYLOR			Interest Rate Risk Analysis as a Percent of Assets--Page 9 						04/15/2023 10:07:46 PM
+Public Report
+
+		12/31/2022			06/30/2022			12/31/2021			06/30/2021			12/31/2020
+Long Assets Insts w/Options	BANK	PG 8	PCT	BANK	PG 8	PCT	BANK	PG 8	PCT	BANK	PG 8	PCT	BANK	PG 8	PCT
+  Mortgage Loans & Pass Thrus	15.99	19.00	45	14.27	17.89	41	12.39	17.36	38	12.98	16.75	40	15.42	16.27	50
+    Loans & Securities Over 15 Years	5.80	4.78	64	4.35	4.60	59	3.01	4.52	51	3.48	4.14	57	3.70	3.57	60
+    Loans & Securities 5-15 Years	1.41	4.27	31	2.18	4.26	37	1.47	4.19	31	1.35	3.98	32	2.09	3.64	45
+																
+  Other Loans and Securities	73.96	62.11	80	72.85	59.97	83	61.78	57.56	60	67.43	58.80	73	67.72	59.14	75
+    Loans & Securities Over 15 Years	9.09	2.62	87	9.24	2.64	88	10.07	3.03	87	8.81	2.92	86	8.69	2.64	88
+    Loans & Securities 5-15 Years	23.52	12.22	89	23.24	12.90	85	16.39	13.30	67	15.90	12.15	68	14.83	10.99	71
+  Total Loans & Securities Over 15 Years	14.89	7.94	76	13.59	7.78	74	13.07	7.97	72	12.29	7.48	69	12.38	6.67	75
+																
+  CMO'S Total	0.00	1.11	48	0.00	1.17	47	0.00	1.20	46	0.00	0.98	47	0.00	0.99	49
+    Avg Life Over 3 Years	0.00	0.82	55	0.00	0.86	54	0.00	0.71	56	0.00	0.55	57	0.00	0.34	65
+																
+  Structured Notes	0.00	0.20	72	0.00	0.17	75	0.00	0.09	80	0.00	0.05	84	0.00	0.01	92
+  Mortgage Servicing (FV)	0.00	0.01	86	0.00	0.01	86	0.00	0.01	87	0.00	0.00	89	0.00	0.00	89
+    Total	0.00	0.26	63	0.00	0.23	65	0.00	0.15	70	0.00	0.09	75	0.00	0.03	82
+																
+  Overall Risk Indicators																
+  Available for Sale	33.33	17.78	78	34.30	17.81	78	21.97	16.01	64	18.45	14.43	62	17.54	12.25	68
+  Held to Maturity	0.00	1.04	71	0.00	0.72	72	0.00	0.46	76	0.00	0.41	73	0.00	0.38	73
+  Off Balance Sheet	7.03	12.07	27	9.16	12.77	40	8.38	11.95	37	8.20	11.89	36	7.64	11.81	33
+																
+  Unrealized Appreciation/Depreciation	0.00	-0.30	97	0.00	-0.21	97	0.00	0.00	85	0.00	0.00	81	0.00	0.01	79
+  Unrealized App/Dep % Tier 1 Cap	0.00	-2.96	97	0.00	-2.08	97	0.00	0.02	85	0.00	0.04	81	0.00	0.07	79
+																
+  Contractual Mat/Reprice Data																
+  Loans/Securities Over 3 Year	63.61	48.06	81	59.53	47.68	73	48.89	47.47	50	52.92	46.94	62	47.19	40.27	65
+  Liabilities Over 3 Year	0.00	1.17	17	0.00	1.29	20	0.00	1.77	14	0.00	2.06	14	0.00	2.06	14
+    Net Over 3 Year Position	63.61	46.17	84	59.53	45.68	77	48.89	44.99	54	52.92	44.04	68	47.19	37.52	71
+																
+  Loans/Securities Over 1 Year	74.17	64.76	69	68.07	62.26	59	60.25	61.12	46	66.39	60.91	62	68.40	60.01	72
+  Liabilities Over 1 Year	0.27	6.40	7	0.25	5.93	5	1.07	7.27	9	1.15	8.29	11	1.24	9.18	8
+    Net Over 1 Year Position	73.90	57.21	86	67.82	55.04	75	59.19	52.81	61	65.23	51.54	79	67.15	49.66	87
+																
+  Non-Maturity Deposits	66.95	67.95	42	71.36	69.32	49	70.40	67.08	52	68.10	64.81	51	65.77	61.71	54
+  Non-Maturity Deps % Long Assets	105.25	158.07	24	119.88	161.56	32	144.00	155.53	54	128.70	151.06	42	139.38	170.38	41
+    Net Over 3 Year Position	-3.34	-19.26	76	-11.83	-21.10	65	-21.51	-19.35	44	-15.19	-17.53	55	-18.58	-21.10	55
+																
+  As % Tier 1 Capital																
+  Structured Notes	0.00	1.75	72	0.00	1.54	75	0.00	0.92	80	0.00	0.52	84	0.00	0.05	92
+  Mortgage Servicing (FV)	0.00	0.10	86	0.00	0.11	86	0.00	0.09	87	0.00	0.04	89	0.00	0.05	89
+    Total	0.00	2.22	63	0.00	2.08	65	0.00	1.40	70	0.00	0.82	75	0.00	0.28	82
+
+
+
+FDIC Certificate # 12309			FRB District/ID_RSSD 11 / 617051			CITIZENS BANK, NATIONAL ASSOCIATION			 ABILENE, TX			Liquidity & Funding
+OCC Charter #  23834			County:  TAYLOR			Liquidity & Funding--Page 10 						04/15/2023 10:07:46 PM
+Public Report
+
+		12/31/2022			06/30/2022			12/31/2021			06/30/2021			12/31/2020
+Percent of Total Deposits	BANK	PG 8	PCT	BANK	PG 8	PCT	BANK	PG 8	PCT	BANK	PG 8	PCT	BANK	PG 8	PCT
+  Individ, Partnerships, and Corp.	87.08	90.63	28	86.02	90.95	27	87.71	90.29	33	86.92	91.22	27	86.17	90.04	30
+  U.S. Govt, States & Political Sub in U.S.	12.78	6.36	78	13.88	5.94	81	12.21	6.23	76	12.78	5.55	82	13.65	5.98	81
+  Comml Banks & Other Dep Inst. in U.S.	0.14	1.13	65	0.10	1.45	60	0.08	1.63	59	0.30	1.63	63	0.18	2.09	58
+  Banks in Foreign Countries	0.00	0.42	99	0.00	0.40	99	0.00	0.39	99	0.00	0.37	99	0.00	0.37	99
+  Foreign Govts and Official Inst.	0.00	0.00	99	0.00	0.00	99	0.00	0.00	99	0.00	0.00	99	0.00	0.00	99
+    Total deposits	100.00	100.00	92	100.00	100.00	94	100.00	100.00	92	100.00	100.00	94	100.00	100.00	94
+																
+  Domestic Demand Deposits	50.82	30.06	92	50.29	30.41	90	52.15	29.34	94	49.26	28.87	91	41.75	27.55	87
+  Domestic Other Transaction Accts	8.68	11.56	40	8.75	11.20	42	7.96	11.65	37	8.61	11.19	38	8.72	10.68	42
+  Domestic Nontransaction Accts	40.50	56.39	11	40.96	56.37	14	39.89	57.18	10	42.13	58.11	11	49.53	59.69	23
+  Total Domestic Deposits	100.00	100.00	99	100.00	100.00	99	100.00	100.00	99	100.00	100.00	99	100.00	100.00	99
+  Deposits in Foreign Offices	0.00	0.00	99	0.00	0.00	99	0.00	0.00	99	0.00	0.00	99	0.00	0.00	99
+    Total Deposits	100.00	100.00	99	100.00	100.00	99	100.00	100.00	99	100.00	100.00	99	100.00	100.00	99
+																
+  Liquidity/Funding Ratios																
+  Net Non Core Fund Dep $250M	15.47	-5.35	86	5.78	-11.54	82	-10.12	-15.19	50	0.25	-12.55	71	5.09	-9.55	75
+  Core Deposits	73.57	80.40	22	78.74	82.29	29	77.76	80.88	29	75.74	79.57	27	74.61	77.10	31
+  Short Term Non Core Funding	16.05	5.57	90	10.71	4.40	88	9.38	4.30	87	9.99	4.64	86	10.95	5.50	84
+  S.T Inv to S.T. Ncore Fund	15.95	572.55	8	55.03	697.70	9	186.34	772.94	22	106.33	735.15	18	70.23	615.75	10
+  S.T. Asset to S.T. Liabilities	67.00	267.17	13	105.94	286.88	20	175.68	291.44	37	135.82	277.84	29	109.46	248.91	23
+  Net S.T. Liabilities to Assets	7.39	-9.95	86	-1.06	-13.11	79	-12.45	-15.84	56	-6.20	-14.69	69	-1.84	-12.93	77
+  Net Loans & Leases to Deposits	62.70	70.03	38	57.99	66.21	36	58.39	65.83	38	70.52	69.07	49	74.78	73.84	49
+  Net LN&LS to Core Deposits	75.73	77.04	49	65.87	71.57	45	66.02	71.61	40	80.59	75.54	56	86.62	82.13	55
+  Brkr Dep Mat < 1 Yr to Brkr Deps	100.00	32.56	98	100.00	30.60	98	100.00	29.87	98	100.00	29.09	98	100.00	38.27	98
+  Brokered Deposits to Deposits	0.00	1.11	67	0.00	0.96	71	0.00	0.99	69	0.00	1.22	68	5.14	1.48	84
+  Listing Service Dep to Deposits	0.00	0.71	70	0.00	0.96	68	0.00	0.92	68	0.00	1.10	65	0.00	1.46	63
+  List Service and Brkrd Dep to Deps	0.00	2.29	56	0.00	2.36	57	0.00	2.42	56	0.00	2.83	52	5.14	3.45	71
+  Sec Bor + sec FFP to Tot Bor + FFP	0.00	1.44	86	N/A	1.64	N/A	N/A	4.15	N/A	N/A	8.08	N/A	N/A	12.68	N/A
+  Recip Brkrd Dep to Tot Brkrd Dep	0.00	1.53	89	0.00	0.17	88	0.00	1.79	87	0.00	3.73	87	0.00	2.37	88
+																
+Total Deposits
+  Individ, Partnerships, and Corp.		101,477			95,885			102,153			93,470			87,136
+  U.S. Govt, States & Political Sub in U.S.		14,891			15,475			14,222			13,744			13,808
+  Comml Banks & Other Dep Inst. in U.S.		167			106			92			319			178
+  Banks in Foreign Countries		0			0			0			0			0
+  Foreign Govts and Official Inst.		0			0			0			0			0
+    Total Deposits		116,535			111,466			116,467			107,533			101,122
+						
+  Domestic Demand Deposits		59,223			56,061			60,739			52,971			42,218
+  Domestic Other Transaction Accts		10,111			9,748			9,274			9,257			8,819
+  Domestic Nontransaction Accts		47,201			45,657			46,454			45,305			50,085
+  Total Domestic Deposits		116,535			111,466			116,467			107,533			101,122
+  Deposits in Foreign Offices		N/A			N/A			N/A			N/A			N/A
+    Total Deposits		116,535			111,466			116,467			107,533			101,122
+						
+  Other Liquidity/Funding Data						
+  Non Core Liabilities $250M		21,050			13,341			13,465			13,441			13,821
+  Short Term Non Core Funding		21,050			13,341			12,425			12,408			12,807
+  Core Deposits		96,484			98,125			103,002			94,092			87,301
+  Time Deps $250M & Under Mat < 1 Yr		8,336			8,887			9,373			9,087			9,907
+  Time Deps $250M & Under Mat > 1 Yr		352			312			374			401			440
+  Time Deps over $250M Mat < 1 Yr		20,049			13,340			12,424			12,407			12,807
+  Time Deps over $250M Mat > 1 Yr		0			0			1,040			1,033			1,014
+  Fed Home Loan Bor Mat < 1 Yr		1,000			0			0			0			0
+  Fed Home Loan Bor Mat > 1 Yr		0			0			0			0			0
+  Other Borrowing Mat < 1 Year		0			0			0			0			0
+  Other Borrowing Mat > 1 Year		0			0			0			0			0
+  Secured Other Borrowings		0			0			0			0			0
+  Federal Funds Purchased		0			0			0			0			0
+  Secured Fed Funds Purchased		0			0			0			0			0
+  Listing Service Deposits		0			0			0			0			0
+  Brokered Deposits		1			1			1			1			5,196
+  Reciprocal Brokered Deposits		0			0			0			0			0
+
+
+
+FDIC Certificate # 12309			FRB District/ID_RSSD 11 / 617051			CITIZENS BANK, NATIONAL ASSOCIATION			 ABILENE, TX			Liquidity & Inv Portfolio
+OCC Charter #  23834			County:  TAYLOR			Liquidity & Investment Portfolio--Page 10A 						04/15/2023 10:07:46 PM
+Public Report
+
+		12/31/2022			06/30/2022			12/31/2021			06/30/2021			12/31/2020
+Percent of Total Assets	BANK	PG 8	PCT	BANK	PG 8	PCT	BANK	PG 8	PCT	BANK	PG 8	PCT	BANK	PG 8	PCT
+  Short Term Investments	2.56	12.01	14	5.89	14.96	22	17.48	17.88	55	10.62	16.87	31	7.69	16.79	17
+  Marketable Equity Sec (MES)	0.00	0.00	89	0.00	0.00	88	0.00	0.00	89	0.00	0.00	89	0.00	0.00	89
+  Net LN&LS & SBLC to Assets	56.07	60.46	40	52.24	57.92	37	51.69	57.04	37	61.41	59.21	51	65.07	61.88	53
+  Pledged Assets	70.23	23.26	96	64.78	21.56	95	64.59	21.43	96	73.75	20.19	98	78.85	21.92	99
+																
+  Securities Mix																
+  % Total Securities																
+    US Treas & Govt Agencies	0.00	32.33	14	0.00	31.38	14	0.00	22.53	24	0.00	19.54	27	0.00	14.63	36
+    Municipal Securities	100.00	22.01	99	100.00	21.61	99	100.00	25.98	99	100.00	26.91	99	100.00	29.66	99
+    Pass-Through Mtg Backed Secs	0.00	18.09	22	0.00	18.50	23	0.00	21.84	22	0.00	22.92	23	0.00	23.72	23
+    CMO & REMIC Mtg Backed Secs	0.00	3.59	47	0.00	4.10	46	0.00	4.66	44	0.00	4.35	45	0.00	5.96	45
+    Commercial Mtg Back Secs	0.00	1.40	68	0.00	1.40	69	0.00	1.66	69	0.00	1.52	70	0.00	1.28	72
+    Asset Backed Securities	0.00	0.03	92	0.00	0.04	91	0.00	0.02	92	0.00	0.04	93	0.00	0.03	93
+    Structured Financial Products	0.00	0.03	92	0.00	0.00	99	0.00	0.01	99	0.00	0.01	99	0.00	0.03	99
+    Other Domestic Debt Secs	0.00	1.86	72	0.00	2.04	73	0.00	2.09	75	0.00	2.11	74	0.00	1.73	74
+    Foreign Debt Securities	0.00	0.20	96	0.00	0.22	95	0.00	0.12	97	0.00	0.13	97	0.00	0.17	96
+    Inv Mut Fnd & Oth Mktbl	0.00	0.01	88	0.00	0.01	88	0.00	0.01	89	0.00	0.01	88	0.00	0.01	88
+      Total	100.00	100.00	99	100.00	100.00	99	100.00	100.00	99	100.00	100.00	99	100.00	100.00	99
+																
+  Liquidity/Securities Ratios:																
+  App (Dep) Hi Risk & Struc/T1 Cap	0.00	-0.77	98	0.00	-0.59	99	0.00	-0.09	98	0.00	-0.02	95	0.00	0.00	95
+  App (Dep) in AFS sec to AFS Sec	-5.21	-8.97	78	-5.85	-7.50	67	2.85	0.02	94	4.54	1.09	95	6.46	2.30	97
+  App (Dep) in HTM Sec to HTM Sec	N/A	-5.41	N/A	N/A	-4.36	N/A	N/A	0.94	N/A	N/A	1.34	N/A	N/A	1.93	N/A
+  App (Dep) in HTM Sec to Eqy Cap	0.00	-3.72	97	0.00	-2.36	97	0.00	0.02	85	0.00	0.04	81	0.00	0.07	79
+  Pledged Securities to Tot Sec	40.83	24.01	71	34.87	21.64	68	56.41	23.81	80	63.91	23.82	83	75.49	28.33	87
+  Pledged Loans to Total Loans	100.00	24.75	99	100.00	24.66	99	100.00	23.98	99	100.00	23.51	99	100.00	25.33	99
+  Loans Held for Sale to Total Loans	0.00	0.02	89	0.00	0.05	86	0.00	0.03	87	0.00	0.07	82	0.00	0.10	81
+																
+Short Term Investments		3,358			7,341			23,153			13,193			8,994
+Short Term Assets		19,687			23,547			38,294			29,194			24,862
+Debt Securities 90+ Days P/D		0			0			0			0			0
+Total Non-Current Debt Sec		0			0			0			0			0
+Fair Value Structured Notes		0			0			0			0			0
+Pledged Securities		17,846			14,904			16,417			14,648			15,495
+Pledged Loans & Leases		74,259			65,825			69,142			76,971			76,759
+Loans Held for Sale		0			0			0			0			0
+
+
+
+FDIC Certificate # 12309			FRB District/ID_RSSD 11 / 617051			CITIZENS BANK, NATIONAL ASSOCIATION			 ABILENE, TX			Capital Analysis-a
+OCC Charter #  23834			County:  TAYLOR			Capital Analysis--Page 11 						04/15/2023 10:07:46 PM
+Public Report
+
+		12/31/2022			06/30/2022			12/31/2021			06/30/2021			12/31/2020
+Capital Ratios	BANK	PG 8	PCT	BANK	PG 8	PCT	BANK	PG 8	PCT	BANK	PG 8	PCT	BANK	PG 8	PCT
+  Percent of Bank Equity:																
+    Net Loans & Leases (x)	5.42	6.77	35	5.01	6.42	31	4.28	5.45	29	4.73	5.64	35	4.81	5.74	37
+    Subord Notes & Debentures	0.00	0.00	99	0.00	0.00	99	0.00	0.00	99	0.00	0.00	99	0.00	0.00	99
+    Com RE & Related Ventures	225.16	269.13	43	213.84	267.95	39	188.31	223.63	44	204.78	213.58	51	206.62	220.01	48
+  Percent of Average Bank Equity:																
+    Net Income	14.84	11.73	72	12.30	9.67	70	14.25	10.47	75	12.40	10.94	63	17.07	9.40	89
+    Dividends	9.00	4.10	80	5.52	3.21	71	10.54	3.93	87	5.33	3.53	67	13.97	3.58	94
+    Retained Earnings	5.85	7.04	42	6.78	5.87	56	3.71	6.19	31	7.08	6.75	52	3.10	5.36	28
+  Other Capital Ratios:																
+    Dividends to Net Operating Income	60.62	31.47	77	44.89	27.99	66	73.96	33.11	86	42.94	28.49	62	81.85	34.09	86
+    Bank Eq Cap + Min Int to Assets	10.27	9.68	59	10.35	9.56	63	11.98	10.70	72	12.91	10.79	79	13.44	11.15	78
+  Growth Rates:																
+    Total Equity Capital	-15.11	-9.59	33	-19.54	-8.47	27	0.93	6.60	28	3.29	6.81	37	6.98	8.73	42
+    Equity Growth Less Asst Growth	-14.11	-12.68	40	-19.86	-14.83	35	-12.27	-3.73	25	-2.02	-2.83	56	-2.19	-10.69	76
+  Intang Assets % Bank Equity																
+    Mortgage Servicing Rights	0.00	0.09	86	0.00	0.09	86	0.00	0.06	87	0.00	0.04	89	0.00	0.04	89
+    Goodwill	30.43	0.53	98	31.78	0.66	98	25.83	0.62	98	25.57	0.48	97	26.07	0.47	98
+    Purch Credit Card Relations	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+    All Other Intangibles	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+    Total Intangibles	30.43	1.16	98	31.78	1.28	98	25.83	1.17	98	25.57	0.97	97	26.07	1.05	97
+																
+  Leverage Ratio	9.3562	11.26	26	9.2738	10.85	31	8.6322	10.55	17	9.1079	10.55	28	9.0189	10.80	25
+																
+  Standardized Capital Ratios																
+    Com Equity Tier 1 Cap Ratio	12.5590	16.94	20	12.9920	16.89	24	N/A	16.84	N/A	N/A	17.16	N/A	N/A	16.97	N/A
+    Tier 1 Capital Ratio	12.5590	16.98	20	12.9920	16.93	24	N/A	16.89	N/A	N/A	17.21	N/A	N/A	17.02	N/A
+    Total Capital Ratio	13.8088	18.06	20	14.2428	18.02	26	N/A	18.00	N/A	N/A	18.34	N/A	N/A	18.15	N/A
+																
+  Adv App Cap Ratios																
+    Com Equity Tier 1 Cap Ratio	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+    Tier 1 Capital Ratio	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+    Total Capital Ratio	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+																
+End of Period Capital ($000)						
+  Perpetual Preferred		0			0			0			0			0
+   + Common Stock		200			200			200			200			200
+   + Surplus		10,882			10,882			10,882			10,882			10,882
+   + Retained Earnings		4,796			4,475			3,984			3,955			3,397
+   + Accum Other Comp Income		-2,404			-2,657			806			996			1,246
+   + Other Equity Capital Comp		0			0			0			0			0
+    Total Bank Equity Capital		13,474			12,900			15,872			16,033			15,725
+      Minority Interest Cons Subs		0			0			0			0			0
+    Total Bank Capital & Min Int		13,474			12,900			15,872			16,033			15,725
+						
+Subordinated Notes & Debentures		0			0			0			0			0
+						
+Changes in Bank Equity ($000)						
+  Balance at Beginning of Period		15,872			15,872			15,725			15,725			14,699
+   + Net Income		2,062			891			2,258			978			2,578
+   + Sales or Purchase of Capital		0			0			0			0			0
+   + Merger & Absorptions		0			0			0			0			0
+   + Restate due to Acctg Error&Chg		0			0			0			0			0
+   + Trans with Parent		0			0			0			0			0
+   - Dividends		1,250			400			1,670			420			2,110
+   + Other Comprehensive Income		-3,210			-3,463			-441			-250			558
+    Balance at End of Period		13,474			12,900			15,872			16,033			15,725
+						
+Intangible Assets						
+  Mortgage Servicing Rights		0			0			0			0			0
+   + Purch Credit Card Relations.		N/A			N/A			N/A			N/A			N/A
+   + Other Intangibles		N/A			N/A			N/A			N/A			N/A
+   + Goodwill		4,100			4,100			4,100			4,100			4,100
+    Total Intangibles		4,100			4,100			4,100			4,100			4,100
+						
+Total Assets for Leverage Ratio:						
+  Average Total Consolidated Assets		129,985			127,642			131,136			124,183			119,180
+  Less: Ded from CET1 Cap & add T1C		4,100			4,100			4,100			4,100			4,100
+  Less: Other Deductions		0			0			0			0			0
+  Total Assets for Leverage Ratio		125,885			123,542			127,036			120,083			115,080
+
+
+
+FDIC Certificate # 12309			FRB District/ID_RSSD 11 / 617051			CITIZENS BANK, NATIONAL ASSOCIATION			 ABILENE, TX			Capital Analysis-b
+OCC Charter #  23834			County:  TAYLOR			Capital Analysis--Page 11A 						04/15/2023 10:07:46 PM
+Public Report
+
+		12/31/2022			06/30/2022			12/31/2021			06/30/2021			12/31/2020
+Capital Analysis ($000)
+  Common Equity Tier 1 Capital: ($000)						
+  Common Stock Plus Related Surplus		11,082			11,082			11,082			11,082			11,082
+  Retained Earnings		4,796			4,475			3,984			3,955			3,397
+  Accum Other Comprehensive Inc (AOCI)		-2,404			-2,657			806			996			1,246
+  Common Equity T1 Minority Interest		0			0			0			0			0
+  Common Equity T1 Cap Before Adj/Ded		13,474			12,900			15,872			16,033			15,725
+						
+  Common Equity Tier 1 Capital: Adj/Ded						
+    Less: Goodwill		4,100			4,100			4,100			4,100			4,100
+    Less: Intangible Assets		0			0			0			0			0
+    Less: DTA (NOL & Tax Credit Only)		0			0			0			0			0
+    AOCI-Related Adjustments-Opt Out		-2,404			-2,657			806			996			1,246
+    AOCI-Related Adjustments-No Opt Out		N/A			N/A			N/A			N/A			N/A
+    Oth Ded (add) CET1 bef threshold ded		0			0			0			0			0
+    Less: Non-significant Investments		N/A			N/A			N/A			N/A			N/A
+  Subtotal before Threshold Limits		11,778			11,457			10,966			10,937			10,379
+    Less: Sig Inv, MSAs, DTA > 10% Limit		N/A			N/A			N/A			N/A			N/A
+    Less: Sig Inv, MSAs, DTA > 15% Limit		N/A			N/A			N/A			N/A			N/A
+      Less: Tot Sig Inv, MSAs, DTA  > Limit		0			0			0			0			0
+    Less: Ded due to insuff T1 and T2 Cap		0			0			0			0			0
+    Total Adj and Ded for CET1 Capital		0			0			0			0			0
+  Common Equity Tier 1 Capital		11,778			11,457			10,966			10,937			10,379
+						
+  Additional Tier 1 Capital:						
+    Additional T1C Inst & Related Surplus		0			0			0			0			0
+    Non-qualifying Cap Inst sub to phaseout		0			0			0			0			0
+    Tier 1 Minority Int Not Incl in CET1 Cap		0			0			0			0			0
+    Additional T1 Cap Before Deductions		0			0			0			0			0
+    Less: Additional T1 Cap Deductions		0			0			0			0			0
+  Additional Tier 1 Capital		0			0			0			0			0
+						
+  Tier 1 Capital		11,778			11,457			10,966			10,937			10,379
+						
+  Tier 2 Capital:						
+    T2 Cap Instruments & Related Surplus		0			0			N/A			N/A			N/A
+    Non-qualifying Capital Instruments		0			0			N/A			N/A			N/A
+    Tot Cap Min Int Not Incl in T1 Cap		0			0			N/A			N/A			N/A
+    ALLL in Tier 2 Capital		1,172			1,103			N/A			N/A			N/A
+    Exited Adv App Eligible Cr Reserves		N/A			N/A			N/A			N/A			N/A
+    Unrealized Gains on AFS Pref Stock		N/A			N/A			N/A			N/A			N/A
+  Tier 2 Capital Before Deductions		1,172			1,103			N/A			N/A			N/A
+  Exited Adv App T2C Before Deductions		N/A			N/A			N/A			N/A			N/A
+  Less: Tier 2 Capital Deductions		0			0			N/A			N/A			N/A
+						
+  Tier 2 Capital - Standardized Approaches		1,172			1,103			N/A			N/A			N/A
+  Tier 2 Capital - Advanced Approaches		N/A			N/A			N/A			N/A			N/A
+  Total Capital - Standardized Approaches		12,950			12,560			N/A			N/A			N/A
+  Total Capital - Advanced Approaches		N/A			N/A			N/A			N/A			N/A
+
+
+
+FDIC Certificate # 12309			FRB District/ID_RSSD 11 / 617051			CITIZENS BANK, NATIONAL ASSOCIATION			 ABILENE, TX			Capital Analysis-c
+OCC Charter #  23834			County:  TAYLOR			Capital Analysis--Page 11B 						04/15/2023 10:07:46 PM
+Public Report
+
+		12/31/2022			06/30/2022			12/31/2021			06/30/2021			12/31/2020
+Risk Weighted Assets
+  On BS Assets and Securitization Exp						
+    2% Category		0			0			N/A			N/A			N/A
+    4% Category		0			0			N/A			N/A			N/A
+    20% Category		440			1,053			N/A			N/A			N/A
+    50% Category		35,523			33,607			N/A			N/A			N/A
+    100% Category		56,228			50,722			N/A			N/A			N/A
+    150% Category		0			0			N/A			N/A			N/A
+    250% Category		0			0			N/A			N/A			N/A
+    300% Category		0			0			N/A			N/A			N/A
+    400% Category		0			0			N/A			N/A			N/A
+    600% Category		0			0			N/A			N/A			N/A
+    1250% Category		0			0			N/A			N/A			N/A
+  Other Risk-Weighting App Categories		0			0			N/A			N/A			N/A
+  Tot RWA Securitization Exp SSFA Mthd		0			0			N/A			N/A			N/A
+  Total RWA Securitization Exp Gross-Up		0			0			N/A			N/A			N/A
+  On-Balance Sheet Risk Weighted Assets		92,191			85,382			N/A			N/A			N/A
+  Memo - 0% Category - $		1,159			1,162			N/A			N/A			N/A
+						
+  Off BS/Oth Items Subj to Risk Weighting						
+    2% Category		0			0			N/A			N/A			N/A
+    4% Category		0			0			N/A			N/A			N/A
+    10% Category		0			0			N/A			N/A			N/A
+    20% Category		0			0			N/A			N/A			N/A
+    50% Category		0			0			N/A			N/A			N/A
+    100% Category		1,606			2,889			N/A			N/A			N/A
+    150% Category		0			0			N/A			N/A			N/A
+    625% Category		0			0			N/A			N/A			N/A
+    937.5% Category		0			0			N/A			N/A			N/A
+    1250% Category		0			0			N/A			N/A			N/A
+    1250% Category Securitization Exp		0			0			N/A			N/A			N/A
+  Oth Risk-Weighting App Categories		0			0			N/A			N/A			N/A
+  Tot RWA Securitization Exp SSFA Mthd		0			0			N/A			N/A			N/A
+  Total RWA Securitization Exp Gross-Up		0			0			N/A			N/A			N/A
+  Tot Deriv, Off-BS and Oth - Risk Wght		1,606			2,889			N/A			N/A			N/A
+  Memo - 0% Category - $		0			0			N/A			N/A			N/A
+						
+  Standardized Market Risk Weighted Assets		0			0			N/A			N/A			N/A
+						
+  Risk-Weighted Asset Before Ded		93,797			88,271			N/A			N/A			N/A
+   - Excess Allowable LN&LS Loss		16			86			N/A			N/A			N/A
+   - Allocated Transfer Risk Reserve		0			0			N/A			N/A			N/A
+  Total Risk Weighted Assets		93,781			88,185			N/A			N/A			N/A
+						
+  Current Credit Exposure All Derivatives		0			0			N/A			N/A			N/A
+						
+  Derivatives Notional Prin Amounts						
+  OTC Contracts Total		0			0			N/A			N/A			N/A
+    Interest Rate		0			0			N/A			N/A			N/A
+    All Other		0			0			N/A			N/A			N/A
+  Centrally Clreared Contracts Total		0			0			N/A			N/A			N/A
+    Interest Rate		0			0			N/A			N/A			N/A
+    All Other		0			0			N/A			N/A			N/A
+
+
+
+FDIC Certificate # 12309			FRB District/ID_RSSD 11 / 617051			CITIZENS BANK, NATIONAL ASSOCIATION			 ABILENE, TX			Capital Analysis-d
+OCC Charter #  23834			County:  TAYLOR			Capital Analysis--Page 11C 						04/15/2023 10:07:46 PM
+Public Report
+
+		12/31/2022			06/30/2022			12/31/2021			06/30/2021			12/31/2020
+Risk Based Capital ($000)
+  Tier 1 Capital						
+    Total Equity Capital Adjusted		N/A			N/A			N/A			N/A			N/A
+   - Ineligible Def Tax Assets		0			0			0			0			0
+   - Ineligible Intangibles		4,100			4,100			4,100			4,100			4,100
+   - Cumul Change F.V. Financial Liab		N/A			N/A			N/A			N/A			N/A
+    Net Tier 1		11,778			11,457			10,966			10,937			10,379
+						
+  Tier 2 Capital						
+   + Qualif Debt and Redeem Pfd		N/A			N/A			N/A			N/A			N/A
+   + Cumulative Preferred Stock		N/A			N/A			N/A			N/A			N/A
+   + Allowable LN&LS Loss Allow		1,172			1,103			N/A			N/A			N/A
+   + Unrl Gain Mktbl Eqy Sec (45%)		N/A			N/A			N/A			N/A			N/A
+   + Other Tier 2 Capital Comp		N/A			N/A			N/A			N/A			N/A
+    Net Eligible Tier 2		1,172			1,103			N/A			N/A			N/A
+						
+  Total RBC Before Deductions						
+    Tier 1 & Tier 2		12,950			12,560			N/A			N/A			N/A
+    Tier 3 & Fin Sub Adj		N/A			N/A			N/A			N/A			N/A
+   - Deductions for Total RBC		N/A			N/A			N/A			N/A			N/A
+    Total Risk-Based-Capital		12,950			12,560			N/A			N/A			N/A
+						
+  Risk-Weighted Assets						
+  On-Balance Sheet						
+    Category Two - 20%		440			1,053			N/A			N/A			N/A
+    Category Three - 50%		35,523			33,607			N/A			N/A			N/A
+    Category Four - 100%		56,228			50,722			N/A			N/A			N/A
+      Total On-Balance Sheet		92,191			85,382			N/A			N/A			N/A
+    Memo: Category One - 0%		1,159			1,162			N/A			N/A			N/A
+						
+  Off-Balance Sheet						
+    Category Two - 20%		0			0			N/A			N/A			N/A
+    Category Three - 50%		0			0			N/A			N/A			N/A
+    Category Four - 100%		1,606			2,889			N/A			N/A			N/A
+      Total Off-Balance Sheet		1,606			2,889			N/A			N/A			N/A
+    Memo: Category One - 0%		0			0			N/A			N/A			N/A
+						
+  Adjustments to Risk-Wgt Assets						
+  Risk-Weighted Asset Before Ded		93,797			88,271			N/A			N/A			N/A
+     - Excess Allowable LN&LS Loss Al		16			86			N/A			N/A			N/A
+     - Allocated Transfer Risk Reserve		0			0			N/A			N/A			N/A
+   + Mkt Risk Asset & Fin Sub Adj		N/A			N/A			N/A			N/A			N/A
+    Total Risk-Weighted Assets		93,781			88,185			N/A			N/A			N/A

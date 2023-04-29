@@ -1,0 +1,354 @@
+---
+title: "Untitled"
+author: "xyz`"
+date: "2023-04-16"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Dependency Loading:
+
+```{r}
+library(readxl)
+library(tidyr)
+library(tidyverse)
+library(dplyr)
+```
+
+
+###Data Transformation Functions:
+
+```{r}
+transformations_on_excel <- function(data, bank_flag){
+  df <- data.frame(data)
+
+  df_t <- data.frame(t(df))
+  colnames(df_t) <- df_t[1, ]
+  df_t <- df_t[-1, ]
+
+  df_t <- cbind(Date = rownames(df_t), df_t)
+  rownames(df_t) <- 1:nrow(df_t)
+  
+  date_str <- df_t$Date[[1]]
+  date_str_f2 <- substr(date_str, 1, 2)
+  
+  if (date_str_f2 == "X4"){
+    dates <- as.numeric(substr(df_t$Date, 2, 6))
+    Dates <- as.Date(dates, origin = '1899-12-30')
+    df_t$Date <- Dates
+  } else{
+    dates <- sapply(df_t$Date, substr, start = 1, stop = 11)
+    dates <- data.frame(dates)
+    dates$Dates <- as.Date(sub("X", "", dates$dates), format = "%m.%d.%Y")
+    df_t$Date <- dates$Dates
+  }
+  
+  
+  df_t <- df_t[ , !names(df_t) %in% NA]
+  df_t_filtered <- df_t %>% select(-starts_with('NA'))
+  
+  if(bank_flag==1){
+    df_t_filtered <- df_t_filtered[seq(from = 1, to = nrow(df_t_filtered), by = 3),]
+  } else if(bank_flag==2){
+    df_t_filtered <- df_t_filtered[seq(from = 1, to = nrow(df_t_filtered), by = 1),]
+  } else if(bank_flag==0){
+    df_t_filtered <- df_t_filtered[seq(from = 2, to = nrow(df_t_filtered), by = 3),]
+  }
+  return(df_t_filtered)
+}
+```
+
+
+###Data Loading:
+
+```{r}
+aggregate_bank_reports <- function(bank_flag, pg_flag, sheet){
+  parentdir <- dirname(normalizePath(file.path(getwd(),'.')))
+  cur<-file.path(parentdir,'Data')
+  
+  bank1 <- read_excel(file.path(cur,'Silicon_Valley_bank.xlsx'), sheet=sheet)
+  bank2 <- read_excel(file.path(cur,'Citizens_bank.xlsx'), sheet=sheet)
+  bank3 <- read_excel(file.path(cur,'HSBC_bank.xlsx'), sheet=sheet)
+  bank4 <- read_excel(file.path(cur,'Morgan_Stanley_bank.xlsx'), sheet=sheet)
+  bank5 <- read_excel(file.path(cur,'First_Republic_bank.xlsx'), sheet=sheet)
+  
+  bank1_df <- transformations_on_excel(bank1, bank_flag)
+  names(bank1_df)[2] <- "Bank"
+  bank1_df$Bank <- "Silicon Valley Bank"
+  bank2_df <- transformations_on_excel(bank2, bank_flag)
+  names(bank2_df)[2] <- "Bank"
+  bank2_df$Bank <- "Citizens Bank, National Association"
+  bank3_df <- transformations_on_excel(bank3, bank_flag)
+  names(bank3_df)[2] <- "Bank"
+  bank3_df$Bank <- "HSBC Bank USA, National Association"
+  bank4_df <- transformations_on_excel(bank4, bank_flag)
+  names(bank4_df)[2] <- "Bank"
+  bank4_df$Bank <- "Morgan Stanley Private Bank, National Association"
+  bank5_df <- transformations_on_excel(bank5, bank_flag)
+  names(bank5_df)[2] <- "Bank"
+  bank5_df$Bank <- "First Republic Bank"
+  
+  if (pg_flag == 1){
+    pg_df <- transformations_on_excel(bank3, 0)
+    names(pg_df)[2] <- "Bank"
+    pg_df$Bank <- "Relative Peer Group"
+    final_bank_df <- rbind(bank1_df, bank2_df, bank3_df, bank4_df, bank5_df, pg_df)
+  } else{
+    final_bank_df <- rbind(bank1_df, bank2_df, bank3_df, bank4_df, bank5_df)
+  }
+  
+  rownames(final_bank_df) <- 1:nrow(final_bank_df)
+  return(final_bank_df)
+}
+```
+
+
+```{r}
+SR_data <- aggregate_bank_reports(1, 1, "Summary Ratios")
+AYFC_data <- aggregate_bank_reports(1, 1, "Asset Yields and Funding Costs")
+BSP_data <- aggregate_bank_reports(1, 1, "Balance Sheet Percentage")
+IRR_data <- aggregate_bank_reports(1, 1, "Interest Rate Risk")
+LF_data <- aggregate_bank_reports(1, 1, "Liquidity and Funding")
+LF_tot_data <- aggregate_bank_reports(2, 0, "Liquidity and Funding - Totals")
+LI_data <- aggregate_bank_reports(1, 1, "Liquidity & Investment")
+LI_tot_data <- aggregate_bank_reports(2, 0, "Liquidity & Investment - Totals")
+CAD_data <- aggregate_bank_reports(2, 0, "Capital Analysis D")
+
+CAD_data <- CAD_data[-11,]
+rownames(CAD_data) <- 1:nrow(CAD_data)
+```
+
+
+###Visualizations:
+
+
+1) Change in Assets and Tier 1 Capital for all competitor Banks over time:
+
+```{r}
+
+SR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Total Assets`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) +
+             labs(title = "The Annual Change in Total Assets",
+                  y = "Change in Assets in %",
+                  x = "Date") + 
+             guides(size = FALSE) +
+             theme_classic()
+
+
+SR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Tier 1 Capital`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) +
+             labs(title = "The Change in Tier 1 Capital",
+                  y = "Change in Tier 1 Capital in %",
+                  x = "Date") + 
+             guides(size = FALSE) +
+             theme_classic()
+
+```
+
+
+
+
+2) Customer deposits to Silicon Valley Bank over time:
+
+```{r}
+
+LF_tot_data %>%  ggplot(aes(x = `Date`,y = as.numeric(`Total Deposits.1`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) + 
+             labs(title = "Total deposits by Customers",
+                  y = "Deposits",
+                  x = "Date") +  
+             guides(size = FALSE) +
+             scale_y_continuous(labels = scales::comma) +
+             theme_classic()
+  
+```
+
+
+
+3) Division of Capital of Banks into different Asset categories:
+
+```{r}
+
+AYFC_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Total Investment Securities`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) + 
+             labs(title = "Total Securities held by Banks", 
+                  subtitle = "divided by total assets of the Bank",
+                  y = "Total Securities in %",
+                  x = "Date") +  
+             guides(size = FALSE) +
+             theme_classic()
+
+AYFC_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Total Loan & Leases`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) + 
+             labs(title = "Total Loans & Leases given out by Banks", 
+                  subtitle = "divided by total assets of the Bank",
+                  y = "Total Loans & Leases in %",
+                  x = "Date") +  
+             guides(size = FALSE) +
+             theme_classic()
+
+AYFC_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Interest-Bearing Bank Balances`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) + 
+             labs(title = "Total Interest-Bearing Bank Balances", 
+                  subtitle = "divided by total assets of the Bank",
+                  y = "Total Interest-Bearing Bank Balances in %",
+                  x = "Date") +  
+             guides(size = FALSE) +
+             theme_classic()
+
+
+```
+
+
+
+4) SVB clearly has an overexposure to Securities:
+
+```{r}
+
+IRR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Held to Maturity`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) + 
+             labs(title = "Total Held-to-Maturity Securities", 
+                  subtitle = "divided by total assets of the Bank",
+                  y = "Held-to-Maturity Securities in %",
+                  x = "Date") +  
+             guides(size = FALSE) +
+             theme_classic()
+
+IRR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Available for Sale`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) + 
+             labs(title = "Total Available for Sale Securities", 
+                  subtitle = "divided by total assets of the Bank",
+                  y = "Available for Sale Securities in %",
+                  x = "Date") +  
+             guides(size = FALSE) +
+             theme_classic()
+
+```
+
+
+
+5) Among Held-to-Maturity Securities, they are overexposed to:
+
+```{r}
+
+LI_data %>% filter(Bank != "First Republic Bank") %>%
+       ggplot(aes(x = `Date`,y = as.numeric(`Municipal Securities`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) + 
+             labs(title = "Total Municipal Securities", 
+                  subtitle = "divided by total securities of the Bank",
+                  y = "Held-to-Maturity Securities in %",
+                  x = "Date") +  
+             guides(size = FALSE) +
+             theme_classic()
+
+LI_data %>% ggplot(aes(x = `Date`,y = as.numeric(`US Treas & Govt Agencies`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) + 
+             labs(title = "Total US Treasury & Govt Agency Securities", 
+                  subtitle = "divided by the sum of total held-to-maturity Securities of the Bank",
+                  y = "US Treasury & Govt Agency Securities in %",
+                  x = "Date") +  
+             guides(size = FALSE) +
+             theme_classic()
+  
+```
+
+
+
+6) Unrealized losses from the Securities due to Interest Rate Risk:
+
+```{r}
+
+IRR_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Unrealized Appreciation/Depreciation`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) + 
+             labs(title = "Unrealized Appreciation/Depreciation of Securities", 
+                  subtitle = "divided by total assets of the Bank",
+                  y = "Unrealized Gain/Loss in %",
+                  x = "Date") +  
+             guides(size = FALSE) +
+             theme_classic()
+
+CAD_data %>% ggplot(aes(x = `Date`,y = as.numeric(`Total Risk-Weighted Assets`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) + 
+             labs(title = "Total Risk-Weighted Assets of each bank",
+                  y = "Total Risk-Weighted Assets",
+                  x = "Date") +  
+             guides(size = FALSE) +
+             scale_y_continuous(labels = scales::comma) +
+             theme_classic()
+  
+```
+
+
+
+7) Assets pledged for Liquidity:
+
+```{r}
+
+LI_data %>%  ggplot(aes(x = `Date`,y = as.numeric(`Pledged Assets`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) + 
+             labs(title = "Assets pledged for loans",
+                  y = "Assets in %",
+                  x = "Date") +  
+             guides(size = FALSE) +
+             theme_classic()
+
+LI_tot_data %>%  ggplot(aes(x = `Date`,y = as.numeric(`Pledged Securities`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) + 
+             labs(title = "Securities pledged for loans",
+                  y = "Securities",
+                  x = "Date") +  
+             guides(size = FALSE) +
+             scale_y_continuous(labels = scales::comma) +
+             theme_classic()
+
+
+LF_data %>%  ggplot(aes(x = `Date`,y = as.numeric(`Short Term Non Core Funding`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) + 
+             labs(title = "Short Term Non Core Funding",
+                  subtitle =  "as a percent of Total Assets",
+                  y = "Non Core Funding in %",
+                  x = "Date") +  
+             guides(size = FALSE) +
+             theme_classic()
+  
+```
+
+
+
+8)
+
+```{r}
+
+LI_data %>%  ggplot(aes(x = `Date`,y = as.numeric(`Municipal Securities`), color = Bank)) +
+             geom_point(aes(shape = Bank, size=3)) +
+             geom_line(size=1) + 
+             labs(title = "Total Municipal Securities", 
+                  subtitle = "divided by total securities of the Bank",
+                  y = "Held-to-Maturity Securities in %",
+                  x = "Date") +  
+             guides(size = FALSE) +
+             theme_classic()
+
+```
+
+
+

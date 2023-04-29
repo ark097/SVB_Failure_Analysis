@@ -1,0 +1,800 @@
+FDIC Certificate # 57890			FRB District/ID_RSSD 2 / 413208			HSBC BANK USA, NATIONAL ASSOCIATION			 TYSONS, VA			Summary Ratios
+OCC Charter #  24522			County:  FAIRFAX			Summary Ratios--Page 1 						04/15/2023 10:19:53 PM
+Public Report
+
+		06/30/2020			12/31/2019			06/30/2019			12/31/2018			06/30/2018
+Earnings and Profitability	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT
+  Percent of Average Assets:																
+    Interest Income (TE)	2.00	2.78	17	2.78	3.47	15	2.91	3.59	14	2.60	3.33	15	2.42	3.19	15
+     - Interest Expense	0.81	0.49	86	1.44	0.92	88	1.48	0.94	88	1.21	0.70	88	1.09	0.59	88
+      Net Interest Income (TE)	1.19	2.28	13	1.34	2.54	7	1.43	2.62	11	1.40	2.61	15	1.33	2.58	15
+     + Noninterest Income	0.83	1.29	27	1.03	1.56	23	0.91	1.56	18	1.09	1.63	19	1.16	1.66	23
+     - Noninterest Expense	2.48	2.17	65	1.98	2.47	19	1.75	2.46	14	2.06	2.52	15	2.28	2.52	34
+      Pre-Provision Net Revenue (TE)	-0.46	1.47	3	0.38	1.70	7	0.59	1.79	3	0.43	1.81	3	0.22	1.81	3
+     - Provision: Loan & Lease Losses	0.86	0.90	41	0.11	0.21	23	0.12	0.20	25	-0.04	0.16	3	-0.13	0.14	3
+     - Provision: Credit Loss Oth Assets	0.00	0.01	3	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+      Pretax Operating Income (TE)	-1.32	0.54	3	0.27	1.47	7	0.47	1.57	3	0.47	1.62	3	0.35	1.65	3
+     + Realized Gains/Losses Sec	0.06	0.03	79	0.05	0.01	92	0.03	0.01	88	0.01	0.00	92	0.02	0.00	92
+     + Unrealized Gains / Losses Equity Sec	0.00	0.00	93	0.00	0.00	65	0.01	0.01	70	0.00	0.00	11	0.00	0.00	16
+    Pretax Net Operating Income (TE)	-1.26	0.57	3	0.33	1.48	7	0.51	1.58	3	0.48	1.62	3	0.36	1.65	3
+      Net Operating Income	-1.19	0.46	3	0.19	1.16	7	0.39	1.25	3	0.29	1.29	3	0.13	1.29	3
+    Net Inc Attrib to Min Ints	0.00	0.00	62	0.00	0.00	61	0.00	0.00	51	0.00	0.00	7	0.00	0.00	7
+    Net Income Adjusted Sub S	-1.19	0.46	3	0.19	1.16	7	0.39	1.24	3	0.29	1.28	3	0.13	1.29	3
+      Net Income	-1.19	0.46	3	0.19	1.16	7	0.39	1.24	3	0.29	1.28	3	0.13	1.29	3
+																
+  Margin Analysis:																
+  Avg Earning Assets to Avg Assets	95.48	92.67	82	94.70	91.67	88	94.59	91.64	88	94.66	91.72	92	94.75	91.74	92
+  Avg Int-Bearing Funds to Avg Assets	78.31	80.46	31	76.43	79.08	26	75.95	79.18	25	74.53	78.27	23	74.43	78.15	23
+  Int Inc (TE) to Avg Earn Assets	2.09	3.00	17	2.94	3.78	15	3.08	3.92	14	2.75	3.63	15	2.55	3.48	15
+  Int Expense to Avg Earn Assets	0.85	0.53	86	1.52	0.99	88	1.57	1.03	88	1.28	0.76	88	1.15	0.64	88
+  Net Int Inc-TE to Avg Earn Assets	1.24	2.46	13	1.41	2.77	7	1.51	2.87	7	1.47	2.85	11	1.41	2.82	11
+																
+  Loan & Lease Analysis:																
+  Net Loss to Average Total LN&LS	0.34	0.37	44	0.14	0.33	26	0.09	0.29	29	0.10	0.27	23	0.10	0.26	23
+  Earnings Coverage of Net Losses (X)	-3.59	11.31	4	6.93	60.91	36	16.15	37.50	76	11.22	114.26	52	5.89	27.95	12
+  LN&LS Allowance to LN&LS Not HFS	1.68	1.77	44	0.96	0.92	38	0.88	0.95	25	0.81	0.94	23	0.82	0.95	26
+  LN&LS Allowance to Net Losses (X)	4.81	4.87	56	6.47	6.38	72	9.63	7.06	84	8.08	7.32	80	8.04	5.60	83
+  LN&LS Allowance to Nonaccrual LN&LS (X)	1.04	2.70	10	0.96	1.80	12	1.04	1.86	26	1.00	1.83	12	0.65	1.66	4
+  30-89 Days Past Due	0.72	0.48	86	0.56	0.52	65	0.41	0.48	40	0.92	0.56	84	0.50	0.51	50
+  Total LN&LS-90+ Days PD & Nonaccrual	1.66	0.94	82	1.05	0.79	80	0.88	0.81	62	0.83	0.81	53	1.29	0.87	84
+  Non-Curr Lns+OREO to Lns+OREO	1.66	0.96	82	1.06	0.81	80	0.90	0.84	62	0.85	0.84	53	1.31	0.91	84
+																
+  Liquidity																
+  Net Non Core Fund Dep New $250M	11.60	2.63	75	30.62	16.48	84	37.42	18.11	85	21.11	15.29	69	19.92	15.07	69
+  Net Loans & Leases to Assets	33.14	49.29	20	38.08	54.17	19	38.14	55.06	14	39.25	54.20	19	35.89	54.07	15
+  Net Loans & Leases to Deposits	41.43	60.41	17	49.29	69.61	15	52.20	71.96	14	52.76	70.40	19	49.08	70.50	15
+																
+  Capitalization																
+  Leverage Ratio	9.9499	8.47	86	12.0330	9.56	88	11.6847	9.61	92	13.0573	9.56	92	12.1346	9.78	92
+  Total Capital Ratio	19.5324	14.93	89	18.6508	14.11	92	19.0413	14.24	92	20.1700	14.28	96	20.4446	14.49	96
+  Cash Dividends to Net Income	-5.77	69.28	6	39.87	72.08	19	20.27	64.21	25	26.40	77.02	7	56.22	54.12	42
+  Non-Curr Lns+OREO to T1 Capital+Allowance	5.51	5.35	55	3.33	4.67	26	3.00	4.75	22	2.54	4.98	23	3.82	5.16	34
+																
+  Growth Rates																
+  Total Assets	16.79	18.37	48	1.81	6.91	26	1.16	6.22	14	-5.85	3.76	3	-6.93	3.40	3
+  Tier 1 Capital	0.79	3.96	20	-6.44	5.84	3	-6.07	4.49	11	0.78	1.82	42	-3.95	3.12	7
+  Net Loans & Leases	1.50	8.09	24	-1.23	6.10	11	7.50	6.59	62	1.32	4.54	23	-3.72	2.90	11
+  Short Term Investments	159.59	189.09	58	-21.50	1.07	34	-41.81	4.80	11	-35.48	22.97	11	-30.65	3.64	7
+  Short Term Non Core Funding	18.89	-5.78	75	46.13	6.21	92	44.39	18.27	81	-5.90	20.72	23	-16.25	16.89	7
+																
+Average Total Assets		196,068,087			176,135,127			173,804,618			176,602,279			181,635,505
+Net Income		-1,164,363			340,983			335,376			514,954			120,899
+						
+Number of banks in Peer Group		28			25			26			25			25
+
+
+
+FDIC Certificate # 57890			FRB District/ID_RSSD 2 / 413208			HSBC BANK USA, NATIONAL ASSOCIATION			 TYSONS, VA			Income Statement $
+OCC Charter #  24522			County:  FAIRFAX			Income Statement $--Page 2 						04/15/2023 10:19:53 PM
+Public Report
+
+																	Percent Change
+		06/30/2020			12/31/2019			06/30/2019			12/31/2018			06/30/2018			1 Year
+Interest and Fees on Loans		1,190,775			2,766,830			1,410,334			2,533,503			1,210,285			-15.57
+Income From Lease Financing		0			0			0			0			0			N/A
+  Tax-Exempt		0			0			0			0			0			N/A
+  Estimated Tax Benefit		0			0			0			0			0			N/A
+    Income on Loans & Leases (TE)		1,190,775			2,766,830			1,410,334			2,533,503			1,210,285			-15.57
+							
+US Treas & Agency (Excl MBS)		129,150			405,297			204,317			404,870			194,857			-36.79
+Mortgage Backed Securities		349,639			697,920			353,713			669,717			319,086			-1.15
+  Estimated Tax Benefit		0			58			30			85			45			-100.00
+All Other Securities		25,822			88,841			46,173			60,625			19,275			-44.08
+  Tax-Exempt Securities Income		145			324			169			417			215			-14.20
+Investment Interest Income (TE)		504,611			1,192,116			604,233			1,135,297			533,263			-16.49
+							
+Interest on Due From Banks		61,639			344,360			214,256			439,061			209,819			-71.23
+Int on Fed Funds Sold & Resales		47,564			226,129			133,252			204,732			104,918			-64.31
+Trading Account Income		128,369			290,815			130,339			212,915			101,951			-1.51
+Other Interest Income		23,661			77,223			35,739			73,386			34,918			-33.80
+							
+  Total Interest Income (TE)		1,956,619			4,897,473			2,528,153			4,598,894			2,195,154			-22.61
+							
+Int on Deposits in Foreign Off		7,322			40,088			21,902			38,773			17,198			-66.57
+Interest on Domestic Deposits		586,968			1,766,865			861,503			1,387,414			634,254			-31.87
+Int on Fed Funds Purch & Repos		31,438			153,448			87,978			121,326			60,319			-64.27
+Int Trad Liab & Oth Borrowings		76,340			335,368			191,903			365,635			163,088			-60.22
+Int on Sub Notes & Debentures		89,536			242,899			124,210			221,779			110,643			-27.92
+Other Interest Expense		N/A			N/A			N/A			N/A			N/A			N/A
+							
+  Total Interest Expense		791,604			2,538,668			1,287,496			2,134,927			985,502			-38.52
+							
+  Net Interest Income (TE)		1,165,015			2,358,805			1,240,657			2,463,967			1,209,652			-6.10
+Non-interest Income		814,929			1,810,368			787,530			1,923,698			1,055,759			3.48
+  Adjusted Operating Income (TE)		1,979,944			4,169,173			2,028,187			4,387,665			2,265,411			-2.38
+							
+Non-Interest Expense		2,428,718			3,491,570			1,518,804			3,632,458			2,066,326			59.91
+  Pre-Provision Net Revenue (TE)		-448,774			677,603			509,383			755,207			199,085			-188.10
+Provision: Loan & Lease Losses		845,369			194,715			104,454			-72,910			-116,189			709.32
+Provision: Credit Losses Other Assets		-116			N/A			N/A			N/A			N/A			N/A
+  Pretax Operating Income (TE)		-1,294,027			482,888			404,929			828,117			315,274			-419.57
+							
+Realized G/L Hld-to-Maturity Sec		234			0			0			0			0			N/A
+Realized G/L Avail-for Sale Sec		56,741			88,342			29,861			24,099			15,287			90.02
+Unrealized G/L Equity Securities		3,223			5,148			4,776			-4,209			-4,404			-32.52
+  Pretax Net Operating Inc (TE)		-1,233,829			576,378			439,566			848,007			326,157			-380.69
+							
+Applicable Income Taxes		-69,468			235,322			104,160			332,985			205,237			-166.69
+Current Tax Equiv Adjustment		0			58			30			85			45			-100.00
+Other Tax Equiv Adjustments		0			0			0			0			0			N/A
+  Applicable Income Taxes (TE)		-69,468			235,380			104,190			333,070			205,282			-166.67
+							
+  Net Operating Income		-1,164,361			340,998			335,376			514,937			120,875			-447.18
+							
+Net Discontinued / Extraordinary Items		0			0			0			0			0			N/A
+Net Inc Noncontrolling Minority Interests		2			15			0			-17			-24			N/A
+  Net Income		-1,164,363			340,983			335,376			514,954			120,899			-447.18
+							
+Cash Dividends Declared		67,230			135,938			67,969			135,938			67,969			-1.09
+Retained Earnings		-1,231,593			205,045			267,407			379,016			52,930			-560.57
+Memo: Net International Income		0			0			0			0			0			N/A
+Memo: Interest on Time Dep Over Ins Limit		217,698			667,284			284,284			453,111			218,120			-23.42
+
+
+
+FDIC Certificate # 57890			FRB District/ID_RSSD 2 / 413208			HSBC BANK USA, NATIONAL ASSOCIATION			 TYSONS, VA			Asset Yields and Funding Costs
+OCC Charter #  24522			County:  FAIRFAX			Asset Yields and Funding Costs--Page 3a 						04/15/2023 10:19:53 PM
+Public Report
+
+		06/30/2020			12/31/2019			06/30/2019			12/31/2018			06/30/2018
+YIELD ON OR COST OF:	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT
+  Total Loan & Leases (TE)	3.29	3.87	24	4.03	4.61	23	4.15	4.72	18	3.85	4.44	15	3.67	4.27	15
+    Loans in Domestic Offices	3.29	3.89	24	4.03	4.63	23	4.15	4.74	18	3.86	4.45	15	3.68	4.28	15
+      Real Estate	3.44	3.62	37	4.04	4.22	30	4.17	4.34	37	3.95	4.18	30	3.80	4.06	23
+        Secured by 1-4 Fam Resi Prop	3.37	3.69	28	3.62	4.06	12	3.66	4.16	11	3.54	4.05	4	3.47	3.94	4
+        All Other Loans Sec Real Estate	3.55	3.70	39	4.73	4.53	69	5.00	4.70	74	4.62	4.42	69	4.35	4.25	65
+      Commercial & Industrial	2.97	3.49	20	4.04	4.60	15	4.24	4.72	14	3.75	4.38	11	3.55	4.20	11
+      Individual	9.39	4.95	96	10.08	5.60	96	9.76	5.63	92	8.98	5.30	92	8.61	5.07	92
+        Credit Card	5.81	11.32	4	6.60	11.39	5	7.14	11.74	9	8.14	11.39	10	8.62	11.27	10
+      Agricultural	2.59	4.20	10	6.64	4.95	88	5.53	5.03	78	5.66	4.71	89	5.22	4.50	84
+    Loans in Foreign Offices	2.57	2.95	43	3.62	3.64	50	3.73	3.67	56	3.12	3.83	29	2.91	3.65	29
+  Total Investment Securities (TE)	1.94	2.22	27	2.39	2.58	30	2.54	2.68	37	2.45	2.50	42	2.33	2.44	42
+  Total Investment Securities (Book)	1.94	2.21	31	2.39	2.56	30	2.54	2.66	40	2.45	2.47	42	2.33	2.41	42
+    US Treas & Agency (Excl MBS)	1.35	1.72	27	2.12	2.12	50	2.35	2.21	70	2.26	1.97	76	2.10	1.86	73
+    Mortgage Backed Securities	2.42	2.34	46	2.54	2.67	32	2.64	2.77	34	2.59	2.58	57	2.55	2.51	57
+    All Other Securities	1.26	2.29	21	2.57	2.85	36	2.76	2.95	34	2.38	2.78	26	1.78	2.69	15
+  Interest-Bearing Bank Balances	0.53	0.40	93	2.50	1.82	88	2.62	2.05	88	2.01	1.69	84	1.75	1.49	76
+  Federal Funds Sold & Resales	1.15	1.71	54	3.55	3.29	72	4.44	4.33	73	3.24	2.52	75	2.88	2.25	80
+  Total Interest Bearing Deposits	0.88	0.48	86	1.53	0.94	88	1.53	0.95	88	1.23	0.67	88	1.10	0.55	88
+    Transaction accounts	0.67	0.85	48	1.87	2.01	57	1.96	2.07	55	1.42	1.51	57	1.16	1.10	57
+    Other Savings Deposits	0.56	0.34	82	0.78	0.71	69	0.73	0.72	70	0.52	0.52	73	0.48	0.43	73
+    Time Deposits	1.72	1.57	64	2.68	2.01	96	2.73	2.01	96	2.55	1.50	96	2.37	1.28	96
+    Foreign Office Deposits	0.26	0.36	42	0.80	2.76	37	0.89	1.45	35	0.68	1.00	38	0.58	0.78	38
+																
+    Federal Funds Purchased & Repos	0.81	0.84	59	3.14	2.63	84	4.07	2.31	88	2.84	1.83	88	2.32	1.47	88
+    Other Borrowed Money	2.12	2.11	72	4.42	3.16	84	4.56	3.25	88	4.79	3.29	84	4.30	2.65	88
+    Subord Notes & Debentures	6.19	3.56	80	6.30	4.45	81	6.14	4.83	78	5.49	4.21	82	5.38	4.22	82
+    Other Interest Expense	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+    All Interest-Bearing Funds	1.03	0.61	86	1.89	1.15	88	1.95	1.19	88	1.62	0.89	88	1.46	0.75	88
+																
+    Memo: Interest on Time Dep Over Ins Limit	1.49	1.47	44	2.63	2.05	80	2.35	2.09	69	2.17	1.57	84	2.16	1.35	96
+																
+  PERCENT OF AVERAGE ASSETS:																
+    Total Loan & Leases	36.93	53.10	20	38.96	54.90	19	39.12	55.81	14	37.22	54.67	15	36.30	54.62	15
+      Loans in Domestic Offices	36.84	51.06	27	38.83	52.53	26	38.97	53.46	22	36.97	52.18	23	36.00	52.09	23
+        Real Estate	15.41	19.94	37	17.05	20.84	38	17.06	21.42	33	16.76	20.94	34	16.18	21.08	34
+          Secured by 1-4 Fam Resi Prop	9.66	11.97	37	10.49	12.33	34	10.59	12.77	33	10.49	12.44	34	10.20	12.55	30
+          All Other Loans Sec Real Estate	5.75	7.62	37	6.56	8.09	34	6.48	8.24	33	6.28	7.97	34	5.99	8.03	34
+        Commercial & Industrial	16.01	13.92	55	15.73	14.09	57	15.82	14.57	59	14.51	14.32	53	14.15	14.19	53
+        Individual	0.14	6.33	10	0.12	5.94	11	0.12	6.15	11	0.15	6.22	11	0.15	6.18	11
+          Credit Card	0.66	1.21	48	0.66	1.38	42	0.61	1.29	40	0.48	1.27	38	0.43	1.25	38
+        Agricultural	0.03	0.07	58	0.10	0.07	73	0.13	0.07	74	0.13	0.08	73	0.13	0.08	73
+      Loans in Foreign Offices	0.09	1.02	45	0.13	1.06	50	0.15	1.01	52	0.25	0.92	56	0.30	0.94	56
+    Total Investment Securities	26.53	22.59	75	28.37	23.39	76	27.34	23.06	77	26.20	23.09	76	25.18	23.06	73
+      US Treas & Agency (Excl MBS)	9.72	3.79	89	10.83	3.52	92	10.01	3.47	92	10.13	3.68	92	10.20	3.64	92
+      Mortgage Backed Securities	14.72	14.22	44	15.57	15.29	50	15.41	15.15	51	14.63	15.07	38	13.79	15.00	42
+      All Other Securities	2.09	4.04	55	1.96	3.97	53	1.92	3.81	55	1.44	3.74	38	1.19	3.81	34
+    Interest-Bearing Bank Balances	11.78	10.74	62	7.81	7.75	57	9.42	7.53	66	12.36	9.10	69	13.18	9.22	73
+    Federal Funds Sold & Resales	4.20	1.41	82	3.62	1.82	76	3.45	1.71	77	3.58	1.47	76	4.02	1.34	76
+    Total Interest Bearing Deposits	69.20	73.70	31	67.16	70.91	19	66.29	70.72	18	65.51	69.92	26	65.13	69.65	26
+      Transaction Accounts	11.72	6.48	82	9.67	4.50	84	9.28	4.30	85	9.32	3.99	88	9.50	3.81	88
+      Other Savings Deposits	36.13	51.18	20	33.77	49.06	19	33.54	49.45	18	34.37	50.08	23	34.41	50.42	23
+      Time Deposits	18.49	8.88	89	20.88	10.03	88	20.65	9.97	88	18.57	8.36	88	17.94	7.79	88
+      Foreign Office Deposits	2.86	6.86	55	2.84	7.12	55	2.82	6.78	57	3.25	6.40	60	3.28	6.61	60
+																
+    Federal Funds Purchased & Repos	3.97	0.73	93	2.78	0.89	88	2.49	0.86	88	2.42	0.88	88	2.86	0.93	88
+    Other Borrowed Money	3.67	5.14	31	4.31	6.30	26	4.84	6.59	29	4.32	6.36	30	4.17	6.45	34
+    Subord Notes & Debentures	1.48	0.45	93	2.19	0.58	96	2.33	0.57	96	2.29	0.60	96	2.26	0.62	96
+    Other Interest Expense Balances	5.14	5.65	44	6.50	6.99	46	7.17	7.27	44	6.61	7.09	42	6.44	7.19	42
+    All Interest-Bearing Funds	78.31	80.46	31	76.43	79.08	26	75.95	79.18	25	74.53	78.27	23	74.43	78.15	23
+																
+    Time Deposits Over Ins Limit	14.92	2.80	96	14.38	3.44	92	13.90	3.35	92	11.82	2.62	92	11.13	2.44	92
+																
+
+
+
+FDIC Certificate # 57890			FRB District/ID_RSSD 2 / 413208			HSBC BANK USA, NATIONAL ASSOCIATION			 TYSONS, VA			Balance Sheet $
+OCC Charter #  24522			County:  FAIRFAX			Balance Sheet $--Page 4 						04/15/2023 10:19:53 PM
+Public Report
+
+																	Percent Change															
+		06/30/2020			12/31/2019			06/30/2019			12/31/2018			06/30/2018			1 Quarter			1 Year
+Assets:
+  Real Estate Loans		30,382,973			30,185,529			30,012,249			29,561,988			29,398,270			1.14			1.24
+  Commercial Loans		31,421,652			26,199,113			29,357,652			27,240,650			26,175,810			-16.91			7.03
+  Individual Loans		1,466,118			1,666,025			1,373,298			1,288,466			1,178,992			-8.26			6.76
+  Agricultural Loans		64,537			67,988			225,930			218,930			241,108			1.73			-71.43
+  Other Loans & Leases		7,796,862			8,347,358			8,553,963			8,882,479			7,637,319			-16.94			-8.85
+    LN&LS Allowance		1,191,722			636,931			613,331			540,707			531,351			27.94			94.30
+    Unearned Income		0			0			0			0			0			N/A			N/A
+      Net Loans & Leases		69,940,421			65,829,081			68,909,761			66,651,806			64,100,148			-10.30			1.50
+  U.S. Treasury & Agency Securities		47,370,129			43,786,614			45,880,132			40,254,949			41,201,681			-0.55			3.25
+  Municipal Securities		7,614			7,506			8,616			8,483			10,300			0.54			-11.63
+  Foreign Debt Securities		4,209,361			3,286,001			2,974,677			3,332,337			2,388,966			-0.49			41.51
+  All Other Securities		1,857,170			2,013,248			2,501,123			2,633,897			2,759,535			-9.01			-25.75
+    HTM Securities Allowance		1,199			N/A			N/A			N/A			N/A			-2.76			N/A
+  Interest-Bearing Bank Balances		17,581,903			1,965,403			11,625,631			15,381,399			22,023,319			-33.37			51.23
+  Federal Funds Sold & Resales		29,255,002			17,838,370			5,289,349			10,168,317			10,176,086			530.13			453.09
+  Trading Account Assets		32,413,888			28,530,434			33,554,683			22,043,303			25,639,739			10.80			-3.40
+    Total Investments		132,695,067			97,427,576			101,834,211			93,822,685			104,199,626			16.20			30.30
+    Total Earning Assets		202,635,488			163,256,657			170,743,972			160,474,491			168,299,774			5.45			18.68
+								
+  Nonint Cash & Due From Banks		1,265,929			1,743,610			1,195,525			1,514,478			1,339,624			28.77			5.89
+  Premises, Fix Assts, Cap Leases		801,358			895,990			889,344			157,884			163,752			2.74			-9.89
+  Other Real Estate Owned		4,286			9,967			12,709			12,017			11,567			-33.66			-66.28
+  Dir & Indir Inv RE Ventures		1			1			1			1			1			0.00			0.00
+  Inv in Unconsolidated Subs		13,324			13,745			13,724			13,954			16,210			-0.91			-2.91
+  Acceptances & Oth Assets		6,326,196			6,967,730			7,843,774			7,639,617			8,793,067			-20.27			-19.35
+    Total Assets		211,045,383			172,887,701			180,699,049			169,812,442			178,623,995			4.54			16.79
+  Average Assets During Quarter		206,516,399			172,035,054			175,273,120			170,675,956			179,978,383			11.26			17.83
+								
+  Liabilities:								
+  Demand Deposits		24,837,405			19,059,894			20,549,683			22,881,555			23,291,204			16.75			20.87
+  All Now & ATS Accounts		19,980,994			10,622,063			6,080,843			5,707,072			4,719,120			40.34			228.59
+  Money Market Deposit Accounts		28,141,416			15,861,168			16,812,843			16,264,088			19,583,281			59.57			67.38
+  Other savings Deposits		56,418,505			46,693,143			42,293,271			43,042,828			44,016,675			12.59			33.40
+  Time Deps At Or Below Insurance Limit		6,387,663			8,241,215			9,944,585			9,285,016			8,853,095			-14.47			-35.77
+  Less: Fully Insured Brokered Deposits		21,118,887			16,221,590			13,870,509			13,196,204			12,848,072			13.82			52.26
+    Core Deposits		114,647,096			84,255,893			81,810,716			83,984,355			87,615,303			24.38			40.14
+  Fully Insured Brokered Deposits		21,118,887			16,221,590			13,870,509			13,196,204			12,848,072			13.82			52.26
+  Time Deps Above Insurance Limit		24,918,236			28,290,939			31,260,089			22,676,020			23,319,350			-7.16			-20.29
+  Deposits in Foreign Offices		8,115,777			4,794,889			5,081,167			6,485,351			6,811,005			-7.07			59.72
+    Total Deposits		168,799,996			133,563,311			132,022,481			126,341,929			130,593,731			15.38			27.86
+  Federal Funds Purch & Resale		2,303,187			1,142,181			5,027,111			1,525,508			4,742,978			-84.78			-54.18
+  Fed Home Loan Bor Mat < 1 Year		3,750,000			0			1,000,000			1,100,000			2,100,000			25.00			275.00
+  Fed Home Loan Bor Mat > 1 Year		2,000,000			1,000,000			1,000,000			1,000,000			1,000,000			-27.27			100.00
+  Oth Borrowing Mat < 1 Year		2,663,563			114,071			1,061,765			753,906			722,132			683.06			150.86
+  Oth Borrowing Mat > 1 Year		3,448,181			8,587,492			9,445,019			8,807,358			7,359,949			-43.90			-63.49
+  Subordinated Notes & Debentures		2,924,077			2,903,160			4,163,352			3,927,653			3,956,271			2.63			-29.77
+  Acceptances & Other Liabilities		3,526,456			3,877,992			5,027,976			2,645,189			4,971,167			-5.91			-29.86
+    Total Liabilities (Incl Mortg)		189,415,460			151,188,207			158,747,704			146,101,543			155,446,228			5.08			19.32
+  Total Bank Capital & Min Int		21,629,923			21,699,494			21,951,345			23,710,899			23,177,767			0.05			-1.46
+    Total Liabilities & Capital		211,045,383			172,887,701			180,699,049			169,812,442			178,623,995			4.54			16.79
+								
+  Memoranda:								
+  Officers, Shareholder Loans (#)		2			7			3			4			4						
+  Officers, Shareholder Loans ($)		6,163			161,384			7,552			8,094			5,883			-96.18			-18.39
+  Held-to-Maturity Securities		11,635,044			13,290,759			13,924,359			14,667,933			15,149,845			-10.36			-16.44
+  Available-for-Sale Securities		41,667,674			35,662,640			37,254,365			31,378,742			31,027,828			2.15			11.85
+  All Brokered Deposits		28,612,677			25,226,050			22,647,771			17,303,600			18,389,441			9.92			26.34
+  LN&LS in Foreign Offices		150,056			209,758			239,745			266,397			440,034			-19.63			-37.41
+  Loans Held for Sale		141,891			208,903			130,451			449,744			122,678			-43.22			8.77
+  Loans not Held for Sale		70,990,252			66,257,109			69,392,641			66,742,769			64,508,821			-9.75			2.30
+
+
+
+FDIC Certificate # 57890			FRB District/ID_RSSD 2 / 413208			HSBC BANK USA, NATIONAL ASSOCIATION			 TYSONS, VA			Balance Sheet %
+OCC Charter #  24522			County:  FAIRFAX			Balance Sheet Percentage Composition--Page 6 						04/15/2023 10:19:53 PM
+Public Report
+
+		06/30/2020			12/31/2019			06/30/2019			12/31/2018			06/30/2018
+Percent of Average Assets	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT
+  Loans Held For Sale	0.10	0.59	24	0.19	0.63	23	0.18	0.51	25	0.21	0.55	23	0.21	0.53	26
+  Loans Not Held For Sale	36.86	51.60	24	38.47	53.75	23	38.74	54.74	22	37.21	53.80	23	36.34	53.73	19
+    Less: LN&LS Allowance	0.47	0.72	27	0.35	0.52	23	0.33	0.54	18	0.33	0.55	23	0.34	0.55	23
+      Net Loans & Leases	36.49	51.66	20	38.31	54.13	19	38.60	55.00	14	37.10	54.03	15	36.21	53.95	15
+																
+  Interest-Bearing Bank Balances	7.84	11.02	44	6.78	8.39	50	8.86	7.97	66	9.83	9.32	65	9.46	9.58	61
+  Federal Funds Sold & Resales	8.83	1.74	93	5.49	2.03	80	4.24	2.04	77	7.66	1.92	84	9.76	1.80	88
+  Trading Account Assets	15.40	2.25	93	15.84	2.44	92	15.48	2.32	92	13.99	2.25	96	13.85	2.26	96
+  Held-to-Maturity Securities	6.47	5.13	62	7.88	6.42	57	8.14	6.79	55	8.28	6.40	50	8.05	6.07	50
+    HTM Securities Allowance	0.00	0.00	65	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+  Available-for-Sale Securities	20.16	17.31	68	20.13	16.10	73	19.07	15.53	74	17.55	15.89	65	17.06	15.97	65
+  Marketable Equity Sec at FV	0.07	0.04	72	0.09	0.03	76	0.10	0.03	85	0.10	0.03	84	0.10	0.03	83
+																
+    Total Earning Assets	95.26	91.77	86	94.54	90.68	88	94.49	90.64	88	94.51	90.50	92	94.49	90.52	92
+																
+  Nonint Cash & Due From Banks	0.68	0.92	27	0.81	1.07	30	0.75	1.06	25	0.72	1.09	19	0.65	1.06	15
+  Premises, Fix Assts & Cap Leases	0.42	0.73	20	0.43	0.82	15	0.37	0.79	14	0.10	0.60	11	0.10	0.60	11
+  Other Real Estate Owned	0.00	0.01	41	0.01	0.01	38	0.01	0.02	37	0.01	0.02	26	0.01	0.02	23
+  Dir & Indir Inv RE Ventures	0.00	0.19	51	0.00	0.18	50	0.00	0.16	51	0.00	0.15	50	0.00	0.15	50
+  Inv in Unconsolidated Subs	0.01	0.16	44	0.01	0.19	46	0.01	0.22	44	0.01	0.21	42	0.01	0.19	50
+  Acceptances & Other Assets	3.62	6.06	13	4.21	6.93	11	4.37	7.00	11	4.68	7.31	7	4.78	7.34	11
+    Total Non-Earning Assets	4.74	8.23	13	5.46	9.32	11	5.51	9.36	11	5.51	9.51	7	5.54	9.50	7
+      Total Assets	100.00	100.00	68	100.00	100.00	3	100.00	100.00	3	100.02	100.01	84	100.03	100.01	84
+																
+  Standby Letters of Credit	4.99	2.32	79	5.35	2.89	76	5.29	2.84	77	5.27	2.89	80	5.18	2.89	76
+																
+  Liabilities																
+  Demand Deposits	11.12	11.86	62	11.58	9.48	80	12.19	9.13	81	13.45	9.42	84	13.55	9.52	80
+  All NOW & ATS Accounts	7.65	1.42	96	4.44	1.09	92	3.21	1.03	92	3.06	1.09	92	3.13	1.08	92
+  Money Market Deposit Accounts	10.52	37.61	13	9.11	34.22	15	9.05	35.30	14	10.02	37.36	15	10.48	37.74	15
+  Other Savings Deposits	26.16	11.72	75	24.80	12.92	73	24.20	12.60	74	25.02	11.29	76	25.06	11.26	76
+  Time Deps At or Below Insurance Limit	3.77	5.21	48	5.25	5.98	53	5.44	5.99	55	5.09	5.14	65	4.88	4.84	61
+  Less: Fully Insured Brokered Deposits	9.54	5.70	82	8.23	5.14	80	7.65	4.76	81	7.45	4.62	80	7.37	4.45	80
+    Core Deposits	49.69	64.07	20	46.95	60.61	23	46.43	60.93	22	49.20	61.22	23	49.72	61.44	23
+  Fully Insured Brokered Deposits	9.54	5.70	82	8.23	5.14	80	7.65	4.76	81	7.45	4.62	80	7.37	4.45	80
+  Time Deps Above Insurance Limit	13.66	2.73	96	16.03	3.50	92	15.96	3.44	92	13.34	2.68	92	13.20	2.51	92
+  Deposits in Foreign Offices	3.69	5.45	65	3.16	5.92	64	3.42	5.93	68	3.99	5.96	65	3.58	6.09	65
+    Total Deposits	76.59	79.66	34	74.36	77.32	26	73.46	77.11	25	73.98	77.14	30	73.87	77.21	30
+																
+  Federal Funds Purch & Repos	3.17	0.67	93	2.21	0.78	88	2.42	0.81	88	1.78	0.79	84	2.17	0.79	88
+  Total Fed Home Loan Borrowings	2.13	2.14	62	0.92	2.62	34	1.16	2.65	44	1.65	2.46	50	1.73	2.36	46
+  Total Other Borrowings	3.64	3.59	44	5.63	4.39	80	5.86	4.55	77	4.93	4.62	57	4.71	4.61	57
+    Memo: Sht Ter N Core Funding	24.62	11.67	93	21.55	12.31	88	20.41	12.15	85	15.82	11.31	73	15.47	10.97	73
+																
+  Subordinated Notes & Debentures	1.48	0.44	93	2.18	0.55	96	2.30	0.56	96	2.29	0.60	96	2.29	0.61	96
+  Acceptances & Other Liabilities	1.90	2.12	41	2.16	2.09	69	2.07	2.03	70	2.18	1.96	73	2.38	1.95	76
+    Total Liabilities (Incl Mortg)	88.91	89.42	44	87.46	88.51	34	87.27	88.50	25	86.81	88.36	19	87.15	88.29	30
+																
+  Total Bank Capital & Min Int	11.09	10.58	55	12.54	11.49	65	12.73	11.50	74	13.19	11.64	80	12.85	11.71	69
+    Total Liabilities & Capital	100.00	100.00	96	100.00	100.00	96	100.00	100.00	96	100.00	100.00	96	100.00	100.00	96
+																
+  Memo: All Brokered Deposits	13.63	6.88	82	12.34	6.04	84	11.61	5.76	85	10.30	5.49	80	10.25	5.33	80
+    Insured Brokered Deposits	9.54	5.70	82	8.23	5.14	80	7.65	4.76	81	7.45	4.62	80	7.37	4.45	80
+																
+  Loans HFS as a % Loans	0.28	1.08	37	0.48	1.17	30	0.47	0.95	33	0.57	1.02	34	0.57	0.99	38
+
+
+
+FDIC Certificate # 57890			FRB District/ID_RSSD 2 / 413208			HSBC BANK USA, NATIONAL ASSOCIATION			 TYSONS, VA			Concentrations of Credit
+OCC Charter #  24522			County:  FAIRFAX			Analysis of Concentrations of Credit--Page 7B 						04/15/2023 10:19:53 PM
+Public Report
+
+		06/30/2020			12/31/2019			06/30/2019			12/31/2018			06/30/2018
+Loan & Leases as a % of Tier 1 Capital Plus Allowance	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT
+  Real Estate Loans	141.61	209.10	34	142.52	212.01	34	143.84	215.04	33	131.40	208.16	34	133.07	208.16	34
+    Construction & Development	8.72	11.21	44	8.61	12.13	42	8.58	12.67	40	8.22	12.54	42	7.40	12.99	38
+      1-4 Family Construction	0.00	1.76	20	0.00	2.01	19	0.00	2.12	18	0.00	1.69	19	0.00	1.67	19
+      Other Const & Land Development	8.72	9.43	51	8.61	10.01	50	8.58	10.46	48	8.22	10.77	46	7.40	11.25	42
+    Secured by Farmland	0.00	0.66	27	0.00	0.59	23	0.00	0.64	22	0.00	0.67	23	0.00	0.67	23
+    1-4 Family Residential	89.15	124.94	31	88.50	123.71	34	88.14	126.69	33	82.00	123.23	30	83.59	123.49	30
+      Home Equity Loans	3.54	17.35	31	3.86	20.38	26	4.19	22.08	25	4.19	23.64	26	4.71	24.72	26
+      1-4 Family 1st Lien Loans	85.45	103.89	34	84.48	98.69	38	83.77	99.83	37	77.63	93.73	38	78.67	92.75	38
+      1-4 Family Jr Lien Loans	0.15	1.22	24	0.17	1.51	23	0.18	1.67	22	0.18	1.79	23	0.21	1.92	26
+    Multifamily	16.48	13.76	72	15.92	14.54	69	13.30	13.80	66	10.44	12.28	65	10.40	12.15	65
+    Non-Farm Non-Residential	27.26	50.29	27	29.48	51.84	26	33.82	52.64	29	30.75	52.24	26	31.68	53.66	26
+      Owner Occupied Non-Farm Non-Residential	2.93	16.21	27	3.61	16.85	23	3.97	17.77	22	3.99	18.76	23	4.44	19.39	23
+      Other Non-Farm Non-Residential	24.33	32.59	37	25.87	34.41	38	29.85	34.04	44	26.77	32.39	46	27.25	33.09	50
+    RE Loans in Foreign Offices	0.00	0.33	65	0.00	0.42	60	0.00	0.40	61	0.00	0.42	61	0.00	0.43	60
+																
+  Financial Institution Loans	2.42	1.70	75	2.02	2.15	69	2.43	2.02	74	4.22	2.87	69	4.07	2.45	73
+  Agricultural Loans	0.30	0.70	55	0.32	0.72	50	1.08	0.71	70	0.97	0.82	69	1.09	0.77	69
+  Commercial & Industrial Loans	144.03	146.74	51	121.68	144.45	50	138.27	147.58	48	116.87	150.64	38	114.41	141.73	34
+  Loans to Individuals	6.83	83.59	13	7.87	86.72	15	6.58	82.13	14	5.73	83.90	15	5.34	80.99	15
+    Credit Card Loans	5.48	12.20	48	6.63	16.80	46	5.41	14.14	40	4.53	14.26	34	3.81	13.30	34
+    Auto Loans	0.00	31.88	27	0.00	35.53	23	0.00	34.44	22	0.00	37.30	23	0.00	37.22	23
+  Municipal Loans	0.00	9.66	6	0.00	10.80	3	0.00	11.43	3	0.00	10.99	3	0.00	11.40	3
+  Non-Depository and Other	36.14	63.27	37	39.18	62.30	34	40.74	59.61	33	38.76	63.55	26	34.14	59.49	30
+  Loans to Foreign Governments	0.20	0.20	79	0.23	0.28	68	0.26	0.23	76	0.72	0.30	80	0.43	0.29	72
+  Lease Financing Receivables	0.00	7.30	24	0.00	8.24	19	0.00	8.55	18	0.00	9.79	15	0.00	9.85	11
+    Leases to Individuals	0.00	0.13	86	0.00	0.11	88	0.00	0.09	88	0.00	0.09	84	0.00	0.11	84
+    All Other Leases	0.00	6.53	24	0.00	7.38	19	0.00	7.71	18	0.00	8.93	15	0.00	8.99	11
+																
+  Supplemental:																
+  Loans to Finance Commercial Real Estate	1.54	11.66	13	1.56	12.27	15	1.54	11.99	14	2.94	12.51	23	1.30	11.51	15
+  Foreign Office Loans & Leases	0.70	8.00	55	0.99	9.98	53	1.15	9.28	48	1.18	10.22	57	1.99	9.76	61
+																
+  Commercial Real Estate Loans as a % of Tier 1 Capital Plus Allowance:																
+  Non-owner OCC Commercial Real Estate	51.07	73.51	31	51.96	77.91	30	53.27	76.64	33	48.36	70.94	30	46.34	70.45	30
+    Memo: NOO CRE 3-Year Growth Rate	15.94	29.40	53	8.15	40.10	34	5.24	38.69	29	-6.14	38.28	7	-8.00	35.53	7
+  Total Commercial Real Estate	54.01	91.11	31	55.58	95.28	30	57.24	95.22	29	52.35	90.80	30	50.78	91.02	26
+																
+  Commercial Real Estate Loans as a % of Total LN&LS:																
+  Construction & Development	2.63	1.96	58	2.74	2.14	61	2.58	2.21	55	2.75	2.22	61	2.53	2.33	57
+  Non-owner OCC Commercial Real Estate	15.41	13.23	68	16.56	14.11	69	15.99	13.84	66	16.19	13.17	69	15.84	13.52	65
+  Total Commercial Real Estate	16.29	15.92	51	17.71	16.77	53	17.18	16.69	51	17.53	16.20	57	17.36	16.88	53
+
+
+
+FDIC Certificate # 57890			FRB District/ID_RSSD 2 / 413208			HSBC BANK USA, NATIONAL ASSOCIATION			 TYSONS, VA			Interest Rate Risk
+OCC Charter #  24522			County:  FAIRFAX			Interest Rate Risk Analysis as a Percent of Assets--Page 9 						04/15/2023 10:19:53 PM
+Public Report
+
+		06/30/2020			12/31/2019			06/30/2019			12/31/2018			06/30/2018
+Long Assets Insts w/Options	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT
+  Mortgage Loans & Pass Thrus	17.04	18.12	48	20.56	17.92	65	18.68	18.35	51	18.08	17.20	53	17.47	17.26	53
+    Loans & Securities Over 15 Years	6.62	10.33	31	9.41	10.22	53	8.04	10.34	40	6.63	9.84	26	6.37	9.61	30
+    Loans & Securities 5-15 Years	3.34	4.87	55	4.28	4.50	57	3.66	4.59	55	3.92	4.29	53	3.92	4.48	50
+																
+  Other Loans and Securities	36.39	49.48	13	40.18	52.44	15	41.40	52.76	22	40.92	53.08	19	37.26	52.68	19
+    Loans & Securities Over 15 Years	2.58	1.50	79	2.00	1.32	69	1.71	1.30	62	1.55	1.14	65	1.68	1.10	76
+    Loans & Securities 5-15 Years	3.93	7.05	20	4.72	6.96	26	3.89	6.71	22	3.95	6.47	23	4.68	6.72	34
+  Total Loans & Securities Over 15 Years	9.20	12.08	34	11.41	11.89	50	9.75	11.91	37	8.18	10.98	34	8.05	10.71	34
+																
+  CMO'S Total	4.99	5.44	44	5.63	5.40	53	6.39	5.36	62	7.37	5.38	65	6.85	5.49	61
+    Avg Life Over 3 Years	2.27	3.84	34	3.30	4.22	34	3.42	3.99	40	6.70	4.57	65	6.32	4.70	65
+																
+  Structured Notes	0.00	0.00	89	0.00	0.00	88	0.00	0.00	85	0.00	0.00	80	0.00	0.00	80
+  Mortgage Servicing (FV)	0.00	0.12	31	0.00	0.20	26	0.00	0.21	25	0.00	0.25	26	0.00	0.24	26
+    Total	0.00	0.12	31	0.00	0.20	26	0.00	0.22	25	0.00	0.26	26	0.00	0.25	26
+																
+  Overall Risk Indicators																
+  Available for Sale	19.74	17.84	62	20.63	16.84	69	20.62	15.62	74	18.48	15.77	69	17.37	15.89	65
+  Held to Maturity	5.51	4.34	65	7.69	5.36	65	7.71	6.65	51	8.64	6.50	61	8.48	6.20	50
+  Off Balance Sheet	85.41	61.08	75	112.69	76.41	73	123.78	77.58	74	118.98	78.47	80	108.39	82.05	73
+																
+  Unrealized Appreciation/Depreciation	0.22	0.19	62	0.08	0.07	61	0.05	0.06	51	-0.13	-0.12	46	-0.19	-0.18	46
+  Unrealized App/Dep % Tier 1 Cap	2.30	2.39	65	0.67	0.83	53	0.42	0.63	48	-1.04	-1.37	46	-1.61	-2.04	46
+																
+  Contractual Mat/Reprice Data																
+  Loans/Securities Over 3 Year	21.58	35.46	17	27.31	35.72	26	25.25	35.70	25	27.58	35.06	30	27.65	35.54	23
+  Liabilities Over 3 Year	2.32	1.08	86	3.58	1.33	92	3.65	1.53	88	3.89	1.46	88	3.60	1.49	88
+    Net Over 3 Year Position	19.25	34.34	13	23.73	34.40	23	21.59	34.31	14	23.69	33.75	19	24.05	34.26	19
+																
+  Loans/Securities Over 1 Year	28.53	44.53	17	35.43	43.36	26	34.47	43.48	25	33.90	42.16	26	32.70	42.33	23
+  Liabilities Over 1 Year	3.23	3.24	51	7.12	4.29	80	6.79	4.82	77	7.72	4.71	80	8.81	4.54	88
+    Net Over 1 Year Position	25.29	40.96	10	28.31	39.15	19	27.68	38.85	18	26.18	37.42	15	23.89	37.78	7
+																
+  Non-Maturity Deposits	61.30	67.78	27	53.35	60.77	26	47.45	59.09	25	51.76	60.18	26	51.29	60.44	26
+  Non-Maturity Deps % Long Assets	284.11	202.76	93	195.38	177.44	65	187.93	172.34	62	187.68	177.28	65	185.49	176.25	61
+    Net Over 3 Year Position	-39.73	-32.67	27	-26.04	-25.87	61	-22.20	-24.21	66	-24.18	-25.93	61	-23.64	-25.97	65
+																
+  As % Tier 1 Capital																
+  Structured Notes	0.00	0.00	89	0.00	0.00	88	0.00	0.04	85	0.00	0.04	80	0.00	0.04	80
+  Mortgage Servicing (FV)	0.02	1.44	31	0.02	2.16	26	0.01	2.34	25	0.00	2.78	26	0.00	2.56	26
+    Total	0.02	1.47	31	0.02	2.20	26	0.01	2.42	25	0.00	2.90	26	0.00	2.68	26
+
+
+
+FDIC Certificate # 57890			FRB District/ID_RSSD 2 / 413208			HSBC BANK USA, NATIONAL ASSOCIATION			 TYSONS, VA			Liquidity & Funding
+OCC Charter #  24522			County:  FAIRFAX			Liquidity & Funding--Page 10 						04/15/2023 10:19:53 PM
+Public Report
+
+		06/30/2020			12/31/2019			06/30/2019			12/31/2018			06/30/2018
+Percent of Total Deposits	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT
+  Individ, Partnerships, and Corp.	88.76	93.84	13	91.27	93.57	19	89.38	93.53	14	87.78	93.96	7	89.74	94.07	15
+  U.S. Govt, States & Political Sub in U.S.	0.36	2.55	31	0.27	2.81	23	0.38	3.02	22	0.34	3.17	23	0.39	3.29	23
+  Comml Banks & Other Dep Inst. in U.S.	0.25	0.24	58	0.56	0.28	80	0.33	0.26	62	0.46	0.40	61	0.42	0.38	61
+  Banks in Foreign Countries	8.59	1.40	89	5.96	1.57	88	7.76	1.48	88	9.14	1.12	92	7.67	0.92	92
+  Foreign Govts and Official Inst.	2.04	0.61	82	1.95	0.63	80	2.15	0.66	81	2.27	0.62	84	1.78	0.58	80
+    Total deposits	100.00	100.00	96	100.00	100.00	96	100.00	100.00	96	100.00	100.00	96	100.00	100.00	96
+																
+  Domestic Demand Deposits	14.71	15.83	62	14.27	12.81	65	15.57	11.57	77	18.11	12.24	80	17.83	12.17	80
+  Domestic Other Transaction Accts	11.84	1.81	93	7.95	1.50	96	4.61	1.29	92	4.52	1.42	92	3.61	1.37	88
+  Domestic Nontransaction Accts	68.64	73.10	24	74.19	76.64	26	75.98	78.47	29	72.24	77.39	23	73.34	77.34	23
+  Total Domestic Deposits	95.19	87.29	31	96.41	86.44	38	96.15	86.25	33	94.87	86.36	30	94.78	86.81	30
+  Deposits in Foreign Offices	4.81	7.51	62	3.59	7.66	60	3.85	7.77	64	5.13	7.71	68	5.22	7.70	69
+    Total Deposits	100.00	100.00	96	100.00	100.00	96	100.00	100.00	96	100.00	100.00	96	100.00	100.00	96
+																
+  Liquidity/Funding Ratios																
+  Net Non Core Fund Dep $250M	11.60	2.63	75	30.62	16.48	84	37.42	18.11	85	21.11	15.29	69	19.92	15.07	69
+  Core Deposits	54.32	67.09	20	48.73	61.54	23	45.27	60.49	22	49.46	60.87	23	49.05	60.99	23
+  Short Term Non Core Funding	22.89	10.04	89	22.62	12.06	88	22.49	12.34	92	15.76	12.15	65	15.76	11.48	69
+  S.T Inv to S.T. Ncore Fund	106.21	227.08	27	57.70	95.85	46	48.64	85.13	48	107.41	100.03	61	120.69	100.56	65
+  S.T. Asset to S.T. Liabilities	207.13	354.32	35	127.18	201.02	30	116.27	181.24	29	206.65	207.12	61	207.52	221.73	53
+  Net S.T. Liabilities to Assets	-17.02	-17.58	44	-4.88	-9.63	57	-3.29	-8.29	62	-14.30	-11.13	38	-14.49	-11.55	38
+  Net Loans & Leases to Deposits	41.43	60.41	17	49.29	69.61	15	52.20	71.96	14	52.76	70.40	19	49.08	70.50	15
+  Net LN&LS to Core Deposits	61.00	73.94	27	78.13	86.39	26	84.23	89.74	29	79.36	89.02	26	73.16	87.79	26
+  Brkr Dep Mat < 1 Yr to Brkr Deps	84.38	85.16	31	74.70	75.62	32	63.69	79.69	19	54.80	80.82	20	60.66	79.27	20
+  Brokered Deposits to Deposits	16.95	8.12	82	18.89	7.94	84	17.15	7.68	85	13.70	7.59	80	14.08	7.16	80
+  Listing Service Dep to Deposits	0.00	0.37	65	0.00	0.42	61	0.00	0.41	66	0.00	0.36	73	0.00	0.27	76
+  List Service and Brkrd Dep to Deps	16.95	8.67	82	18.89	8.47	84	17.15	8.11	81	13.70	8.02	80	14.08	7.52	80
+  Sec Bor + sec FFP to Tot Bor + FFP	0.00	12.71	17	0.00	9.10	15	0.00	8.15	14	0.00	5.85	11	0.00	6.78	11
+  Recip Brkrd Dep to Tot Brkrd Dep	0.00	0.00	89	0.00	0.00	88	0.00	0.00	92	0.00	0.00	92	0.00	0.00	84
+																
+Total Deposits
+  Individ, Partnerships, and Corp.		149,821,047			121,897,803			118,000,582			110,908,136			117,194,536
+  U.S. Govt, States & Political Sub in U.S.		604,885			360,836			505,419			432,765			515,403
+  Comml Banks & Other Dep Inst. in U.S.		426,783			747,822			436,914			583,832			550,366
+  Banks in Foreign Countries		14,497,713			7,954,251			10,246,515			11,543,196			10,014,481
+  Foreign Govts and Official Inst.		3,449,568			2,602,599			2,833,051			2,874,000			2,318,945
+    Total Deposits		168,799,996			133,563,311			132,022,481			126,341,929			130,593,731
+						
+  Domestic Demand Deposits		24,837,405			19,059,894			20,549,683			22,881,555			23,291,204
+  Domestic Other Transaction Accts		19,980,994			10,622,063			6,080,843			5,707,072			4,719,120
+  Domestic Nontransaction Accts		115,865,820			99,086,465			100,310,788			91,267,951			95,772,402
+  Total Domestic Deposits		160,684,219			128,768,422			126,941,314			119,856,578			123,782,726
+  Deposits in Foreign Offices		8,115,777			4,794,889			5,081,167			6,485,351			6,811,005
+    Total Deposits		168,799,996			133,563,311			132,022,481			126,341,929			130,593,731
+						
+  Other Liquidity/Funding Data						
+  Non Core Liabilities $250M		65,105,855			56,911,642			63,716,339			51,902,771			55,618,698
+  Short Term Non Core Funding		48,312,575			39,106,213			40,635,920			26,761,031			28,143,868
+  Core Deposits		114,647,096			84,255,893			81,810,716			83,984,355			87,615,303
+  Time Deps $250M & Under Mat < 1 Yr		1,872,246			1,754,013			1,644,210			1,378,425			1,534,828
+  Time Deps $250M & Under Mat > 1 Yr		4,515,417			6,487,202			8,300,375			7,906,591			7,318,267
+  Time Deps over $250M Mat < 1 Yr		22,613,394			27,447,477			27,291,041			17,473,785			14,552,049
+  Time Deps over $250M Mat > 1 Yr		2,304,842			843,462			3,969,048			5,202,235			8,767,301
+  Fed Home Loan Bor Mat < 1 Yr		3,750,000			0			1,000,000			1,100,000			2,100,000
+  Fed Home Loan Bor Mat > 1 Yr		2,000,000			1,000,000			1,000,000			1,000,000			1,000,000
+  Other Borrowing Mat < 1 Year		2,663,563			114,071			1,061,765			753,906			722,132
+  Other Borrowing Mat > 1 Year		3,448,181			8,587,492			9,445,019			8,807,358			7,359,949
+  Secured Other Borrowings		0			0			0			0			0
+  Federal Funds Purchased		0			0			1,415,000			0			2,000,000
+  Secured Fed Funds Purchased		0			0			0			0			0
+  Listing Service Deposits		0			0			0			0			0
+  Brokered Deposits		28,612,677			25,226,050			22,647,771			17,303,600			18,389,441
+  Reciprocal Brokered Deposits		0			0			0			0			0
+
+
+
+FDIC Certificate # 57890			FRB District/ID_RSSD 2 / 413208			HSBC BANK USA, NATIONAL ASSOCIATION			 TYSONS, VA			Liquidity & Inv Portfolio
+OCC Charter #  24522			County:  FAIRFAX			Liquidity & Investment Portfolio--Page 10A 						04/15/2023 10:19:53 PM
+Public Report
+
+		06/30/2020			12/31/2019			06/30/2019			12/31/2018			06/30/2018
+Percent of Total Assets	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT
+  Short Term Investments	24.31	17.43	72	13.05	11.73	61	10.94	10.83	62	16.93	12.69	65	19.02	12.50	69
+  Marketable Equity Sec (MES)	0.07	0.03	75	0.08	0.03	76	0.10	0.03	81	0.11	0.03	84	0.10	0.03	84
+  Net LN&LS & SBLC to Assets	37.65	51.68	24	43.78	57.29	19	43.26	58.17	18	44.75	57.37	19	41.16	57.16	15
+  Pledged Assets	11.45	28.24	13	13.21	27.52	15	16.12	29.06	18	16.12	29.70	19	14.23	29.27	15
+																
+  Securities Mix																
+  % Total Securities																
+    US Treas & Govt Agencies	38.08	17.96	79	36.14	15.22	88	38.66	15.05	88	35.60	16.66	84	37.00	15.95	84
+    Municipal Securities	0.01	2.69	24	0.02	2.91	23	0.02	3.05	22	0.02	2.88	23	0.02	3.22	26
+    Pass-Through Mtg Backed Secs	33.79	35.93	51	36.73	36.71	57	32.41	37.95	40	29.38	38.42	38	30.71	38.29	42
+    CMO & REMIC Mtg Backed Secs	16.77	14.42	65	16.32	15.25	53	18.25	15.48	59	22.10	16.31	61	21.16	16.59	61
+    Commercial Mtg Back Secs	2.95	11.21	24	3.52	10.71	26	4.21	10.59	33	4.97	8.83	42	5.22	8.52	42
+    Asset Backed Securities	0.26	1.71	44	0.29	1.55	46	0.29	1.52	48	0.32	1.69	42	0.33	1.79	46
+    Structured Financial Products	0.00	0.95	58	0.00	1.18	53	0.00	1.13	59	0.00	1.09	57	0.00	1.16	50
+    Other Domestic Debt Secs	0.00	0.93	27	0.00	0.73	30	0.00	0.66	33	0.00	0.66	30	0.00	0.64	26
+    Foreign Debt Securities	7.88	3.90	79	6.69	4.24	76	5.79	4.16	74	7.21	4.48	73	5.15	4.45	73
+    Inv Mut Fnd & Oth Mktbl	0.26	0.19	72	0.29	0.18	76	0.36	0.18	77	0.40	0.17	76	0.39	0.17	76
+      Total	100.00	100.00	96	100.00	100.00	96	100.00	100.00	96	100.00	100.00	96	100.00	100.00	96
+																
+  Liquidity/Securities Ratios:																
+  App (Dep) Hi Risk & Struc/T1 Cap	0.00	0.00	96	0.00	0.00	92	0.00	0.00	92	0.00	0.00	92	0.00	0.00	92
+  App (Dep) in AFS sec to AFS Sec	2.62	3.05	34	-0.19	0.77	7	-0.18	0.62	3	-1.82	-1.53	53	-2.03	-2.10	57
+  App (Dep) in HTM Sec to HTM Sec	4.03	4.82	29	1.03	1.55	34	0.61	1.07	42	-1.55	-1.69	60	-2.30	-2.53	62
+  App (Dep) in HTM Sec to Eqy Cap	2.17	2.03	65	0.63	0.67	61	0.38	0.49	51	-0.96	-1.07	46	-1.50	-1.60	46
+  Pledged Securities to Tot Sec	17.46	24.91	51	17.32	21.07	53	22.91	21.80	70	19.87	23.34	46	19.28	23.33	46
+  Pledged Loans to Total Loans	20.87	39.83	17	21.58	35.97	19	24.99	38.25	22	27.07	38.93	30	25.51	38.49	26
+  Loans Held for Sale to Total Loans	0.20	1.14	24	0.31	1.31	34	0.19	1.04	25	0.67	1.05	38	0.19	1.14	23
+																
+Short Term Investments		51,312,519			22,565,430			19,766,875			28,744,399			33,966,802
+Short Term Assets		69,462,331			39,450,860			42,522,826			47,041,198			49,940,056
+Debt Securities 90+ Days P/D		0			0			0			0			0
+Total Non-Current Debt Sec		0			0			0			0			0
+Fair Value Structured Notes		0			0			0			0			0
+Pledged Securities		9,330,385			8,501,819			11,766,488			9,187,207			8,937,447
+Pledged Loans & Leases		14,842,321			14,342,340			17,371,102			18,189,525			16,489,396
+Loans Held for Sale		141,891			208,903			130,451			449,744			122,678
+
+
+
+FDIC Certificate # 57890			FRB District/ID_RSSD 2 / 413208			HSBC BANK USA, NATIONAL ASSOCIATION			 TYSONS, VA			Capital Analysis-a
+OCC Charter #  24522			County:  FAIRFAX			Capital Analysis--Page 11 						04/15/2023 10:19:53 PM
+Public Report
+
+		06/30/2020			12/31/2019			06/30/2019			12/31/2018			06/30/2018
+Capital Ratios	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT
+  Percent of Bank Equity:																
+    Net Loans & Leases (x)	3.23	4.71	20	3.03	4.69	15	3.14	4.68	18	2.81	4.71	15	2.77	4.61	15
+    Subord Notes & Debentures	13.52	4.22	93	13.38	4.83	92	18.97	4.80	96	16.56	5.01	96	17.07	5.12	96
+    Com RE & Related Ventures	37.24	65.38	31	38.75	67.35	30	41.82	68.16	29	39.82	68.78	30	38.54	69.75	23
+  Percent of Average Bank Equity:																
+    Net Income	-10.76	4.65	3	1.54	10.19	7	2.99	11.02	3	2.22	11.31	3	1.05	11.34	3
+    Dividends	0.62	3.99	34	0.61	8.01	11	0.61	7.60	18	0.58	9.21	7	0.59	6.47	19
+    Retained Earnings	-11.38	0.15	10	0.93	1.41	46	2.39	2.72	55	1.63	2.12	42	0.46	4.43	11
+  Other Capital Ratios:																
+    Dividends to Net Operating Income	N/A	78.28	N/A	39.86	78.52	16	20.27	64.10	25	26.40	76.83	7	56.23	53.99	42
+    Bank Eq Cap + Min Int to Assets	10.25	10.20	48	12.55	11.39	69	12.15	11.63	62	13.96	11.47	92	12.98	11.70	73
+  Growth Rates:																
+    Total Equity Capital	-1.46	4.93	20	-8.48	6.98	3	-5.29	6.94	3	1.93	1.43	50	-3.61	1.28	7
+    Equity Growth Less Asst Growth	-18.26	-12.29	27	-10.29	0.39	7	-6.45	0.81	18	7.78	-2.05	88	3.33	-1.97	88
+  Intang Assets % Bank Equity																
+    Mortgage Servicing Rights	0.02	1.03	31	0.02	1.56	26	0.01	1.70	25	0.00	2.07	26	0.00	1.93	26
+    Goodwill	2.12	15.64	24	5.72	17.60	19	7.32	17.43	25	6.78	18.31	19	6.93	18.17	19
+    Purch Credit Card Relations	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+    All Other Intangibles	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+    Total Intangibles	2.19	17.56	20	5.81	20.49	19	7.41	20.45	18	6.87	21.87	15	7.04	21.61	15
+																
+  Leverage Ratio	9.9499	8.47	86	12.0330	9.56	88	11.6847	9.61	92	13.0573	9.56	92	12.1346	9.78	92
+																
+  Standardized Capital Ratios																
+    Com Equity Tier 1 Cap Ratio	15.1198	13.20	79	14.8086	12.51	84	14.2896	12.60	77	15.5155	12.65	84	15.5045	12.86	80
+    Tier 1 Capital Ratio	17.2300	13.37	82	16.8605	12.71	88	16.3020	12.79	85	17.5092	12.80	88	17.5380	13.02	92
+    Total Capital Ratio	19.5324	14.93	89	18.6508	14.11	92	19.0413	14.24	92	20.1700	14.28	96	20.4446	14.49	96
+																
+  Adv App Cap Ratios																
+    Com Equity Tier 1 Cap Ratio	N/A	19.61	N/A	14.8086	16.68	36	14.2896	16.34	50	15.5155	16.25	50	15.5045	15.96	58
+    Tier 1 Capital Ratio	N/A	19.63	N/A	16.8605	16.91	63	16.3020	16.55	58	17.5092	16.48	66	17.5380	16.19	75
+    Total Capital Ratio	N/A	20.65	N/A	18.6508	18.10	72	19.0413	17.77	75	20.1700	17.75	75	19.9375	17.40	83
+																
+End of Period Capital ($000)						
+  Perpetual Preferred		2,500,000			2,500,000			2,500,000			2,500,000			2,500,000
+   + Common Stock		2,002			2,002			2,002			2,002			2,002
+   + Surplus		16,084,488			16,074,404			16,072,311			18,474,504			18,473,799
+   + Retained Earnings		2,227,736			3,374,683			3,437,218			3,142,434			2,816,346
+   + Accum Other Comp Income		815,629			-251,744			-60,335			-408,206			-614,556
+   + Other Equity Capital Comp		0			0			0			0			0
+    Total Bank Equity Capital		21,629,855			21,699,345			21,951,196			23,710,734			23,177,591
+      Minority Interest Cons Subs		68			149			149			165			176
+    Total Bank Capital & Min Int		21,629,923			21,699,494			21,951,345			23,710,899			23,177,767
+						
+Subordinated Notes & Debentures		2,924,077			2,903,160			4,163,352			3,927,653			3,956,271
+						
+Changes in Bank Equity ($000)						
+  Balance at Beginning of Period		21,699,344			23,710,734			23,710,734			23,262,905			23,262,905
+   + Net Income		-1,164,363			340,983			335,376			514,954			120,899
+   + Sales or Purchase of Capital		0			0			0			0			0
+   + Merger & Absorptions		0			0			0			0			0
+   + Restate due to Acctg Error&Chg		84,647			27,376			27,376			0			0
+   + Trans with Parent		10,085			-2,400,274			-2,402,192			6,005			5,301
+   - Dividends		67,230			135,938			67,969			135,938			67,969
+   + Other Comprehensive Income		1,067,372			156,463			347,871			62,808			-143,545
+    Balance at End of Period		21,629,855			21,699,344			21,951,196			23,710,734			23,177,591
+						
+Intangible Assets						
+  Mortgage Servicing Rights		4,400			4,385			1,777			241			0
+   + Purch Credit Card Relations.		N/A			N/A			N/A			N/A			N/A
+   + Other Intangibles		N/A			N/A			N/A			N/A			N/A
+   + Goodwill		458,000			1,242,000			1,606,655			1,606,655			1,606,655
+    Total Intangibles		473,772			1,261,007			1,626,303			1,628,016			1,631,024
+						
+Total Assets for Leverage Ratio:						
+  Average Total Consolidated Assets		206,665,220			172,035,054			175,273,120			170,675,956			179,978,383
+  Less: Ded from CET1 Cap & add T1C		491,745			1,284,767			1,643,038			1,647,151			1,657,361
+  Less: Other Deductions		1,020,256			27,968			309,722			874,647			635,691
+  Total Assets for Leverage Ratio		205,153,219			170,722,319			173,320,360			168,154,158			177,685,331
+
+
+
+FDIC Certificate # 57890			FRB District/ID_RSSD 2 / 413208			HSBC BANK USA, NATIONAL ASSOCIATION			 TYSONS, VA			Capital Analysis-b
+OCC Charter #  24522			County:  FAIRFAX			Capital Analysis--Page 11A 						04/15/2023 10:19:53 PM
+Public Report
+
+		06/30/2020			12/31/2019			06/30/2019			12/31/2018			06/30/2018
+Capital Analysis ($000)
+  Common Equity Tier 1 Capital: ($000)						
+  Common Stock Plus Related Surplus		16,086,489			16,076,406			16,074,312			18,476,506			18,475,801
+  Retained Earnings		2,376,557			3,374,683			3,437,218			3,142,434			2,816,346
+  Accum Other Comprehensive Inc (AOCI)		815,629			-251,744			-60,335			-408,206			-614,557
+  Common Equity T1 Minority Interest		0			0			0			0			0
+  Common Equity T1 Cap Before Adj/Ded		19,278,675			19,199,345			19,451,195			21,210,734			20,677,590
+						
+  Common Equity Tier 1 Capital: Adj/Ded						
+    Less: Goodwill		458,000			1,242,000			1,606,655			1,606,655			1,606,655
+    Less: Intangible Assets		11,372			14,622			17,871			21,120			24,369
+    Less: DTA (NOL & Tax Credit Only)		9,180			13,733			4,474			4,976			9,386
+    AOCI-Related Adjustments-Opt Out		752,012			N/A			N/A			N/A			N/A
+    AOCI-Related Adjustments-No Opt Out		N/A			-151,300			-140,297			-159,233			-187,307
+    Oth Ded (add) CET1 bef threshold ded		135,499			37,268			210,517			280,889			163,062
+    Less: Non-significant Investments		N/A			0			0			0			0
+  Subtotal before Threshold Limits		17,912,612			18,043,022			17,751,975			19,456,327			19,061,425
+    Less: Sig Inv, MSAs, DTA > 10% Limit		N/A			0			0			0			0
+    Less: Sig Inv, MSAs, DTA > 15% Limit		N/A			0			0			0			0
+      Less: Tot Sig Inv, MSAs, DTA  > Limit		0			0			0			0			0
+    Less: Ded due to insuff T1 and T2 Cap		0			0			0			0			0
+    Total Adj and Ded for CET1 Capital		0			0			0			0			0
+  Common Equity Tier 1 Capital		17,912,612			18,043,022			17,751,975			19,456,327			19,061,425
+						
+  Additional Tier 1 Capital:						
+    Additional T1C Inst & Related Surplus		2,500,000			2,500,000			2,500,000			2,500,000			2,500,000
+    Non-qualifying Cap Inst sub to phaseout		0			0			0			0			0
+    Tier 1 Minority Int Not Incl in CET1 Cap		0			0			0			0			0
+    Additional T1 Cap Before Deductions		2,500,000			2,500,000			2,500,000			2,500,000			2,500,000
+    Less: Additional T1 Cap Deductions		0			0			0			0			0
+  Additional Tier 1 Capital		2,500,000			2,500,000			2,500,000			2,500,000			2,500,000
+						
+  Tier 1 Capital		20,412,612			20,543,022			20,251,975			21,956,327			21,561,425
+						
+  Tier 2 Capital:						
+    T2 Cap Instruments & Related Surplus		1,440,794			1,440,794			2,699,984			2,699,977			2,949,939
+    Non-qualifying Capital Instruments		0			0			0			0			0
+    Tot Cap Min Int Not Incl in T1 Cap		0			0			0			0			0
+    ALLL in Tier 2 Capital		1,286,951			740,543			703,093			636,689			623,453
+    Exited Adv App Eligible Cr Reserves		N/A			740,543			703,093			636,689			0
+    Unrealized Gains on AFS Pref Stock		N/A			N/A			N/A			N/A			N/A
+  Tier 2 Capital Before Deductions		2,727,745			2,181,337			3,403,077			3,336,666			3,573,392
+  Exited Adv App T2C Before Deductions		N/A			2,181,337			3,403,077			3,336,666			2,949,939
+  Less: Tier 2 Capital Deductions		0			0			0			0			0
+						
+  Tier 2 Capital - Standardized Approaches		2,727,745			2,181,337			3,403,077			3,336,666			3,573,392
+  Tier 2 Capital - Advanced Approaches		N/A			2,181,337			3,403,077			3,336,666			2,949,939
+  Total Capital - Standardized Approaches		23,140,357			22,724,359			23,655,052			25,292,993			25,134,817
+  Total Capital - Advanced Approaches		N/A			22,724,359			23,655,052			25,292,993			24,511,364
+
+
+
+FDIC Certificate # 57890			FRB District/ID_RSSD 2 / 413208			HSBC BANK USA, NATIONAL ASSOCIATION			 TYSONS, VA			Capital Analysis-c
+OCC Charter #  24522			County:  FAIRFAX			Capital Analysis--Page 11B 						04/15/2023 10:19:53 PM
+Public Report
+
+		06/30/2020			12/31/2019			06/30/2019			12/31/2018			06/30/2018
+Risk Weighted Assets
+  On BS Assets and Securitization Exp						
+    2% Category		8,660			3,086			3,633			2,480			1,735
+    4% Category		0			0			0			0			0
+    20% Category		2,238,489			1,879,805			2,311,064			2,469,789			2,456,518
+    50% Category		8,506,069			8,277,288			8,210,192			8,214,439			8,174,510
+    100% Category		50,251,437			48,819,660			50,900,868			49,236,951			46,928,575
+    150% Category		1,869,795			953,136			1,017,344			1,266,416			1,665,543
+    250% Category		2,343,073			3,237,003			3,251,613			3,517,100			3,866,398
+    300% Category		0			0			0			0			0
+    400% Category		0			0			0			0			0
+    600% Category		0			0			0			0			0
+    1250% Category		188,538			210,700			212,163			208,013			207,750
+  Other Risk-Weighting App Categories		48,939			48,434			48,228			220,232			224,850
+  Tot RWA Securitization Exp SSFA Mthd		863,171			660,075			848,016			866,576			866,913
+  Total RWA Securitization Exp Gross-Up		0			0			0			0			0
+  On-Balance Sheet Risk Weighted Assets		66,318,170			64,089,187			66,803,120			66,001,996			64,392,791
+  Memo - 0% Category - $		66,324,196			46,613,552			56,737,574			54,761,475			62,245,589
+						
+  Off BS/Oth Items Subj to Risk Weighting						
+    2% Category		76,524			116,095			149,611			167,223			100,992
+    4% Category		0			0			0			0			0
+    10% Category		0			0			0			0			0
+    20% Category		2,804,754			2,804,509			2,640,995			2,353,541			2,547,798
+    50% Category		177,356			796,458			643,295			315,749			303,225
+    100% Category		43,922,771			49,556,535			48,455,177			49,369,170			49,642,976
+    150% Category		287,829			184,812			203,241			223,017			240,890
+    625% Category		469			538			17,469			21,950			80,519
+    937.5% Category		469			12,178			31,163			788			3,778
+    1250% Category		35,088			4,763			32,463			159,425			207,963
+    1250% Category Securitization Exp		3,088			2,975			4,450			2,375			7,238
+  Oth Risk-Weighting App Categories		0			0			0			0			0
+  Tot RWA Securitization Exp SSFA Mthd		879,885			618,380			564,084			641,505			597,990
+  Total RWA Securitization Exp Gross-Up		0			0			0			0			0
+  Tot Deriv, Off-BS and Oth - Risk Wght		48,188,231			54,097,241			52,741,946			53,254,742			53,733,368
+  Memo - 0% Category - $		1,126,637			972,514			1,444,310			1,051,935			1,056,344
+						
+  Standardized Market Risk Weighted Assets		3,964,964			3,654,872			4,684,988			6,142,282			4,815,059
+						
+  Risk-Weighted Asset Before Ded		118,471,367			121,841,302			124,230,056			125,399,022			122,941,219
+   - Excess Allowable LN&LS Loss		0			0			0			0			0
+   - Allocated Transfer Risk Reserve		0			0			0			0			0
+  Total Risk Weighted Assets		118,471,367			121,841,302			124,230,056			125,399,022			122,941,219
+						
+  Current Credit Exposure All Derivatives		7,558,842			6,070,910			6,065,351			8,364,097			6,520,732
+						
+  Derivatives Notional Prin Amounts						
+  OTC Contracts Total		1,777,563,308			2,257,773,819			1,992,084,298			1,828,431,196			1,872,773,729
+    Interest Rate		488,692,078			679,857,320			580,373,681			603,913,945			625,906,223
+    All Other		1,288,871,230			1,577,916,499			1,411,710,617			1,224,517,251			1,246,867,506
+  Centrally Clreared Contracts Total		1,791,260,183			2,267,068,847			3,231,892,149			3,528,084,600			3,468,150,546
+    Interest Rate		1,729,331,774			2,215,764,325			3,183,576,938			3,498,196,061			3,432,151,573
+    All Other		61,928,409			51,304,522			48,315,211			29,888,539			35,998,973
+
+
+
+FDIC Certificate # 57890			FRB District/ID_RSSD 2 / 413208			HSBC BANK USA, NATIONAL ASSOCIATION			 TYSONS, VA			Capital Analysis-d
+OCC Charter #  24522			County:  FAIRFAX			Capital Analysis--Page 11C 						04/15/2023 10:19:53 PM
+Public Report
+
+		06/30/2020			12/31/2019			06/30/2019			12/31/2018			06/30/2018
+Risk Based Capital ($000)
+  Tier 1 Capital						
+    Total Equity Capital Adjusted		N/A			N/A			N/A			N/A			N/A
+   - Ineligible Def Tax Assets		9,180			13,733			4,474			4,976			9,386
+   - Ineligible Intangibles		469,372			1,256,622			1,624,526			1,627,775			1,631,024
+   - Cumul Change F.V. Financial Liab		N/A			N/A			N/A			N/A			N/A
+    Net Tier 1		20,412,612			20,543,022			20,251,975			21,956,327			21,561,425
+						
+  Tier 2 Capital						
+   + Qualif Debt and Redeem Pfd		N/A			N/A			N/A			N/A			N/A
+   + Cumulative Preferred Stock		N/A			N/A			N/A			N/A			N/A
+   + Allowable LN&LS Loss Allow		1,286,951			740,543			703,093			636,689			623,453
+   + Unrl Gain Mktbl Eqy Sec (45%)		N/A			N/A			N/A			N/A			N/A
+   + Other Tier 2 Capital Comp		N/A			N/A			N/A			N/A			N/A
+    Net Eligible Tier 2		2,727,745			2,181,337			3,403,077			3,336,666			3,573,392
+						
+  Total RBC Before Deductions						
+    Tier 1 & Tier 2		23,140,357			22,724,359			23,655,052			25,292,993			25,134,817
+    Tier 3 & Fin Sub Adj		N/A			N/A			N/A			N/A			N/A
+   - Deductions for Total RBC		N/A			N/A			N/A			N/A			N/A
+    Total Risk-Based-Capital		23,140,357			22,724,359			23,655,052			25,292,993			25,134,817
+						
+  Risk-Weighted Assets						
+  On-Balance Sheet						
+    Category Two - 20%		2,238,489			1,879,805			2,311,064			2,469,789			2,456,518
+    Category Three - 50%		8,506,069			8,277,288			8,210,192			8,214,439			8,174,510
+    Category Four - 100%		50,251,437			48,819,660			50,900,868			49,236,951			46,928,575
+      Total On-Balance Sheet		66,318,170			64,089,187			66,803,120			66,001,996			64,392,791
+    Memo: Category One - 0%		66,324,196			46,613,552			56,737,574			54,761,475			62,245,589
+						
+  Off-Balance Sheet						
+    Category Two - 20%		2,804,754			2,804,509			2,640,995			2,353,541			2,547,798
+    Category Three - 50%		177,356			796,458			643,295			315,749			303,225
+    Category Four - 100%		43,922,771			49,556,535			48,455,177			49,369,170			49,642,976
+      Total Off-Balance Sheet		48,188,231			54,097,241			52,741,946			53,254,742			53,733,368
+    Memo: Category One - 0%		1,126,637			972,514			1,444,310			1,051,935			1,056,344
+						
+  Adjustments to Risk-Wgt Assets						
+  Risk-Weighted Asset Before Ded		118,471,367			121,841,302			124,230,056			125,399,022			122,941,219
+     - Excess Allowable LN&LS Loss Al		0			0			0			0			0
+     - Allocated Transfer Risk Reserve		0			0			0			0			0
+   + Mkt Risk Asset & Fin Sub Adj		N/A			N/A			N/A			N/A			N/A
+    Total Risk-Weighted Assets		118,471,367			121,841,302			124,230,056			125,399,022			122,941,219

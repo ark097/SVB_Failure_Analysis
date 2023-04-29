@@ -1,0 +1,800 @@
+FDIC Certificate # 59017			FRB District/ID_RSSD 12 / 4114567			FIRST REPUBLIC BANK			 SAN FRANCISCO, CA			Summary Ratios
+OCC Charter #  0			County:  SAN FRANCISCO			Summary Ratios--Page 1 						04/15/2023 09:57:44 PM
+Public Report
+
+		12/31/2022			06/30/2022			12/31/2021			06/30/2021			12/31/2020
+Earnings and Profitability	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT
+  Percent of Average Assets:																
+    Interest Income (TE)	3.01	2.88	53	2.76	2.24	81	2.74	2.11	90	2.77	2.13	89	3.09	2.54	80
+     - Interest Expense	0.45	0.54	50	0.12	0.16	50	0.16	0.13	67	0.20	0.13	68	0.46	0.34	70
+      Net Interest Income (TE)	2.56	2.34	62	2.64	2.08	84	2.58	1.99	83	2.57	2.00	79	2.63	2.21	70
+     + Noninterest Income	0.50	1.14	18	0.52	1.23	18	0.52	1.20	22	0.50	1.27	13	0.48	1.27	13
+     - Noninterest Expense	1.83	1.98	34	1.87	1.96	37	1.88	1.92	38	1.87	2.00	37	1.88	2.18	26
+      Pre-Provision Net Revenue (TE)	1.23	1.55	21	1.28	1.36	43	1.22	1.27	48	1.20	1.27	34	1.23	1.34	36
+     - Provision: Loan & Lease Losses	0.05	0.21	28	0.04	0.11	40	0.04	-0.10	83	0.00	-0.20	82	0.11	0.52	20
+     - Provision: Credit Loss Oth Assets	0.01	0.01	58	0.00	0.01	58	0.00	-0.01	50	0.00	-0.01	51	0.00	0.00	67
+      Pretax Operating Income (TE)	1.17	1.36	21	1.24	1.23	46	1.18	1.38	29	1.20	1.48	31	1.12	0.84	70
+     + Realized Gains/Losses Sec	0.00	-0.01	56	0.00	0.00	53	0.00	0.01	25	0.00	0.01	34	0.00	0.03	26
+     + Unrealized Gains / Losses Equity Sec	0.00	0.00	15	-0.01	0.00	15	0.00	0.00	6	0.00	0.00	75	0.00	0.00	6
+    Pretax Net Operating Income (TE)	1.17	1.36	25	1.23	1.23	46	1.18	1.40	29	1.20	1.50	31	1.12	0.87	70
+      Net Operating Income	0.85	1.06	21	0.89	0.96	37	0.89	1.09	22	0.90	1.17	24	0.82	0.68	53
+    Net Inc Attrib to Min Ints	0.00	0.00	62	0.00	0.00	71	0.00	0.00	67	0.00	0.00	72	0.00	0.00	56
+    Net Income Adjusted Sub S	0.85	1.06	21	0.89	0.96	37	0.89	1.09	22	0.90	1.17	24	0.82	0.68	53
+      Net Income	0.85	1.06	21	0.89	0.96	37	0.89	1.09	22	0.90	1.17	24	0.82	0.68	53
+																
+  Margin Analysis:																
+  Avg Earning Assets to Avg Assets	95.66	92.84	78	95.73	92.90	78	95.63	93.54	74	95.56	93.30	79	95.56	93.24	80
+  Avg Int-Bearing Funds to Avg Assets	80.35	74.45	62	79.56	74.93	62	80.33	76.80	61	80.98	77.16	62	82.18	80.62	60
+  Int Inc (TE) to Avg Earn Assets	3.15	3.11	50	2.88	2.42	71	2.86	2.26	80	2.90	2.29	75	3.23	2.73	73
+  Int Expense to Avg Earn Assets	0.47	0.57	40	0.13	0.17	46	0.17	0.13	67	0.21	0.14	68	0.48	0.36	70
+  Net Int Inc-TE to Avg Earn Assets	2.67	2.53	53	2.76	2.25	75	2.69	2.13	70	2.69	2.15	68	2.75	2.37	63
+																
+  Loan & Lease Analysis:																
+  Net Loss to Average Total LN&LS	0.00	0.24	15	0.00	0.14	15	0.00	0.16	12	0.00	0.21	17	0.00	0.36	10
+  Earnings Coverage of Net Losses (X)	775.25	103.38	92	1,068.98	153.55	89	915.80	152.69	89	518.18	33.86	92	617.64	52.61	96
+  LN&LS Allowance to LN&LS Not HFS	0.47	1.24	18	0.48	1.13	18	0.51	1.17	19	0.52	1.40	17	0.56	1.78	13
+  LN&LS Allowance to Net Losses (X)	271.91	15.64	96	347.44	18.59	96	336.40	13.77	96	186.67	8.67	96	266.03	8.07	96
+  LN&LS Allowance to Nonaccrual LN&LS (X)	7.20	3.49	87	5.31	2.90	83	5.00	2.44	86	4.79	2.32	85	3.45	2.48	72
+  30-89 Days Past Due	0.01	0.49	6	0.02	0.41	6	0.02	0.44	9	0.02	0.36	13	0.03	0.51	6
+  Total LN&LS-90+ Days PD & Nonaccrual	0.07	0.60	12	0.09	0.60	12	0.10	0.74	12	0.11	0.90	6	0.16	1.09	6
+  Non-Curr Lns+OREO to Lns+OREO	0.07	0.61	12	0.09	0.61	12	0.10	0.75	12	0.11	0.91	6	0.16	1.10	6
+																
+  Liquidity																
+  Net Non Core Fund Dep New $250M	15.51	1.37	90	5.45	-3.12	68	-2.08	-9.17	61	5.41	-8.09	79	10.39	-3.65	83
+  Net Loans & Leases to Assets	78.11	50.63	96	76.19	49.42	96	74.14	46.67	96	75.77	45.00	96	78.56	47.39	96
+  Net Loans & Leases to Deposits	94.13	61.72	96	91.03	59.38	96	85.89	55.47	93	90.96	54.13	96	97.41	57.02	96
+																
+  Capitalization																
+  Leverage Ratio	8.5053	8.76	37	8.5898	8.40	56	8.7600	8.25	74	8.0538	8.56	37	8.1426	8.42	40
+  Total Capital Ratio	12.5961	15.79	21	12.8204	15.46	40	13.7186	15.74	48	12.6047	15.57	3	12.5510	15.12	6
+  Cash Dividends to Net Income	20.92	44.95	37	20.09	30.99	50	17.26	48.02	35	16.62	35.48	37	18.56	50.21	30
+  Non-Curr Lns+OREO to T1 Capital+Allowance	0.59	3.41	15	0.80	3.47	18	0.85	3.98	19	0.98	4.50	17	1.53	5.79	20
+																
+  Growth Rates																
+  Total Assets	17.42	2.69	81	22.43	10.32	78	27.08	14.05	77	25.99	9.94	86	22.57	19.18	70
+  Tier 1 Capital	11.96	12.01	62	26.16	12.34	75	37.04	12.73	87	27.02	11.76	86	20.21	7.64	93
+  Net Loans & Leases	23.70	12.44	87	23.11	17.37	68	19.93	13.37	64	22.80	4.48	82	23.94	4.50	86
+  Short Term Investments	-67.77	-17.74	12	-23.56	-24.04	43	164.27	10.23	93	173.02	23.82	96	193.84	219.10	63
+  Short Term Non Core Funding	473.40	159.00	87	2.81	36.38	40	-51.23	-22.85	19	-15.52	-35.39	79	-20.31	-22.29	56
+																
+Average Total Assets		195,849,703			188,040,619			166,122,398			157,320,748			129,381,269
+Net Income		1,665,627			834,075			1,478,116			707,939			1,064,151
+						
+Number of banks in Peer Group		31			31			30			28			29
+
+
+
+FDIC Certificate # 59017			FRB District/ID_RSSD 12 / 4114567			FIRST REPUBLIC BANK			 SAN FRANCISCO, CA			Income Statement $
+OCC Charter #  0			County:  SAN FRANCISCO			Income Statement $--Page 2 						04/15/2023 09:57:44 PM
+Public Report
+
+																	Percent Change
+		12/31/2022			06/30/2022			12/31/2021			06/30/2021			12/31/2020			1 Year
+Interest and Fees on Loans		4,836,862			2,111,873			3,755,056			1,801,147			3,270,274			28.81
+Income From Lease Financing		0			0			0			0			0			N/A
+  Tax-Exempt		101,498			49,513			98,854			48,716			98,913			2.67
+  Estimated Tax Benefit		23,417			12,689			25,073			12,238			23,314			-6.61
+    Income on Loans & Leases (TE)		4,860,279			2,124,562			3,780,129			1,813,385			3,293,588			28.57
+							
+US Treas & Agency (Excl MBS)		2,935			1,247			1,533			737			4,956			91.45
+Mortgage Backed Securities		220,207			94,939			117,405			59,845			160,120			87.56
+  Estimated Tax Benefit		119,973			62,807			108,526			51,415			90,847			10.55
+All Other Securities		615,537			292,329			505,293			237,076			411,408			21.82
+  Tax-Exempt Securities Income		520,008			245,082			427,874			204,675			385,431			21.53
+Investment Interest Income (TE)		958,652			451,322			732,757			349,073			667,331			30.83
+							
+Interest on Due From Banks		66,751			16,438			16,981			5,964			7,504			293.09
+Int on Fed Funds Sold & Resales		0			0			0			0			0			N/A
+Trading Account Income		0			0			0			0			0			N/A
+Other Interest Income		13,336			3,867			18,996			10,298			23,894			-29.80
+							
+  Total Interest Income (TE)		5,899,018			2,596,189			4,548,864			2,178,719			3,992,317			29.68
+							
+Int on Deposits in Foreign Off		N/A			N/A			N/A			N/A			N/A			N/A
+Interest on Domestic Deposits		653,977			56,745			94,795			51,667			276,085			589.89
+Int on Fed Funds Purch & Repos		6,723			339			0			0			1,139			N/A
+Int Trad Liab & Oth Borrowings		190,481			38,803			139,640			87,433			276,469			36.41
+Int on Sub Notes & Debentures		36,470			18,232			36,449			18,222			36,428			0.06
+Other Interest Expense		N/A			N/A			N/A			N/A			N/A			N/A
+							
+  Total Interest Expense		887,651			114,119			270,884			157,322			590,121			227.69
+							
+  Net Interest Income (TE)		5,011,367			2,482,070			4,277,980			2,021,397			3,402,196			17.14
+Non-interest Income		970,273			487,623			867,642			390,478			624,821			11.83
+  Adjusted Operating Income (TE)		5,981,640			2,969,693			5,145,622			2,411,875			4,027,017			16.25
+							
+Non-Interest Expense		3,581,820			1,761,966			3,120,906			1,468,402			2,433,522			14.77
+  Pre-Provision Net Revenue (TE)		2,399,820			1,207,727			2,024,716			943,473			1,593,495			18.53
+Provision: Loan & Lease Losses		92,866			36,326			60,692			3,597			142,977			53.01
+Provision: Credit Losses Other Assets		14,239			4,354			-1,475			-2,062			2,233			-1,065.36
+  Pretax Operating Income (TE)		2,292,715			1,167,047			1,965,499			941,938			1,448,285			16.65
+							
+Realized G/L Hld-to-Maturity Sec		0			0			0			0			2,753			N/A
+Realized G/L Avail-for Sale Sec		0			0			7			0			-114			-100.00
+Unrealized G/L Equity Securities		-7,909			-6,517			-4,213			2,124			-2,798			-87.73
+  Pretax Net Operating Inc (TE)		2,284,806			1,160,530			1,961,293			944,062			1,448,126			16.49
+							
+Applicable Income Taxes		475,789			250,959			349,577			172,471			269,814			36.10
+Current Tax Equiv Adjustment		143,390			75,496			133,600			63,652			114,161			7.33
+Other Tax Equiv Adjustments		0			0			0			0			0			N/A
+  Applicable Income Taxes (TE)		619,179			326,455			483,177			236,123			383,975			28.15
+							
+  Net Operating Income		1,665,627			834,075			1,478,116			707,939			1,064,151			12.69
+							
+Net Discontinued / Extraordinary Items		0			0			0			0			0			N/A
+Net Inc Noncontrolling Minority Interests		0			0			0			0			0			N/A
+  Net Income		1,665,627			834,075			1,478,116			707,939			1,064,151			12.69
+							
+Cash Dividends Declared		348,525			167,570			255,167			117,625			197,494			36.59
+Retained Earnings		1,317,102			666,505			1,222,949			590,314			866,657			7.70
+Memo: Net International Income		N/A			N/A			N/A			N/A			N/A			N/A
+Memo: Interest on Time Dep Over Ins Limit		94,778			6,828			18,241			10,299			77,221			419.59
+
+
+
+FDIC Certificate # 59017			FRB District/ID_RSSD 12 / 4114567			FIRST REPUBLIC BANK			 SAN FRANCISCO, CA			Asset Yields and Funding Costs
+OCC Charter #  0			County:  SAN FRANCISCO			Asset Yields and Funding Costs--Page 3a 						04/15/2023 09:57:44 PM
+Public Report
+
+		12/31/2022			06/30/2022			12/31/2021			06/30/2021			12/31/2020
+YIELD ON OR COST OF:	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT
+  Total Loan & Leases (TE)	3.24	4.08	18	3.00	3.40	28	3.07	3.41	29	3.08	3.44	27	3.28	3.72	26
+    Loans in Domestic Offices	3.22	4.11	18	2.98	3.42	28	3.05	3.45	29	3.06	3.50	27	3.25	3.75	26
+      Real Estate	3.12	3.58	18	2.99	3.13	31	3.09	3.13	51	3.10	3.15	55	3.28	3.44	40
+        Secured by 1-4 Fam Resi Prop	2.89	3.42	19	2.76	3.23	12	2.82	3.21	16	2.85	3.19	17	3.01	3.52	10
+        All Other Loans Sec Real Estate	3.75	4.00	29	3.63	3.24	80	3.84	3.21	86	3.78	3.16	78	3.94	3.49	86
+      Commercial & Industrial	2.05	4.28	3	3.44	3.39	56	3.33	3.33	51	3.32	3.35	51	3.52	3.44	53
+      Individual	2.69	4.34	3	2.10	3.99	9	2.02	4.16	6	2.07	4.32	10	2.46	4.81	10
+        Credit Card	N/A	12.89	N/A	N/A	11.07	N/A	N/A	10.73	N/A	N/A	11.00	N/A	N/A	11.26	N/A
+      Agricultural	N/A	4.52	N/A	N/A	3.74	N/A	N/A	3.77	N/A	N/A	3.60	N/A	N/A	3.38	N/A
+    Loans in Foreign Offices	N/A	8.74	N/A	N/A	2.77	N/A	N/A	2.59	N/A	N/A	2.41	N/A	N/A	2.77	N/A
+  Total Investment Securities (TE)	3.12	1.95	96	3.05	1.69	96	3.24	1.55	96	3.34	1.59	96	3.58	1.97	96
+  Total Investment Securities (Book)	2.73	1.93	93	2.63	1.68	93	2.76	1.53	93	2.85	1.57	93	3.09	1.95	93
+    US Treas & Agency (Excl MBS)	1.92	1.50	84	1.77	1.17	90	1.56	1.10	87	1.52	1.11	75	2.56	1.54	96
+    Mortgage Backed Securities	2.09	2.04	53	1.88	1.83	46	1.91	1.59	77	2.11	1.66	85	2.52	2.06	93
+    All Other Securities	3.07	2.25	83	3.03	1.90	90	3.09	1.69	93	3.14	1.73	96	3.40	2.12	96
+  Interest-Bearing Bank Balances	1.09	1.47	18	0.39	0.46	21	0.13	0.12	64	0.10	0.09	68	0.19	0.23	33
+  Federal Funds Sold & Resales	N/A	2.83	N/A	N/A	0.98	N/A	N/A	0.37	N/A	N/A	0.39	N/A	N/A	1.00	N/A
+  Total Interest Bearing Deposits	0.45	0.57	37	0.08	0.14	37	0.08	0.10	51	0.09	0.11	55	0.31	0.32	53
+    Transaction accounts	0.61	0.95	41	0.09	0.20	22	0.02	0.12	12	0.03	0.13	10	0.12	0.53	13
+    Other Savings Deposits	0.34	0.44	43	0.06	0.13	37	0.05	0.08	51	0.06	0.08	55	0.13	0.22	36
+    Time Deposits	1.66	1.65	53	0.41	0.57	45	0.49	0.64	36	0.53	0.68	35	1.46	1.35	62
+    Foreign Office Deposits	N/A	0.64	N/A	N/A	0.12	N/A	N/A	0.01	N/A	N/A	0.00	N/A	N/A	0.20	N/A
+																
+    Federal Funds Purchased & Repos	2.76	1.72	78	0.73	0.48	74	0.00	0.06	41	N/A	0.06	N/A	1.37	0.72	82
+    Other Borrowed Money	1.98	4.05	9	1.25	1.92	22	1.45	1.74	46	1.50	1.53	53	1.78	1.85	60
+    Subord Notes & Debentures	4.68	4.04	75	4.68	3.26	82	4.68	3.09	81	4.68	3.01	80	4.68	3.25	77
+    Other Interest Expense	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+    All Interest-Bearing Funds	0.56	0.72	37	0.15	0.22	40	0.20	0.16	64	0.25	0.17	68	0.56	0.42	70
+																
+    Memo: Interest on Time Dep Over Ins Limit	1.63	1.45	57	0.36	0.48	42	0.43	0.49	50	0.47	0.56	44	1.38	1.21	57
+																
+  PERCENT OF AVERAGE ASSETS:																
+    Total Loan & Leases	76.67	49.34	96	75.34	48.05	96	74.09	47.42	96	74.82	46.61	96	77.68	51.23	96
+      Loans in Domestic Offices	76.67	47.55	96	75.34	46.23	96	74.09	45.60	96	74.82	44.70	96	77.68	49.25	96
+        Real Estate	62.66	18.43	96	60.78	17.95	96	59.06	17.65	96	59.15	17.07	96	61.36	19.04	96
+          Secured by 1-4 Fam Resi Prop	46.32	10.53	96	45.02	10.21	96	43.10	10.35	96	42.91	10.36	96	43.09	11.54	96
+          All Other Loans Sec Real Estate	16.34	7.56	87	15.76	7.45	87	15.96	6.84	90	16.24	6.39	93	18.27	7.19	93
+        Commercial & Industrial	4.73	11.48	28	7.77	11.34	40	8.24	11.14	38	8.81	11.27	41	8.71	13.42	36
+        Individual	3.54	6.12	43	3.56	6.14	43	3.52	6.47	45	3.55	5.55	44	4.00	5.69	40
+          Credit Card	0.00	1.08	28	0.00	0.92	28	0.00	0.92	25	0.00	0.97	27	0.00	1.12	26
+        Agricultural	0.00	0.05	31	0.00	0.05	37	0.00	0.05	38	0.00	0.05	34	0.00	0.05	33
+      Loans in Foreign Offices	N/A	1.00	N/A	N/A	0.95	N/A	N/A	0.95	N/A	N/A	0.95	N/A	N/A	1.14	N/A
+    Total Investment Securities	15.70	26.85	15	15.72	27.02	15	13.62	24.76	12	13.28	25.14	10	14.42	23.38	13
+      US Treas & Agency (Excl MBS)	0.08	6.04	3	0.08	6.03	3	0.06	4.77	9	0.06	4.52	13	0.15	4.17	13
+      Mortgage Backed Securities	5.39	16.45	9	5.37	16.75	9	3.71	15.58	9	3.60	15.91	6	4.91	14.63	10
+      All Other Securities	10.23	3.85	84	10.28	3.65	84	9.85	3.62	83	9.61	3.84	82	9.36	3.95	80
+    Interest-Bearing Bank Balances	3.13	11.73	18	4.53	13.09	18	7.74	15.91	22	7.22	15.24	20	3.10	11.94	3
+    Federal Funds Sold & Resales	0.00	0.98	21	0.00	0.91	25	0.00	1.29	16	0.00	1.64	13	0.00	1.80	16
+    Total Interest Bearing Deposits	74.92	70.15	65	75.79	71.36	65	74.06	73.23	51	73.06	73.28	44	69.53	75.20	23
+      Transaction Accounts	2.71	14.17	9	2.22	12.45	9	1.93	9.98	16	2.03	9.13	17	2.39	7.14	20
+      Other Savings Deposits	66.55	46.39	78	69.80	50.23	78	67.36	53.29	70	65.80	52.76	65	58.05	53.11	43
+      Time Deposits	5.66	3.69	78	3.77	3.10	75	4.77	3.60	80	5.23	4.11	72	9.09	7.11	73
+      Foreign Office Deposits	N/A	5.61	N/A	N/A	5.67	N/A	N/A	6.11	N/A	N/A	6.17	N/A	N/A	6.80	N/A
+																
+    Federal Funds Purchased & Repos	0.12	0.61	25	0.05	0.55	28	0.00	0.35	3	0.00	0.33	17	0.06	0.57	23
+    Other Borrowed Money	4.91	3.00	78	3.31	2.32	68	5.79	2.50	90	7.43	2.73	93	11.98	3.98	96
+    Subord Notes & Debentures	0.40	0.36	46	0.41	0.35	46	0.47	0.38	54	0.49	0.39	55	0.60	0.45	56
+    Other Interest Expense Balances	5.31	3.40	75	3.72	2.72	62	6.26	2.93	90	7.92	3.19	93	12.58	4.48	96
+    All Interest-Bearing Funds	80.35	74.45	62	79.56	74.93	62	80.33	76.80	61	80.98	77.16	62	82.18	80.62	60
+																
+    Time Deposits Over Ins Limit	2.97	1.03	87	2.04	0.83	87	2.57	1.00	87	2.80	1.08	86	4.32	2.05	76
+																
+
+
+
+FDIC Certificate # 59017			FRB District/ID_RSSD 12 / 4114567			FIRST REPUBLIC BANK			 SAN FRANCISCO, CA			Balance Sheet $
+OCC Charter #  0			County:  SAN FRANCISCO			Balance Sheet $--Page 4 						04/15/2023 09:57:44 PM
+Public Report
+
+																	Percent Change															
+		12/31/2022			06/30/2022			12/31/2021			06/30/2021			12/31/2020			1 Quarter			1 Year
+Assets:
+  Real Estate Loans		138,507,527			123,576,266			107,641,360			98,869,264			88,526,444			4.99			28.68
+  Commercial Loans		4,166,245			14,758,758			14,850,081			12,805,713			13,428,631			10.67			-71.94
+  Individual Loans		7,294,511			6,800,349			6,336,526			5,809,258			5,309,207			3.79			15.12
+  Agricultural Loans		0			0			0			0			0			N/A			N/A
+  Other Loans & Leases		16,899,017			6,383,643			6,129,010			5,636,112			5,322,662			5.26			175.72
+    LN&LS Allowance		783,633			728,926			693,649			636,910			635,019			3.11			12.97
+    Unearned Income		0			0			0			0			0			N/A			N/A
+      Net Loans & Leases		166,083,667			150,790,090			134,263,328			122,483,437			111,951,925			5.11			23.70
+  U.S. Treasury & Agency Securities		4,327,572			4,029,562			3,307,980			3,271,402			2,446,934			5.23			30.82
+  Municipal Securities		19,486,904			18,988,778			16,763,107			15,483,211			12,733,057			0.30			16.25
+  Foreign Debt Securities		0			0			0			0			0			N/A			N/A
+  All Other Securities		7,915,026			8,163,307			5,639,207			4,154,625			3,357,102			-2.13			40.36
+    HTM Securities Allowance		10,681			10,422			9,047			8,407			6,902			0.01			18
+  Interest-Bearing Bank Balances		3,798,254			5,742,783			12,579,335			7,487,497			4,623,213			-24.54			-69.81
+  Federal Funds Sold & Resales		0			0			0			0			0			N/A			N/A
+  Trading Account Assets		95,253			115,883			37,116			40,754			81,088			32.58			156.64
+    Total Investments		35,623,009			37,040,313			38,326,745			30,437,489			23,241,394			-3.02			-7.05
+    Total Earning Assets		201,706,676			187,830,403			172,590,073			152,920,926			135,193,319			3.58			16.87
+								
+  Nonint Cash & Due From Banks		484,947			493,919			367,772			389,455			471,541			-2.71			31.86
+  Premises, Fix Assts, Cap Leases		1,718,019			1,722,614			1,597,621			1,602,077			1,190,235			-0.93			7.54
+  Other Real Estate Owned		0			0			0			0			0			N/A			N/A
+  Dir & Indir Inv RE Ventures		0			0			0			0			0			N/A			N/A
+  Inv in Unconsolidated Subs		116,705			99,029			77,109			65,246			60,034			-0.25			51.35
+  Acceptances & Oth Assets		8,623,206			7,772,784			6,463,681			6,677,437			5,593,907			7.39			33.41
+    Total Assets		212,638,872			197,908,327			181,087,209			161,646,734			142,502,134			3.67			17.42
+  Average Assets During Quarter		206,594,826			191,431,022			179,219,674			161,904,058			140,780,682			2.93			15.27
+								
+  Liabilities:								
+  Demand Deposits		21,668,265			23,857,192			19,747,444			17,025,241			13,357,377			-2.70			9.73
+  All Now & ATS Accounts		2,513,442			2,694,890			3,303,885			2,296,124			2,774,821			8.44			-23.92
+  Money Market Deposit Accounts		46,420,312			38,562,231			35,525,114			33,853,703			28,173,356			4.46			30.67
+  Other savings Deposits		80,622,957			93,545,356			90,388,356			73,560,549			61,942,185			-7.78			-10.80
+  Time Deps At Or Below Insurance Limit		10,247,898			3,223,534			3,378,185			3,660,461			4,145,312			17.06			203.36
+  Less: Fully Insured Brokered Deposits		5,295,576			596,728			851,099			1,377,277			1,100,001			7.63			522.20
+    Core Deposits		156,177,298			161,286,475			151,491,885			129,018,801			109,293,050			-2.56			3.09
+  Fully Insured Brokered Deposits		5,295,576			596,728			851,099			1,377,277			1,100,001			7.63			522.20
+  Time Deps Above Insurance Limit		14,963,832			3,763,903			3,978,259			4,260,757			4,535,749			108.48			276.14
+  Deposits in Foreign Offices		0			0			0			0			0			N/A			N/A
+    Total Deposits		176,436,706			165,647,106			156,321,243			134,656,835			114,928,800			2.35			12.87
+  Federal Funds Purch & Resale		0			0			0			0			0			N/A			N/A
+  Fed Home Loan Bor Mat < 1 Year		9,225,000			7,200,000			0			5,125,000			5,155,000			29.47			N/A
+  Fed Home Loan Bor Mat > 1 Year		4,775,000			3,800,000			3,700,000			3,875,000			6,600,000			23.23			29.05
+  Oth Borrowing Mat < 1 Year		0			0			499,584			499,108			0			N/A			-100.00
+  Oth Borrowing Mat > 1 Year		575,635			626,664			529,648			539,971			1,069,218			-0.11			8.68
+  Subordinated Notes & Debentures		779,231			778,994			778,762			778,535			778,313			0.02			0.06
+  Acceptances & Other Liabilities		3,401,373			3,429,891			3,360,352			2,897,558			2,220,157			4.60			1.22
+    Total Liabilities (Incl Mortg)		195,192,945			181,482,655			165,189,589			148,372,007			130,751,488			3.83			18.16
+  Total Bank Capital & Min Int		17,445,927			16,425,672			15,897,620			13,274,727			11,750,646			1.91			9.74
+    Total Liabilities & Capital		212,638,872			197,908,327			181,087,209			161,646,734			142,502,134			3.67			17.42
+								
+  Memoranda:								
+  Officers, Shareholder Loans (#)		13			12			12			10			6						
+  Officers, Shareholder Loans ($)		46,850			34,792			17,595			12,782			7,765			-2.51			166.27
+  Held-to-Maturity Securities		28,358,907			27,720,629			22,301,305			20,244,705			16,610,212			0.36			27.16
+  Available-for-Sale Securities		3,346,697			3,437,727			3,380,776			2,634,983			1,906,315			-0.04			-1.01
+  All Brokered Deposits		5,295,576			596,728			851,099			1,377,277			1,100,001			7.63			522.20
+  LN&LS in Foreign Offices		0			0			0			0			0			N/A			N/A
+  Loans Held for Sale		0			0			936			3,169			20,679			N/A			-100.00
+  Loans not Held for Sale		166,867,300			151,519,016			134,956,041			123,117,178			112,566,265			5.10			23.65
+
+
+
+FDIC Certificate # 59017			FRB District/ID_RSSD 12 / 4114567			FIRST REPUBLIC BANK			 SAN FRANCISCO, CA			Balance Sheet %
+OCC Charter #  0			County:  SAN FRANCISCO			Balance Sheet Percentage Composition--Page 6 						04/15/2023 09:57:44 PM
+Public Report
+
+		12/31/2022			06/30/2022			12/31/2021			06/30/2021			12/31/2020
+Percent of Average Assets	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT
+  Loans Held For Sale	0.00	0.49	15	0.00	0.58	15	0.00	0.74	16	0.01	0.74	17	0.12	0.61	26
+  Loans Not Held For Sale	76.58	48.94	96	75.57	47.67	96	75.85	46.53	96	76.91	45.48	96	78.15	50.10	96
+    Less: LN&LS Allowance	0.37	0.59	31	0.38	0.56	31	0.40	0.65	32	0.41	0.74	31	0.44	0.81	23
+      Net Loans & Leases	76.21	48.95	96	75.19	47.83	96	75.45	46.78	96	76.51	45.64	96	77.82	50.06	96
+																
+  Interest-Bearing Bank Balances	3.51	12.38	15	4.53	13.57	18	5.54	15.53	9	4.49	15.39	6	2.38	12.06	3
+  Federal Funds Sold & Resales	0.00	1.21	31	0.00	1.05	31	0.00	1.44	32	0.00	1.75	31	0.00	1.89	30
+  Trading Account Assets	0.04	1.90	21	0.04	1.95	21	0.03	2.00	16	0.04	2.15	13	0.03	2.17	13
+  Held-to-Maturity Securities	13.57	8.96	68	13.58	8.18	68	12.24	5.56	77	12.20	5.58	75	13.31	5.60	83
+    HTM Securities Allowance	0.01	0.00	86	0.01	0.00	89	0.01	0.00	89	0.01	0.00	88	0.00	0.00	85
+  Available-for-Sale Securities	1.72	15.78	3	1.81	16.69	3	1.64	17.79	3	1.52	18.24	3	1.20	17.44	3
+  Marketable Equity Sec at FV	0.01	0.02	65	0.01	0.02	65	0.02	0.03	67	0.02	0.03	58	0.02	0.03	56
+																
+    Total Earning Assets	95.05	91.87	75	95.17	92.10	75	94.92	92.53	77	94.76	92.35	79	94.75	92.16	80
+																
+  Nonint Cash & Due From Banks	0.23	0.77	21	0.23	0.77	18	0.24	0.86	19	0.26	0.88	17	0.34	0.92	16
+  Premises, Fix Assts & Cap Leases	0.86	0.62	78	0.88	0.62	81	0.93	0.61	83	0.95	0.65	82	0.87	0.71	63
+  Other Real Estate Owned	0.00	0.00	15	0.00	0.00	15	0.00	0.01	12	0.00	0.01	24	0.00	0.01	10
+  Dir & Indir Inv RE Ventures	0.00	0.25	43	0.00	0.23	43	0.00	0.20	48	0.00	0.19	51	0.00	0.17	53
+  Inv in Unconsolidated Subs	0.05	0.17	53	0.05	0.17	56	0.04	0.15	58	0.04	0.16	58	0.05	0.16	60
+  Acceptances & Other Assets	3.81	6.17	21	3.68	5.97	25	3.87	5.33	25	3.98	5.63	20	3.99	5.73	20
+    Total Non-Earning Assets	4.95	8.13	25	4.84	7.90	25	5.09	7.47	22	5.24	7.66	20	5.25	7.84	20
+      Total Assets	100.01	100.00	87	100.01	100.00	90	100.01	100.00	90	100.01	100.00	89	100.00	100.00	86
+																
+  Standby Letters of Credit	0.61	1.85	25	0.61	1.84	28	0.64	1.92	25	0.66	2.09	24	0.73	2.26	23
+																
+  Liabilities																
+  Demand Deposits	10.91	23.73	21	11.20	21.67	25	10.26	18.56	29	9.89	18.53	27	9.00	12.78	43
+  All NOW & ATS Accounts	1.38	3.20	53	1.55	2.99	56	1.63	2.52	54	1.68	2.37	58	1.55	1.42	66
+  Money Market Deposit Accounts	20.79	31.07	34	20.08	33.91	34	20.40	37.18	29	20.44	36.71	24	18.78	37.95	20
+  Other Savings Deposits	45.22	13.15	90	48.90	13.97	93	46.29	12.66	90	44.67	11.65	89	39.47	12.42	93
+  Time Deps At or Below Insurance Limit	2.93	2.67	62	1.74	2.08	56	2.27	2.44	61	2.52	2.81	65	4.83	4.43	66
+  Less: Fully Insured Brokered Deposits	1.29	2.45	37	0.43	1.89	25	0.73	3.32	22	0.82	3.91	20	1.32	4.99	16
+    Core Deposits	79.94	74.63	53	83.03	76.08	71	80.12	73.85	58	78.37	71.87	55	72.32	67.10	50
+  Fully Insured Brokered Deposits	1.29	2.45	37	0.43	1.89	25	0.73	3.32	22	0.82	3.91	20	1.32	4.99	16
+  Time Deps Above Insurance Limit	3.42	1.08	87	2.04	0.84	87	2.62	1.01	87	2.88	1.10	86	4.24	2.06	80
+  Deposits in Foreign Offices	0.00	5.59	24	0.00	5.63	28	0.00	6.06	29	0.00	6.12	33	0.00	5.76	38
+    Total Deposits	84.65	83.83	59	85.50	84.62	62	83.47	84.07	51	82.07	83.60	31	77.88	81.41	26
+																
+  Federal Funds Purch & Repos	0.00	0.49	18	0.00	0.44	25	0.00	0.31	25	0.00	0.27	27	0.07	0.52	30
+  Total Fed Home Loan Borrowings	4.41	1.52	93	3.25	0.92	90	5.24	0.59	96	6.80	0.55	96	10.78	1.41	96
+  Total Other Borrowings	0.39	2.24	21	0.48	2.07	28	0.64	2.40	22	0.69	2.72	20	0.73	3.21	16
+    Memo: Sht Ter N Core Funding	7.07	5.40	75	3.80	4.28	62	5.86	5.79	61	7.16	6.59	62	9.50	9.75	50
+																
+  Subordinated Notes & Debentures	0.40	0.36	46	0.41	0.35	46	0.48	0.37	54	0.51	0.38	58	0.60	0.44	60
+  Acceptances & Other Liabilities	1.71	1.98	46	1.80	1.91	56	1.72	1.97	38	1.68	2.02	31	1.57	2.07	23
+    Total Liabilities (Incl Mortg)	91.56	90.87	62	91.44	90.75	68	91.56	90.31	74	91.75	90.11	79	91.64	89.76	80
+																
+  Total Bank Capital & Min Int	8.44	9.13	37	8.56	9.25	31	8.44	9.69	25	8.25	9.89	20	8.36	10.24	20
+    Total Liabilities & Capital	100.00	100.00	96	100.00	100.00	96	100.00	100.00	93	100.00	100.00	96	100.00	100.00	96
+																
+  Memo: All Brokered Deposits	1.29	2.83	34	0.43	2.19	18	0.73	3.97	16	0.82	4.76	17	1.32	6.27	16
+    Insured Brokered Deposits	1.29	2.45	37	0.43	1.89	25	0.73	3.32	22	0.82	3.91	20	1.32	4.99	16
+																
+  Loans HFS as a % Loans	0.00	1.07	15	0.00	1.30	15	0.00	1.60	16	0.01	1.54	13	0.15	1.13	23
+
+
+
+FDIC Certificate # 59017			FRB District/ID_RSSD 12 / 4114567			FIRST REPUBLIC BANK			 SAN FRANCISCO, CA			Concentrations of Credit
+OCC Charter #  0			County:  SAN FRANCISCO			Analysis of Concentrations of Credit--Page 7B 						04/15/2023 09:57:44 PM
+Public Report
+
+		12/31/2022			06/30/2022			12/31/2021			06/30/2021			12/31/2020
+Loan & Leases as a % of Tier 1 Capital Plus Allowance	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT
+  Real Estate Loans	756.96	206.73	96	722.05	205.43	96	659.55	202.40	96	726.02	188.14	96	735.79	200.33	96
+    Construction & Development	19.41	10.51	81	19.45	10.49	78	18.91	10.20	70	22.88	10.87	86	24.45	11.25	83
+      1-4 Family Construction	10.37	1.58	93	10.64	1.61	93	9.87	1.55	90	10.99	1.59	96	11.51	1.67	96
+      Other Const & Land Development	9.04	8.76	53	8.81	8.75	53	9.05	8.64	51	11.90	9.24	68	12.94	9.52	70
+    Secured by Farmland	0.63	0.47	62	0.63	0.48	62	0.68	0.49	64	0.51	0.53	62	0.72	0.58	63
+    1-4 Family Residential	553.87	120.23	96	536.39	117.09	96	485.36	119.64	96	530.00	113.72	96	529.53	121.40	96
+      Home Equity Loans	15.17	11.09	62	15.76	11.37	62	15.83	11.56	64	17.91	13.17	62	20.33	14.88	60
+      1-4 Family 1st Lien Loans	537.21	106.45	96	519.06	103.15	96	468.03	105.28	96	510.29	97.42	96	507.09	103.23	96
+      1-4 Family Jr Lien Loans	1.49	0.65	78	1.57	0.64	84	1.49	0.64	83	1.80	0.80	79	2.11	1.00	83
+    Multifamily	117.98	18.47	93	107.20	18.06	93	97.82	15.90	93	108.70	12.57	96	114.44	13.27	96
+    Non-Farm Non-Residential	65.06	48.24	75	58.39	50.60	62	56.77	46.09	64	63.93	42.70	79	66.64	45.99	76
+      Owner Occupied Non-Farm Non-Residential	8.03	14.11	40	7.31	14.65	40	7.29	13.56	41	6.80	13.49	41	4.54	14.91	33
+      Other Non-Farm Non-Residential	57.03	32.38	84	51.08	33.86	78	49.48	31.38	83	57.13	28.69	93	62.10	30.53	90
+    RE Loans in Foreign Offices	0.00	0.31	66	0.00	0.36	66	0.00	0.34	65	0.00	0.34	68	0.00	0.35	68
+																
+  Financial Institution Loans	0.00	1.59	28	0.00	1.96	21	0.00	1.35	32	0.00	1.32	24	0.00	2.10	26
+  Agricultural Loans	0.00	0.62	31	0.00	0.58	37	0.00	0.57	41	0.00	0.51	37	0.00	0.53	33
+  Commercial & Industrial Loans	22.77	126.19	12	86.24	132.70	34	90.99	126.17	35	94.03	119.79	41	111.61	134.03	43
+  Loans to Individuals	39.87	84.93	31	39.73	85.57	31	38.83	90.31	29	42.66	79.18	31	44.13	79.09	33
+    Credit Card Loans	0.00	13.43	28	0.00	11.21	28	0.00	11.42	29	0.00	11.01	27	0.00	11.80	26
+    Auto Loans	0.00	22.14	34	0.00	27.81	31	0.00	29.66	32	0.00	30.51	31	0.00	30.89	30
+  Municipal Loans	20.29	8.36	84	21.06	9.24	78	22.55	9.30	80	26.19	9.30	89	27.97	10.55	86
+  Non-Depository and Other	72.06	81.34	53	16.23	81.96	12	15.01	80.98	12	15.20	77.52	13	16.27	71.85	13
+  Loans to Foreign Governments	0.00	0.14	63	0.00	0.14	63	0.00	0.13	62	0.00	0.20	62	0.00	0.17	62
+  Lease Financing Receivables	0.00	5.82	37	0.00	6.14	31	0.00	5.96	32	0.00	6.18	27	0.00	5.96	26
+    Leases to Individuals	0.00	0.09	90	0.00	0.09	90	0.00	0.10	90	0.00	0.11	89	0.00	0.10	90
+    All Other Leases	0.00	5.38	37	0.00	5.61	31	0.00	5.35	32	0.00	5.50	27	0.00	5.28	26
+																
+  Supplemental:																
+  Loans to Finance Commercial Real Estate	2.39	12.28	21	3.19	12.86	28	1.02	12.48	16	1.62	10.69	20	2.60	10.51	23
+  Foreign Office Loans & Leases	0.00	9.42	40	0.00	9.27	40	0.00	8.57	41	0.00	9.31	37	0.00	9.77	46
+																
+  Commercial Real Estate Loans as a % of Tier 1 Capital Plus Allowance:																
+  Non-owner OCC Commercial Real Estate	196.82	76.56	90	180.92	79.13	90	167.23	74.57	90	190.33	67.13	93	203.60	69.38	93
+    Memo: NOO CRE 3-Year Growth Rate	62.82	72.59	71	52.62	83.44	62	44.25	77.84	58	46.14	32.73	68	52.63	34.05	73
+  Total Commercial Real Estate	204.84	94.46	87	188.23	97.35	87	174.53	89.76	90	197.13	81.09	93	208.13	84.75	93
+																
+  Commercial Real Estate Loans as a % of Total LN&LS:																
+  Construction & Development	2.13	1.85	56	2.20	1.82	56	2.29	1.81	58	2.53	2.06	58	2.61	2.07	56
+  Non-owner OCC Commercial Real Estate	21.58	13.65	87	20.44	13.83	84	20.22	13.45	87	21.05	13.06	86	21.76	13.07	93
+  Total Commercial Real Estate	22.46	16.51	81	21.26	16.72	75	21.11	15.86	77	21.80	15.50	79	22.24	15.65	80
+
+
+
+FDIC Certificate # 59017			FRB District/ID_RSSD 12 / 4114567			FIRST REPUBLIC BANK			 SAN FRANCISCO, CA			Interest Rate Risk
+OCC Charter #  0			County:  SAN FRANCISCO			Interest Rate Risk Analysis as a Percent of Assets--Page 9 						04/15/2023 09:57:44 PM
+Public Report
+
+		12/31/2022			06/30/2022			12/31/2021			06/30/2021			12/31/2020
+Long Assets Insts w/Options	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT
+  Mortgage Loans & Pass Thrus	47.57	19.21	96	46.16	19.23	96	43.48	18.81	96	44.60	18.81	96	44.35	18.10	96
+    Loans & Securities Over 15 Years	15.85	11.51	71	15.73	11.73	71	14.18	11.35	70	13.36	11.31	68	11.50	10.44	60
+    Loans & Securities 5-15 Years	22.00	5.52	93	21.92	5.47	93	20.48	5.26	93	21.41	5.10	93	20.29	5.12	93
+																
+  Other Loans and Securities	42.60	51.54	25	42.60	50.93	25	43.07	48.13	29	43.86	46.42	41	45.31	47.73	36
+    Loans & Securities Over 15 Years	10.53	1.38	96	11.21	1.44	96	11.52	1.25	96	12.20	1.31	96	11.00	1.29	96
+    Loans & Securities 5-15 Years	11.94	7.53	84	11.25	7.86	78	10.56	7.44	80	10.69	7.70	79	11.44	6.86	93
+  Total Loans & Securities Over 15 Years	26.38	13.21	87	26.94	13.53	87	25.70	12.96	83	25.56	13.07	82	22.50	12.06	86
+																
+  CMO'S Total	3.17	5.06	40	3.47	5.47	40	2.08	5.92	25	1.78	5.85	27	2.21	6.42	26
+    Avg Life Over 3 Years	1.92	4.57	34	2.35	4.91	34	1.35	5.01	25	1.56	4.89	27	2.16	4.75	33
+																
+  Structured Notes	0.00	0.01	84	0.00	0.00	90	0.00	0.00	90	0.00	0.00	89	0.00	0.00	90
+  Mortgage Servicing (FV)	0.01	0.19	37	0.01	0.18	37	0.01	0.14	41	0.02	0.14	41	0.02	0.12	46
+    Total	0.01	0.21	31	0.01	0.19	34	0.01	0.15	38	0.02	0.14	41	0.02	0.12	46
+																
+  Overall Risk Indicators																
+  Available for Sale	1.57	13.99	6	1.74	15.55	6	1.87	18.10	3	1.63	18.12	3	1.34	18.06	3
+  Held to Maturity	13.34	10.41	62	14.01	9.59	68	12.32	6.06	70	12.52	5.93	75	11.66	5.28	80
+  Off Balance Sheet	24.10	60.99	18	22.76	57.90	15	22.03	57.23	22	23.25	59.95	17	23.06	59.44	13
+																
+  Unrealized Appreciation/Depreciation	-2.24	-1.31	21	-1.84	-0.89	15	0.62	0.00	96	0.79	0.08	96	0.95	0.18	96
+  Unrealized App/Dep % Tier 1 Cap	-27.18	-16.77	25	-22.17	-11.45	21	7.15	-0.09	96	9.84	0.96	96	11.83	2.40	96
+																
+  Contractual Mat/Reprice Data																
+  Loans/Securities Over 3 Year	70.37	39.92	96	69.25	40.48	93	66.15	39.34	90	68.65	39.23	93	67.53	35.98	93
+  Liabilities Over 3 Year	0.21	0.58	34	0.34	0.47	46	0.72	0.55	64	1.43	0.73	75	1.89	0.83	83
+    Net Over 3 Year Position	70.16	39.27	96	68.91	39.99	93	65.43	38.71	90	67.23	38.31	93	65.64	35.12	93
+																
+  Loans/Securities Over 1 Year	76.30	47.18	90	75.56	47.78	90	73.65	46.82	90	76.08	45.78	93	76.73	44.62	93
+  Liabilities Over 1 Year	2.58	2.56	62	2.27	1.71	75	2.68	1.57	77	3.17	1.97	75	6.03	2.36	90
+    Net Over 1 Year Position	73.72	44.38	93	73.29	46.01	93	70.97	45.14	90	72.91	43.65	93	70.70	42.13	93
+																
+  Non-Maturity Deposits	71.12	71.41	34	80.17	74.88	59	82.26	75.74	67	78.40	73.65	51	74.56	72.00	40
+  Non-Maturity Deps % Long Assets	101.06	190.01	6	115.77	197.94	6	124.35	206.04	9	114.20	197.99	10	110.41	209.75	6
+    Net Over 3 Year Position	-0.75	-31.54	93	-10.92	-34.68	90	-16.11	-36.06	90	-9.75	-33.92	89	-7.03	-35.73	93
+																
+  As % Tier 1 Capital																
+  Structured Notes	0.00	0.13	84	0.00	0.05	90	0.00	0.03	90	0.00	0.00	89	0.00	0.00	90
+  Mortgage Servicing (FV)	0.15	2.23	40	0.14	2.19	40	0.13	1.76	41	0.20	1.70	41	0.27	1.43	46
+    Total	0.15	2.47	34	0.14	2.38	37	0.13	1.93	38	0.20	1.73	41	0.27	1.44	46
+
+
+
+FDIC Certificate # 59017			FRB District/ID_RSSD 12 / 4114567			FIRST REPUBLIC BANK			 SAN FRANCISCO, CA			Liquidity & Funding
+OCC Charter #  0			County:  SAN FRANCISCO			Liquidity & Funding--Page 10 						04/15/2023 09:57:44 PM
+Public Report
+
+		12/31/2022			06/30/2022			12/31/2021			06/30/2021			12/31/2020
+Percent of Total Deposits	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT
+  Individ, Partnerships, and Corp.	99.21	94.43	78	99.58	94.30	78	99.93	94.72	83	99.94	93.93	79	99.85	93.87	80
+  U.S. Govt, States & Political Sub in U.S.	0.77	2.52	37	0.40	2.56	37	0.06	2.32	22	0.05	2.49	31	0.13	2.44	26
+  Comml Banks & Other Dep Inst. in U.S.	0.02	0.23	43	0.02	0.24	37	0.01	0.24	38	0.01	0.23	41	0.01	0.30	40
+  Banks in Foreign Countries	0.00	1.23	43	0.00	1.36	43	0.00	1.17	41	0.00	1.40	37	0.00	1.24	43
+  Foreign Govts and Official Inst.	0.00	0.44	50	0.00	0.41	62	0.00	0.39	54	0.00	0.51	48	0.00	0.49	53
+    Total deposits	100.00	100.00	96	100.00	100.00	96	100.00	100.00	96	100.00	100.00	96	100.00	100.00	96
+																
+  Domestic Demand Deposits	12.28	30.84	21	14.40	28.70	31	12.63	23.83	25	12.64	24.35	31	11.62	18.40	40
+  Domestic Other Transaction Accts	1.42	4.18	53	1.63	4.20	53	2.11	3.41	58	1.71	3.17	62	2.41	1.87	70
+  Domestic Nontransaction Accts	86.29	57.06	81	83.97	59.98	75	85.25	64.99	70	85.65	64.06	68	85.96	70.47	60
+  Total Domestic Deposits	100.00	90.27	96	100.00	90.33	96	100.00	88.64	96	100.00	88.28	96	100.00	87.07	96
+  Deposits in Foreign Offices	0.00	6.23	33	0.00	6.19	33	0.00	6.63	38	0.00	7.46	33	0.00	7.31	40
+    Total Deposits	100.00	100.00	96	100.00	100.00	96	100.00	100.00	96	100.00	100.00	96	100.00	100.00	96
+																
+  Liquidity/Funding Ratios																
+  Net Non Core Fund Dep $250M	15.51	1.37	90	5.45	-3.12	68	-2.08	-9.17	61	5.41	-8.09	79	10.39	-3.65	83
+  Core Deposits	73.45	71.77	43	81.50	75.05	62	83.66	76.01	74	79.82	73.64	51	76.70	70.69	50
+  Short Term Non Core Funding	13.72	7.83	84	5.70	5.21	62	2.81	4.34	54	6.79	5.09	65	7.32	7.30	63
+  S.T Inv to S.T. Ncore Fund	14.19	213.55	3	52.73	427.79	21	252.48	677.21	32	70.92	686.03	3	46.59	402.59	3
+  S.T. Asset to S.T. Liabilities	64.56	413.76	3	177.29	803.55	19	429.87	985.43	26	177.42	1,129.81	7	140.94	695.46	6
+  Net S.T. Liabilities to Assets	5.62	-17.13	96	-5.27	-19.61	84	-13.12	-23.85	74	-6.13	-24.16	93	-3.69	-22.14	93
+  Net Loans & Leases to Deposits	94.13	61.72	96	91.03	59.38	96	85.89	55.47	93	90.96	54.13	96	97.41	57.02	96
+  Net LN&LS to Core Deposits	106.34	71.38	93	93.49	66.84	93	88.63	62.28	87	94.93	62.23	89	102.43	67.71	93
+  Brkr Dep Mat < 1 Yr to Brkr Deps	100.00	75.37	96	100.00	70.03	96	100.00	70.88	96	100.00	85.66	96	100.00	85.49	96
+  Brokered Deposits to Deposits	3.00	5.00	37	0.36	2.89	18	0.54	2.57	16	1.02	4.04	37	0.96	6.43	16
+  Listing Service Dep to Deposits	0.00	0.38	68	0.00	0.30	68	0.00	0.26	70	0.00	0.29	72	0.00	0.31	73
+  List Service and Brkrd Dep to Deps	3.00	5.41	34	0.36	3.19	18	0.55	2.83	16	1.02	4.33	31	0.96	6.91	16
+  Sec Bor + sec FFP to Tot Bor + FFP	0.00	8.24	25	0.00	9.38	16	0.00	8.81	16	0.00	12.37	17	0.00	12.87	17
+  Recip Brkrd Dep to Tot Brkrd Dep	0.00	0.00	93	0.00	0.00	96	0.00	0.00	92	0.00	0.00	92	0.00	0.00	92
+																
+Total Deposits
+  Individ, Partnerships, and Corp.		175,036,203			164,955,223			156,218,775			134,577,540			114,761,893
+  U.S. Govt, States & Political Sub in U.S.		1,367,305			658,379			90,720			67,092			152,331
+  Comml Banks & Other Dep Inst. in U.S.		33,198			33,256			11,748			12,203			14,576
+  Banks in Foreign Countries		0			0			0			0			0
+  Foreign Govts and Official Inst.		0			248			0			0			0
+    Total Deposits		176,436,706			165,647,106			156,321,243			134,656,835			114,928,800
+						
+  Domestic Demand Deposits		21,668,265			23,857,192			19,747,444			17,025,241			13,357,377
+  Domestic Other Transaction Accts		2,513,442			2,694,890			3,303,885			2,296,124			2,774,821
+  Domestic Nontransaction Accts		152,254,999			139,095,024			133,269,914			115,335,470			98,796,602
+  Total Domestic Deposits		176,436,706			165,647,106			156,321,243			134,656,835			114,928,800
+  Deposits in Foreign Offices		0			0			0			0			0
+    Total Deposits		176,436,706			165,647,106			156,321,243			134,656,835			114,928,800
+						
+  Other Liquidity/Funding Data						
+  Non Core Liabilities $250M		34,759,268			15,859,893			9,527,612			15,635,227			18,386,895
+  Short Term Non Core Funding		29,164,955			11,289,802			5,086,352			10,981,590			10,429,857
+  Core Deposits		156,177,298			161,286,475			151,491,885			129,018,801			109,293,050
+  Time Deps $250M & Under Mat < 1 Yr		9,851,506			2,793,646			2,967,621			3,192,294			3,510,960
+  Time Deps $250M & Under Mat > 1 Yr		396,392			429,888			410,564			468,167			634,352
+  Time Deps over $250M Mat < 1 Yr		14,644,379			3,493,074			3,735,669			3,980,205			4,174,856
+  Time Deps over $250M Mat > 1 Yr		319,453			270,829			242,590			280,552			360,893
+  Fed Home Loan Bor Mat < 1 Yr		9,225,000			7,200,000			0			5,125,000			5,155,000
+  Fed Home Loan Bor Mat > 1 Yr		4,775,000			3,800,000			3,700,000			3,875,000			6,600,000
+  Other Borrowing Mat < 1 Year		0			0			499,584			499,108			0
+  Other Borrowing Mat > 1 Year		575,635			626,664			529,648			539,971			1,069,218
+  Secured Other Borrowings		0			0			0			0			0
+  Federal Funds Purchased		0			0			0			0			0
+  Secured Fed Funds Purchased		0			0			0			0			0
+  Listing Service Deposits		1,575			1,575			1,575			1,575			1,575
+  Brokered Deposits		5,295,576			596,728			851,099			1,377,277			1,100,001
+  Reciprocal Brokered Deposits		0			0			0			0			0
+
+
+
+FDIC Certificate # 59017			FRB District/ID_RSSD 12 / 4114567			FIRST REPUBLIC BANK			 SAN FRANCISCO, CA			Liquidity & Inv Portfolio
+OCC Charter #  0			County:  SAN FRANCISCO			Liquidity & Investment Portfolio--Page 10A 						04/15/2023 09:57:44 PM
+Public Report
+
+		12/31/2022			06/30/2022			12/31/2021			06/30/2021			12/31/2020
+Percent of Total Assets	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT
+  Short Term Investments	1.95	13.86	6	3.01	13.99	15	7.09	17.86	25	4.82	18.65	6	3.41	18.41	6
+  Marketable Equity Sec (MES)	0.01	0.02	68	0.01	0.02	65	0.02	0.03	67	0.02	0.03	65	0.01	0.03	60
+  Net LN&LS & SBLC to Assets	78.69	52.71	96	76.79	51.51	96	74.77	48.76	96	76.43	47.28	96	79.21	49.73	96
+  Pledged Assets	51.80	27.40	90	47.21	25.29	90	42.98	23.61	90	44.21	24.42	93	44.69	26.28	90
+																
+  Securities Mix																
+  % Total Securities																
+    US Treas & Govt Agencies	0.52	22.99	3	0.53	22.96	3	0.39	22.56	9	0.44	19.80	13	0.27	17.36	13
+    Municipal Securities	61.42	2.35	96	60.90	2.44	96	65.20	2.10	96	67.59	2.43	96	68.69	2.75	96
+    Pass-Through Mtg Backed Secs	9.27	35.97	18	8.37	36.52	15	9.50	35.73	22	11.64	35.65	20	12.27	33.77	26
+    CMO & REMIC Mtg Backed Secs	3.91	12.34	25	4.09	12.71	25	3.08	13.31	25	2.33	12.85	24	0.85	16.51	6
+    Commercial Mtg Back Secs	20.36	8.79	84	21.51	10.19	78	16.37	9.99	74	11.87	11.61	55	17.42	11.72	70
+    Asset Backed Securities	0.00	1.67	28	0.00	1.70	31	0.00	1.98	25	0.00	1.92	24	0.00	1.77	23
+    Structured Financial Products	0.00	3.77	34	0.00	1.73	59	0.00	1.04	58	0.00	0.96	62	0.00	0.86	60
+    Other Domestic Debt Secs	4.45	1.04	90	4.53	1.11	90	5.36	1.11	93	6.01	1.08	96	0.39	0.86	56
+    Foreign Debt Securities	0.00	3.08	28	0.00	3.01	28	0.00	3.22	32	0.00	3.73	27	0.00	4.08	26
+    Inv Mut Fnd & Oth Mktbl	0.08	0.12	71	0.07	0.12	68	0.11	0.14	70	0.13	0.15	72	0.11	0.15	70
+      Total	100.00	100.00	96	100.00	100.00	96	100.00	100.00	96	100.00	100.00	96	100.00	100.00	96
+																
+  Liquidity/Securities Ratios:																
+  App (Dep) Hi Risk & Struc/T1 Cap	0.00	-0.10	96	0.00	-0.01	96	0.00	0.00	90	0.00	0.00	93	0.00	0.00	96
+  App (Dep) in AFS sec to AFS Sec	-12.31	-8.40	16	-8.59	-6.16	19	-1.30	-0.02	9	-0.58	1.09	3	1.72	2.50	16
+  App (Dep) in HTM Sec to HTM Sec	-16.83	-10.25	13	-13.13	-6.88	3	5.02	1.23	88	6.33	2.77	87	8.15	4.33	84
+  App (Dep) in HTM Sec to Eqy Cap	-27.35	-17.06	15	-22.17	-11.01	15	7.05	-0.05	96	9.65	0.83	96	11.52	2.06	96
+  Pledged Securities to Tot Sec	28.80	23.46	71	17.06	22.25	56	15.49	22.46	38	17.70	23.42	51	23.41	24.15	60
+  Pledged Loans to Total Loans	60.54	36.65	87	58.15	34.76	84	54.72	33.06	90	54.75	35.35	93	52.71	37.05	86
+  Loans Held for Sale to Total Loans	0.00	0.62	18	0.00	1.02	18	0.00	1.78	16	0.00	1.66	13	0.02	1.39	23
+																
+Short Term Investments		4,138,505			5,953,305			12,841,896			7,787,756			4,859,392
+Short Term Assets		21,771,773			23,911,271			30,962,837			22,703,136			18,097,835
+Debt Securities 90+ Days P/D		0			0			0			0			0
+Total Non-Current Debt Sec		0			0			0			0			0
+Fair Value Structured Notes		0			0			0			0			0
+Pledged Securities		9,137,184			5,319,965			3,982,908			4,054,398			4,340,389
+Pledged Loans & Leases		101,018,005			88,110,623			73,853,189			67,409,562			59,349,548
+Loans Held for Sale		0			0			936			3,169			20,679
+
+
+
+FDIC Certificate # 59017			FRB District/ID_RSSD 12 / 4114567			FIRST REPUBLIC BANK			 SAN FRANCISCO, CA			Capital Analysis-a
+OCC Charter #  0			County:  SAN FRANCISCO			Capital Analysis--Page 11 						04/15/2023 09:57:44 PM
+Public Report
+
+		12/31/2022			06/30/2022			12/31/2021			06/30/2021			12/31/2020
+Capital Ratios	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT	BANK	PG 1	PCT
+  Percent of Bank Equity:																
+    Net Loans & Leases (x)	9.52	5.74	93	9.18	5.46	93	8.45	4.89	90	9.23	4.45	93	9.53	4.69	93
+    Subord Notes & Debentures	4.47	4.18	50	4.74	3.79	56	4.90	3.64	54	5.86	3.70	65	6.62	4.00	63
+    Com RE & Related Ventures	91.11	78.77	62	84.43	77.28	59	78.74	65.35	61	90.72	58.95	75	95.93	62.07	83
+  Percent of Average Bank Equity:																
+    Net Income	10.03	12.22	34	10.32	10.95	50	10.76	11.40	45	11.19	11.85	41	9.87	6.97	76
+    Dividends	2.10	5.66	37	2.07	3.47	46	1.86	5.71	35	1.86	4.35	37	1.83	3.84	40
+    Retained Earnings	7.93	5.23	68	8.25	7.16	56	8.90	5.47	70	9.33	7.30	65	8.04	2.51	90
+  Other Capital Ratios:																
+    Dividends to Net Operating Income	20.92	46.39	35	20.09	30.91	50	17.26	47.97	35	16.62	35.45	37	18.56	54.05	22
+    Bank Eq Cap + Min Int to Assets	8.20	9.08	34	8.30	9.08	31	8.78	9.49	25	8.21	9.92	20	8.25	9.95	20
+  Growth Rates:																
+    Total Equity Capital	9.74	-0.04	75	23.74	3.56	81	35.29	9.90	87	25.52	8.76	86	19.28	7.13	90
+    Equity Growth Less Asst Growth	-7.68	-2.98	37	1.30	-5.82	71	8.21	-3.20	87	-0.47	-1.23	51	-3.29	-11.69	83
+  Intang Assets % Bank Equity																
+    Mortgage Servicing Rights	0.06	1.93	37	0.08	1.77	37	0.10	1.30	41	0.16	1.26	44	0.22	1.04	46
+    Goodwill	0.98	14.98	15	1.04	14.90	15	1.08	13.71	22	1.29	14.31	24	1.46	14.40	23
+    Purch Credit Card Relations	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+    All Other Intangibles	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+    Total Intangibles	1.32	19.06	15	1.42	18.29	15	1.50	15.83	22	1.85	16.38	24	2.16	16.24	23
+																
+  Leverage Ratio	8.5053	8.76	37	8.5898	8.40	56	8.7600	8.25	74	8.0538	8.56	37	8.1426	8.42	40
+																
+  Standardized Capital Ratios																
+    Com Equity Tier 1 Cap Ratio	9.1714	14.32	3	9.1490	14.04	3	9.6501	14.26	6	9.5060	14.03	3	9.6704	13.38	3
+    Tier 1 Capital Ratio	11.5647	14.48	43	11.7472	14.26	43	12.5603	14.50	48	11.3788	14.20	24	11.1803	13.54	26
+    Total Capital Ratio	12.5961	15.79	21	12.8204	15.46	40	13.7186	15.74	48	12.6047	15.57	3	12.5510	15.12	6
+																
+  Adv App Cap Ratios																
+    Com Equity Tier 1 Cap Ratio	N/A	20.15	N/A	N/A	19.67	N/A	N/A	21.20	N/A	N/A	20.58	N/A	N/A	20.01	N/A
+    Tier 1 Capital Ratio	N/A	20.17	N/A	N/A	19.69	N/A	N/A	21.22	N/A	N/A	20.60	N/A	N/A	20.03	N/A
+    Total Capital Ratio	N/A	21.04	N/A	N/A	20.47	N/A	N/A	22.05	N/A	N/A	21.50	N/A	N/A	21.02	N/A
+																
+End of Period Capital ($000)						
+  Perpetual Preferred		3,632,500			3,632,500			3,632,500			2,142,500			1,545,000
+   + Common Stock		1,832			1,801			1,795			1,767			1,741
+   + Surplus		6,255,826			5,782,819			5,724,900			5,204,166			4,834,172
+   + Retained Earnings		7,886,407			7,235,810			6,569,305			5,936,669			5,346,355
+   + Accum Other Comp Income		-330,638			-227,258			-30,880			-10,375			23,378
+   + Other Equity Capital Comp		0			0			0			0			0
+    Total Bank Equity Capital		17,445,927			16,425,672			15,897,620			13,274,727			11,750,646
+      Minority Interest Cons Subs		0			0			0			0			0
+    Total Bank Capital & Min Int		17,445,927			16,425,672			15,897,620			13,274,727			11,750,646
+						
+Subordinated Notes & Debentures		779,231			778,994			778,762			778,535			778,313
+						
+Changes in Bank Equity ($000)						
+  Balance at Beginning of Period		15,897,620			15,897,620			11,750,646			11,750,646			9,851,107
+   + Net Income		1,665,627			834,075			1,478,116			707,939			1,064,151
+   + Sales or Purchase of Capital		530,963			57,925			2,978,283			967,520			1,019,312
+   + Merger & Absorptions		0			0			0			0			0
+   + Restate due to Acctg Error&Chg		0			0			0			0			-4,677
+   + Trans with Parent		0			0			0			0			0
+   - Dividends		348,525			167,570			255,167			117,625			197,494
+   + Other Comprehensive Income		-299,758			-196,378			-54,258			-33,753			18,247
+    Balance at End of Period		17,445,927			16,425,672			15,897,620			13,274,727			11,750,646
+						
+Intangible Assets						
+  Mortgage Servicing Rights		11,306			13,343			16,188			20,801			25,998
+   + Purch Credit Card Relations.		N/A			N/A			N/A			N/A			N/A
+   + Other Intangibles		N/A			N/A			N/A			N/A			N/A
+   + Goodwill		171,616			171,616			171,616			171,616			171,616
+    Total Intangibles		229,623			233,266			238,170			245,298			253,510
+						
+Total Assets for Leverage Ratio:						
+  Average Total Consolidated Assets		206,638,057			191,474,253			179,277,315			161,947,368			140,824,034
+  Less: Ded from CET1 Cap & add T1C		267,292			272,295			308,376			310,477			330,751
+  Less: Other Deductions		0			0			0			0			0
+  Total Assets for Leverage Ratio		206,370,765			191,201,958			178,968,939			161,636,891			140,493,283
+
+
+
+FDIC Certificate # 59017			FRB District/ID_RSSD 12 / 4114567			FIRST REPUBLIC BANK			 SAN FRANCISCO, CA			Capital Analysis-b
+OCC Charter #  0			County:  SAN FRANCISCO			Capital Analysis--Page 11A 						04/15/2023 09:57:44 PM
+Public Report
+
+		12/31/2022			06/30/2022			12/31/2021			06/30/2021			12/31/2020
+Capital Analysis ($000)
+  Common Equity Tier 1 Capital: ($000)						
+  Common Stock Plus Related Surplus		6,257,658			5,784,620			5,726,695			5,205,933			4,835,913
+  Retained Earnings		7,929,637			7,279,041			6,626,946			5,979,979			5,389,708
+  Accum Other Comprehensive Inc (AOCI)		-330,638			-227,258			-30,880			-10,375			23,378
+  Common Equity T1 Minority Interest		0			0			0			0			0
+  Common Equity T1 Cap Before Adj/Ded		13,856,657			12,836,403			12,322,761			11,175,537			10,248,999
+						
+  Common Equity Tier 1 Capital: Adj/Ded						
+    Less: Goodwill		146,272			147,538			149,093			150,380			151,858
+    Less: Intangible Assets		38,704			41,327			44,489			48,039			52,139
+    Less: DTA (NOL & Tax Credit Only)		82,316			83,430			114,794			112,057			126,754
+    AOCI-Related Adjustments-Opt Out		-330,638			-227,258			-30,880			-10,375			23,378
+    AOCI-Related Adjustments-No Opt Out		N/A			N/A			N/A			N/A			N/A
+    Oth Ded (add) CET1 bef threshold ded		0			0			0			0			0
+    Less: Non-significant Investments		N/A			N/A			N/A			N/A			N/A
+  Subtotal before Threshold Limits		13,920,003			12,791,366			12,045,265			10,875,436			9,894,870
+    Less: Sig Inv, MSAs, DTA > 10% Limit		N/A			N/A			N/A			N/A			N/A
+    Less: Sig Inv, MSAs, DTA > 15% Limit		N/A			N/A			N/A			N/A			N/A
+      Less: Tot Sig Inv, MSAs, DTA  > Limit		0			0			0			0			0
+    Less: Ded due to insuff T1 and T2 Cap		0			0			0			0			0
+    Total Adj and Ded for CET1 Capital		0			0			0			0			0
+  Common Equity Tier 1 Capital		13,920,003			12,791,366			12,045,265			10,875,436			9,894,870
+						
+  Additional Tier 1 Capital:						
+    Additional T1C Inst & Related Surplus		3,632,500			3,632,500			3,632,500			2,142,500			1,545,000
+    Non-qualifying Cap Inst sub to phaseout		0			0			0			0			0
+    Tier 1 Minority Int Not Incl in CET1 Cap		0			0			0			0			0
+    Additional T1 Cap Before Deductions		3,632,500			3,632,500			3,632,500			2,142,500			1,545,000
+    Less: Additional T1 Cap Deductions		0			0			0			0			0
+  Additional Tier 1 Capital		3,632,500			3,632,500			3,632,500			2,142,500			1,545,000
+						
+  Tier 1 Capital		17,552,503			16,423,866			15,677,765			13,017,936			11,439,870
+						
+  Tier 2 Capital:						
+    T2 Cap Instruments & Related Surplus		779,231			778,994			778,762			778,535			778,313
+    Non-qualifying Capital Instruments		0			0			0			0			0
+    Tot Cap Min Int Not Incl in T1 Cap		0			0			0			0			0
+    ALLL in Tier 2 Capital		786,157			721,565			667,027			624,033			624,161
+    Exited Adv App Eligible Cr Reserves		N/A			N/A			N/A			N/A			N/A
+    Unrealized Gains on AFS Pref Stock		N/A			N/A			N/A			N/A			N/A
+  Tier 2 Capital Before Deductions		1,565,388			1,500,559			1,445,789			1,402,568			1,402,474
+  Exited Adv App T2C Before Deductions		N/A			N/A			N/A			N/A			N/A
+  Less: Tier 2 Capital Deductions		0			0			0			0			0
+						
+  Tier 2 Capital - Standardized Approaches		1,565,388			1,500,559			1,445,789			1,402,568			1,402,474
+  Tier 2 Capital - Advanced Approaches		N/A			N/A			N/A			N/A			N/A
+  Total Capital - Standardized Approaches		19,117,891			17,924,425			17,123,554			14,420,504			12,842,344
+  Total Capital - Advanced Approaches		N/A			N/A			N/A			N/A			N/A
+
+
+
+FDIC Certificate # 59017			FRB District/ID_RSSD 12 / 4114567			FIRST REPUBLIC BANK			 SAN FRANCISCO, CA			Capital Analysis-c
+OCC Charter #  0			County:  SAN FRANCISCO			Capital Analysis--Page 11B 						04/15/2023 09:57:44 PM
+Public Report
+
+		12/31/2022			06/30/2022			12/31/2021			06/30/2021			12/31/2020
+Risk Weighted Assets
+  On BS Assets and Securitization Exp						
+    2% Category		0			0			0			0			0
+    4% Category		0			0			0			0			0
+    20% Category		3,222,556			3,208,800			2,778,242			2,571,641			2,154,222
+    50% Category		57,057,153			51,427,007			44,805,228			40,422,142			35,212,520
+    100% Category		71,957,907			66,936,145			60,666,985			56,037,694			51,005,931
+    150% Category		813,713			490,484			453,153			509,430			622,170
+    250% Category		1,484,643			1,254,763			1,149,865			956,858			890,415
+    300% Category		0			0			0			0			0
+    400% Category		0			0			0			0			0
+    600% Category		0			0			0			0			0
+    1250% Category		0			0			0			0			0
+  Other Risk-Weighting App Categories		259,948			238,698			655,867			607,956			559,753
+  Tot RWA Securitization Exp SSFA Mthd		15,750			17,108			19,295			22,310			26,436
+  Total RWA Securitization Exp Gross-Up		0			0			0			0			0
+  On-Balance Sheet Risk Weighted Assets		134,811,669			123,573,004			110,528,635			101,128,030			90,471,447
+  Memo - 0% Category - $		9,870,731			11,614,200			16,252,642			11,196,392			9,454,944
+						
+  Off BS/Oth Items Subj to Risk Weighting						
+    2% Category		0			0			0			0			0
+    4% Category		0			0			0			0			0
+    10% Category		0			0			0			0			0
+    20% Category		6,722			4,091			3,747			2,656			2,125
+    50% Category		1,499,673			1,427,991			1,303,964			1,243,392			1,099,047
+    100% Category		14,992,435			14,408,013			12,740,161			11,865,619			10,489,733
+    150% Category		466,038			398,309			243,623			165,840			259,137
+    625% Category		0			0			0			0			0
+    937.5% Category		0			0			0			0			0
+    1250% Category		0			0			0			0			0
+    1250% Category Securitization Exp		0			0			0			0			0
+  Oth Risk-Weighting App Categories		0			0			0			0			0
+  Tot RWA Securitization Exp SSFA Mthd		0			0			0			0			0
+  Total RWA Securitization Exp Gross-Up		0			0			0			0			0
+  Tot Deriv, Off-BS and Oth - Risk Wght		16,964,868			16,238,403			14,291,495			13,277,507			11,850,042
+  Memo - 0% Category - $		764,768			708,455			645,182			579,466			546,709
+						
+  Standardized Market Risk Weighted Assets		0			0			0			0			0
+						
+  Risk-Weighted Asset Before Ded		151,776,538			139,811,408			124,820,131			114,405,537			102,321,489
+   - Excess Allowable LN&LS Loss		0			0			0			0			0
+   - Allocated Transfer Risk Reserve		0			0			0			0			0
+  Total Risk Weighted Assets		151,776,538			139,811,408			124,820,131			114,405,537			102,321,489
+						
+  Current Credit Exposure All Derivatives		10,259			6,318			4,736			1,864			23,713
+						
+  Derivatives Notional Prin Amounts						
+  OTC Contracts Total		4,729,137			4,884,587			4,354,568			3,644,906			3,194,753
+    Interest Rate		0			0			5,229			19,288			55,635
+    All Other		4,729,137			4,884,587			4,349,339			3,625,618			3,139,118
+  Centrally Clreared Contracts Total		0			0			0			0			0
+    Interest Rate		0			0			0			0			0
+    All Other		0			0			0			0			0
+
+
+
+FDIC Certificate # 59017			FRB District/ID_RSSD 12 / 4114567			FIRST REPUBLIC BANK			 SAN FRANCISCO, CA			Capital Analysis-d
+OCC Charter #  0			County:  SAN FRANCISCO			Capital Analysis--Page 11C 						04/15/2023 09:57:44 PM
+Public Report
+
+		12/31/2022			06/30/2022			12/31/2021			06/30/2021			12/31/2020
+Risk Based Capital ($000)
+  Tier 1 Capital						
+    Total Equity Capital Adjusted		N/A			N/A			N/A			N/A			N/A
+   - Ineligible Def Tax Assets		82,316			83,430			114,794			112,057			126,754
+   - Ineligible Intangibles		184,976			188,865			193,582			198,419			203,997
+   - Cumul Change F.V. Financial Liab		N/A			N/A			N/A			N/A			N/A
+    Net Tier 1		17,552,503			16,423,866			15,677,765			13,017,936			11,439,870
+						
+  Tier 2 Capital						
+   + Qualif Debt and Redeem Pfd		N/A			N/A			N/A			N/A			N/A
+   + Cumulative Preferred Stock		N/A			N/A			N/A			N/A			N/A
+   + Allowable LN&LS Loss Allow		786,157			721,565			667,027			624,033			624,161
+   + Unrl Gain Mktbl Eqy Sec (45%)		N/A			N/A			N/A			N/A			N/A
+   + Other Tier 2 Capital Comp		N/A			N/A			N/A			N/A			N/A
+    Net Eligible Tier 2		1,565,388			1,500,559			1,445,789			1,402,568			1,402,474
+						
+  Total RBC Before Deductions						
+    Tier 1 & Tier 2		19,117,891			17,924,425			17,123,554			14,420,504			12,842,344
+    Tier 3 & Fin Sub Adj		N/A			N/A			N/A			N/A			N/A
+   - Deductions for Total RBC		N/A			N/A			N/A			N/A			N/A
+    Total Risk-Based-Capital		19,117,891			17,924,425			17,123,554			14,420,504			12,842,344
+						
+  Risk-Weighted Assets						
+  On-Balance Sheet						
+    Category Two - 20%		3,222,556			3,208,800			2,778,242			2,571,641			2,154,222
+    Category Three - 50%		57,057,153			51,427,007			44,805,228			40,422,142			35,212,520
+    Category Four - 100%		71,957,907			66,936,145			60,666,985			56,037,694			51,005,931
+      Total On-Balance Sheet		134,811,669			123,573,004			110,528,635			101,128,030			90,471,447
+    Memo: Category One - 0%		9,870,731			11,614,200			16,252,642			11,196,392			9,454,944
+						
+  Off-Balance Sheet						
+    Category Two - 20%		6,722			4,091			3,747			2,656			2,125
+    Category Three - 50%		1,499,673			1,427,991			1,303,964			1,243,392			1,099,047
+    Category Four - 100%		14,992,435			14,408,013			12,740,161			11,865,619			10,489,733
+      Total Off-Balance Sheet		16,964,868			16,238,403			14,291,495			13,277,507			11,850,042
+    Memo: Category One - 0%		764,768			708,455			645,182			579,466			546,709
+						
+  Adjustments to Risk-Wgt Assets						
+  Risk-Weighted Asset Before Ded		151,776,538			139,811,408			124,820,131			114,405,537			102,321,489
+     - Excess Allowable LN&LS Loss Al		0			0			0			0			0
+     - Allocated Transfer Risk Reserve		0			0			0			0			0
+   + Mkt Risk Asset & Fin Sub Adj		N/A			N/A			N/A			N/A			N/A
+    Total Risk-Weighted Assets		151,776,538			139,811,408			124,820,131			114,405,537			102,321,489

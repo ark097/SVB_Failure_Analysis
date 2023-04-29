@@ -1,0 +1,800 @@
+FDIC Certificate # 34221			FRB District/ID_RSSD 2 / 2489805			MORGAN STANLEY PRIVATE BANK, NATIONAL ASSOCIATION			 PURCHASE, NY			Summary Ratios
+OCC Charter #  24981			County:  WESTCHESTER			Summary Ratios--Page 1 						04/15/2023 10:23:55 PM
+Public Report
+
+		06/30/2020			12/31/2019			06/30/2019			12/31/2018			06/30/2018
+Earnings and Profitability	BANK	PG 1	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT
+  Percent of Average Assets:																
+    Interest Income (TE)	2.49	2.78	34	3.28	4.03	6	3.34	4.12	5	3.08	3.96	3	2.95	3.83	3
+     - Interest Expense	0.50	0.49	58	0.85	0.80	53	0.85	0.82	53	0.60	0.61	48	0.50	0.53	46
+      Net Interest Income (TE)	1.99	2.28	31	2.43	3.23	6	2.50	3.31	6	2.48	3.35	3	2.44	3.31	3
+     + Noninterest Income	0.25	1.29	6	0.23	0.84	12	0.21	0.84	7	0.17	0.86	6	0.16	0.89	6
+     - Noninterest Expense	0.59	2.17	10	0.64	2.24	4	0.65	2.24	4	0.71	2.35	4	0.73	2.36	4
+      Pre-Provision Net Revenue (TE)	1.65	1.47	62	2.02	1.87	64	2.06	1.94	63	1.94	1.91	58	1.88	1.89	53
+     - Provision: Loan & Lease Losses	0.09	0.90	10	0.01	0.12	12	0.01	0.12	9	0.00	0.14	6	-0.01	0.14	7
+     - Provision: Credit Loss Oth Assets	0.00	0.01	42	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+      Pretax Operating Income (TE)	1.56	0.54	96	2.01	1.74	75	2.05	1.83	75	1.94	1.76	72	1.89	1.72	67
+     + Realized Gains/Losses Sec	0.00	0.03	27	0.03	0.01	87	0.06	0.00	95	0.00	0.00	83	0.00	0.00	61
+     + Unrealized Gains / Losses Equity Sec	0.00	0.00	72	0.00	0.00	48	0.00	0.00	47	0.00	0.00	84	0.00	0.00	84
+    Pretax Net Operating Income (TE)	1.56	0.57	96	2.04	1.76	75	2.11	1.84	76	1.94	1.76	70	1.89	1.72	68
+      Net Operating Income	1.18	0.46	96	1.55	1.35	74	1.60	1.40	74	1.46	1.37	64	1.42	1.33	64
+    Net Inc Attrib to Min Ints	0.00	0.00	58	0.00	0.00	82	0.00	0.00	81	0.00	0.00	83	0.00	0.00	84
+    Net Income Adjusted Sub S	1.18	0.46	96	1.55	1.35	73	1.60	1.41	73	1.46	1.36	64	1.42	1.32	64
+      Net Income	1.18	0.46	96	1.55	1.35	73	1.60	1.41	73	1.46	1.36	64	1.42	1.32	64
+																
+  Margin Analysis:																
+  Avg Earning Assets to Avg Assets	99.58	92.67	96	99.36	91.88	94	99.24	91.95	94	99.34	92.09	97	99.35	92.28	96
+  Avg Int-Bearing Funds to Avg Assets	89.56	80.46	93	89.18	78.35	93	89.03	78.21	93	89.63	77.77	95	89.70	78.37	95
+  Int Inc (TE) to Avg Earn Assets	2.50	3.00	24	3.30	4.39	4	3.37	4.50	4	3.10	4.31	3	2.97	4.17	3
+  Int Expense to Avg Earn Assets	0.50	0.53	51	0.86	0.86	50	0.85	0.89	47	0.60	0.66	43	0.51	0.58	42
+  Net Int Inc-TE to Avg Earn Assets	2.00	2.46	27	2.44	3.53	4	2.52	3.62	5	2.50	3.65	3	2.46	3.59	3
+																
+  Loan & Lease Analysis:																
+  Net Loss to Average Total LN&LS	0.00	0.37	13	0.00	0.15	9	0.00	0.14	10	0.00	0.16	6	0.00	0.15	11
+  Earnings Coverage of Net Losses (X)	N/A	11.31	N/A	773.00	46.60	95	764.00	48.56	95	1,335.00	51.15	97	N/A	44.29	N/A
+  LN&LS Allowance to LN&LS Not HFS	0.16	1.77	6	0.08	0.78	3	0.08	0.81	3	0.08	0.84	2	0.07	0.87	2
+  LN&LS Allowance to Net Losses (X)	N/A	4.87	N/A	25.00	9.67	83	21.50	10.20	84	42.00	12.06	89	N/A	11.89	N/A
+  LN&LS Allowance to Nonaccrual LN&LS (X)	1.10	2.70	14	0.54	2.24	9	0.48	2.17	6	0.58	2.44	7	0.79	2.38	13
+  30-89 Days Past Due	0.78	0.48	89	0.19	0.35	29	0.28	0.30	51	0.22	0.37	30	0.17	0.31	24
+  Total LN&LS-90+ Days PD & Nonaccrual	0.14	0.94	10	0.15	0.55	9	0.16	0.56	10	0.13	0.59	8	0.09	0.64	5
+  Non-Curr Lns+OREO to Lns+OREO	0.15	0.96	10	0.15	0.60	9	0.16	0.63	9	0.13	0.66	6	0.10	0.70	4
+																
+  Liquidity																
+  Net Non Core Fund Dep New $250M	5.80	2.63	58	21.63	12.07	86	21.39	13.39	82	11.14	13.84	38	11.13	13.71	37
+  Net Loans & Leases to Assets	67.88	49.29	86	76.68	69.57	81	75.50	69.81	73	72.86	69.40	63	73.69	69.36	70
+  Net Loans & Leases to Deposits	74.12	60.41	62	86.02	88.58	35	84.82	89.33	26	83.08	88.24	25	83.71	88.57	31
+																
+  Capitalization																
+  Leverage Ratio	7.9430	8.47	34	9.8864	10.08	44	10.7132	10.12	73	9.9824	10.02	49	9.8254	9.93	50
+  Total Capital Ratio	22.1518	14.93	96	25.0122	13.75	95	27.6004	13.68	95	25.3652	13.62	95	24.7913	13.69	94
+  Cash Dividends to Net Income	104.24	69.28	68	49.45	59.28	34	0.00	52.55	11	0.00	47.35	11	0.00	39.89	20
+  Non-Curr Lns+OREO to T1 Capital+Allowance	1.23	5.35	17	1.20	4.13	12	1.11	4.30	12	1.01	4.48	9	0.74	4.82	5
+																
+  Growth Rates																
+  Total Assets	35.70	18.37	86	10.47	11.41	64	8.51	10.26	58	15.42	10.03	78	14.97	11.64	68
+  Tier 1 Capital	3.61	3.96	55	10.85	11.53	60	20.23	11.12	78	15.58	11.50	73	12.04	13.02	57
+  Net Loans & Leases	22.00	8.09	89	16.27	11.44	75	11.18	10.67	67	13.01	10.99	69	15.93	13.10	67
+  Short Term Investments	319.56	189.09	75	-33.62	39.23	16	-44.67	24.96	14	14.78	12.77	58	4.28	20.09	53
+  Short Term Non Core Funding	24.83	-5.78	86	30.20	13.84	76	4.46	23.21	37	29.95	21.75	63	83.87	20.65	86
+																
+Average Total Assets		95,616,500			76,562,750			74,346,000			68,758,750			66,423,000
+Net Income		566,000			1,185,000			594,000			1,002,000			471,000
+						
+Number of banks in Peer Group		28			94			93			92			89
+
+
+
+FDIC Certificate # 34221			FRB District/ID_RSSD 2 / 2489805			MORGAN STANLEY PRIVATE BANK, NATIONAL ASSOCIATION			 PURCHASE, NY			Income Statement $
+OCC Charter #  24981			County:  WESTCHESTER			Income Statement $--Page 2 						04/15/2023 10:23:55 PM
+Public Report
+
+																	Percent Change
+		06/30/2020			12/31/2019			06/30/2019			12/31/2018			06/30/2018			1 Year
+Interest and Fees on Loans		1,013,000			2,123,000			1,046,000			1,815,000			844,000			-3.15
+Income From Lease Financing		0			0			0			0			0			N/A
+  Tax-Exempt		0			0			0			0			0			N/A
+  Estimated Tax Benefit		0			0			0			0			0			N/A
+    Income on Loans & Leases (TE)		1,013,000			2,123,000			1,046,000			1,815,000			844,000			-3.15
+							
+US Treas & Agency (Excl MBS)		125,000			238,000			120,000			141,000			65,000			4.17
+Mortgage Backed Securities		29,000			56,000			25,000			39,000			19,000			16.00
+  Estimated Tax Benefit		0			0			0			0			0			N/A
+All Other Securities		5,000			17,000			9,000			23,000			12,000			-44.44
+  Tax-Exempt Securities Income		0			0			0			0			0			N/A
+Investment Interest Income (TE)		159,000			311,000			154,000			203,000			96,000			3.25
+							
+Interest on Due From Banks		14,000			61,000			35,000			88,000			31,000			-60.00
+Int on Fed Funds Sold & Resales		1,000			0			0			0			0			N/A
+Trading Account Income		0			N/A			N/A			N/A			N/A			N/A
+Other Interest Income		4,000			15,000			8,000			12,000			8,000			-50.00
+							
+  Total Interest Income (TE)		1,191,000			2,510,000			1,243,000			2,118,000			979,000			-4.18
+							
+Int on Deposits in Foreign Off		N/A			N/A			N/A			N/A			N/A			N/A
+Interest on Domestic Deposits		237,000			637,000			305,000			375,000			148,000			-22.30
+Int on Fed Funds Purch & Repos		0			9,000			9,000			36,000			18,000			-100.00
+Int Trad Liab & Oth Borrowings		1,000			5,000			1,000			2,000			1,000			0.00
+Int on Sub Notes & Debentures		0			0			0			0			0			N/A
+Other Interest Expense		N/A			N/A			N/A			N/A			N/A			N/A
+							
+  Total Interest Expense		238,000			651,000			315,000			413,000			167,000			-24.44
+							
+  Net Interest Income (TE)		953,000			1,859,000			928,000			1,705,000			812,000			2.69
+Non-interest Income		118,000			179,000			77,000			117,000			53,000			53.25
+  Adjusted Operating Income (TE)		1,071,000			2,038,000			1,005,000			1,822,000			865,000			6.57
+							
+Non-Interest Expense		281,000			492,000			241,000			487,000			241,000			16.60
+  Pre-Provision Net Revenue (TE)		790,000			1,546,000			764,000			1,335,000			624,000			3.40
+Provision: Loan & Lease Losses		43,000			10,000			2,000			3,000			-3,000			2,050.00
+Provision: Credit Losses Other Assets		0			N/A			N/A			N/A			N/A			N/A
+  Pretax Operating Income (TE)		747,000			1,536,000			762,000			1,332,000			627,000			-1.97
+							
+Realized G/L Hld-to-Maturity Sec		0			0			0			0			0			N/A
+Realized G/L Avail-for Sale Sec		0			23,000			23,000			1,000			0			-100.00
+Unrealized G/L Equity Securities		0			0			0			0			0			N/A
+  Pretax Net Operating Inc (TE)		747,000			1,559,000			785,000			1,333,000			627,000			-4.84
+							
+Applicable Income Taxes		181,000			374,000			191,000			331,000			156,000			-5.24
+Current Tax Equiv Adjustment		0			0			0			0			0			N/A
+Other Tax Equiv Adjustments		0			0			0			0			0			N/A
+  Applicable Income Taxes (TE)		181,000			374,000			191,000			331,000			156,000			-5.24
+							
+  Net Operating Income		566,000			1,185,000			594,000			1,002,000			471,000			-4.71
+							
+Net Discontinued / Extraordinary Items		0			0			0			0			0			N/A
+Net Inc Noncontrolling Minority Interests		0			0			0			0			0			N/A
+  Net Income		566,000			1,185,000			594,000			1,002,000			471,000			-4.71
+							
+Cash Dividends Declared		590,000			586,000			0			0			0			N/A
+Retained Earnings		-24,000			599,000			594,000			1,002,000			471,000			-104.04
+Memo: Net International Income		N/A			N/A			N/A			N/A			N/A			N/A
+Memo: Interest on Time Dep Over Ins Limit		0			0			0			0			0			N/A
+
+
+
+FDIC Certificate # 34221			FRB District/ID_RSSD 2 / 2489805			MORGAN STANLEY PRIVATE BANK, NATIONAL ASSOCIATION			 PURCHASE, NY			Asset Yields and Funding Costs
+OCC Charter #  24981			County:  WESTCHESTER			Asset Yields and Funding Costs--Page 3a 						04/15/2023 10:23:55 PM
+Public Report
+
+		06/30/2020			12/31/2019			06/30/2019			12/31/2018			06/30/2018
+YIELD ON OR COST OF:	BANK	PG 1	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT
+  Total Loan & Leases (TE)	3.03	3.87	17	3.68	4.91	2	3.78	5.01	2	3.53	4.84	2	3.39	4.69	2
+    Loans in Domestic Offices	3.03	3.89	17	3.68	4.89	2	3.78	5.00	2	3.53	4.82	2	3.39	4.68	2
+      Real Estate	3.23	3.62	10	3.45	4.70	5	3.47	4.81	5	3.32	4.65	3	3.26	4.53	3
+        Secured by 1-4 Fam Resi Prop	3.22	3.69	10	3.38	4.48	6	3.40	4.58	5	3.26	4.42	7	3.21	4.27	7
+        All Other Loans Sec Real Estate	3.27	3.70	17	3.96	4.91	6	4.07	5.01	7	3.88	4.80	5	3.75	4.66	5
+      Commercial & Industrial	2.40	3.49	6	3.33	5.34	2	3.65	5.49	3	3.16	5.12	1	3.00	4.93	1
+      Individual	3.12	4.95	25	4.37	5.90	20	4.55	5.98	23	4.50	5.65	34	4.07	5.39	27
+        Credit Card	N/A	11.32	N/A	N/A	9.25	N/A	N/A	8.64	N/A	N/A	9.79	N/A	N/A	9.71	N/A
+      Agricultural	N/A	4.20	N/A	N/A	5.36	N/A	N/A	5.54	N/A	N/A	5.06	N/A	N/A	4.77	N/A
+    Loans in Foreign Offices	N/A	2.95	N/A	N/A	5.31	N/A	N/A	5.48	N/A	N/A	5.27	N/A	N/A	5.08	N/A
+  Total Investment Securities (TE)	1.93	2.22	24	2.11	2.72	4	2.11	2.79	4	1.75	2.63	2	1.64	2.55	2
+  Total Investment Securities (Book)	1.93	2.21	27	2.11	2.64	6	2.11	2.70	5	1.75	2.53	3	1.64	2.46	2
+    US Treas & Agency (Excl MBS)	1.90	1.72	65	1.99	2.25	28	1.98	2.34	25	1.55	2.09	13	1.43	1.97	15
+    Mortgage Backed Securities	2.02	2.34	21	2.48	2.61	31	2.55	2.67	32	2.23	2.49	18	2.10	2.42	13
+    All Other Securities	2.16	2.29	46	3.19	3.22	56	3.26	3.20	61	2.94	3.08	39	2.86	3.01	43
+  Interest-Bearing Bank Balances	0.27	0.40	13	1.78	2.06	17	1.96	2.30	17	1.72	1.78	27	1.43	1.54	25
+  Federal Funds Sold & Resales	0.15	1.71	13	N/A	1.99	N/A	N/A	2.15	N/A	N/A	2.12	N/A	N/A	1.78	N/A
+  Total Interest Bearing Deposits	0.55	0.48	65	0.94	0.93	51	0.93	0.94	51	0.63	0.69	47	0.51	0.58	46
+    Transaction accounts	0.77	0.85	58	1.60	1.00	79	1.58	1.04	72	0.74	0.68	59	0.46	0.57	44
+    Other Savings Deposits	0.10	0.34	6	0.40	0.66	26	0.47	0.69	30	0.35	0.49	35	0.28	0.41	33
+    Time Deposits	2.17	1.57	92	2.70	1.85	96	2.72	1.82	96	2.16	1.35	96	1.95	1.17	95
+    Foreign Office Deposits	N/A	0.36	N/A	N/A	0.88	N/A	N/A	0.87	N/A	N/A	0.66	N/A	N/A	0.52	N/A
+																
+    Federal Funds Purchased & Repos	N/A	0.84	N/A	2.48	1.44	85	2.48	1.57	82	2.40	1.35	85	2.40	1.12	89
+    Other Borrowed Money	1.84	2.11	41	2.40	2.29	58	2.96	2.41	84	0.74	2.19	2	1.50	2.01	4
+    Subord Notes & Debentures	N/A	3.56	N/A	N/A	4.85	N/A	N/A	5.38	N/A	N/A	5.27	N/A	N/A	5.07	N/A
+    Other Interest Expense	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+    All Interest-Bearing Funds	0.56	0.61	51	0.95	1.05	42	0.95	1.08	39	0.67	0.81	36	0.56	0.69	37
+																
+    Memo: Interest on Time Dep Over Ins Limit	0.00	1.47	3	0.00	1.94	1	0.00	1.94	1	0.00	1.48	2	0.00	1.27	2
+																
+  PERCENT OF AVERAGE ASSETS:																
+    Total Loan & Leases	69.86	53.10	82	75.39	70.47	69	74.51	70.45	69	74.73	69.94	70	74.89	69.67	73
+      Loans in Domestic Offices	69.86	51.06	82	75.39	69.58	73	74.51	69.45	71	74.73	68.89	75	74.89	68.59	77
+        Real Estate	37.48	19.94	86	42.33	45.36	37	42.51	45.04	37	43.33	44.51	43	44.52	43.91	47
+          Secured by 1-4 Fam Resi Prop	32.55	11.97	93	37.35	15.77	96	37.68	15.68	96	38.80	15.77	96	40.02	15.91	96
+          All Other Loans Sec Real Estate	4.93	7.62	34	4.98	27.96	9	4.83	27.55	9	4.54	27.05	9	4.50	26.27	10
+        Commercial & Industrial	4.09	13.92	17	4.48	12.69	12	4.43	12.98	10	4.37	12.89	10	4.31	12.82	11
+        Individual	11.58	6.33	79	11.66	3.01	91	11.06	2.81	91	10.77	3.02	92	10.37	3.06	91
+          Credit Card	0.00	1.21	27	0.00	0.14	46	0.00	0.15	48	0.00	0.19	47	0.00	0.20	48
+        Agricultural	0.00	0.07	34	0.00	0.29	23	0.00	0.34	22	0.00	0.34	24	0.00	0.28	25
+      Loans in Foreign Offices	N/A	1.02	N/A	N/A	1.89	N/A	N/A	1.93	N/A	N/A	1.34	N/A	N/A	1.56	N/A
+    Total Investment Securities	17.22	22.59	27	19.26	16.91	67	19.68	17.32	67	16.90	17.94	50	17.64	18.17	52
+      US Treas & Agency (Excl MBS)	13.73	3.79	93	15.61	1.77	96	16.30	1.84	96	13.22	2.02	94	13.66	2.04	96
+      Mortgage Backed Securities	3.00	14.22	6	2.95	11.10	9	2.64	11.17	8	2.54	11.01	8	2.72	11.10	8
+      All Other Securities	0.48	4.04	27	0.70	2.85	26	0.74	3.04	25	1.14	3.59	26	1.26	3.68	30
+    Interest-Bearing Bank Balances	10.88	10.74	58	4.47	2.58	81	4.81	2.26	86	7.45	2.49	91	6.54	2.58	88
+    Federal Funds Sold & Resales	1.39	1.41	68	0.00	0.19	38	0.00	0.16	42	0.00	0.09	48	0.00	0.08	48
+    Total Interest Bearing Deposits	89.44	73.70	93	88.43	71.05	98	87.96	70.74	98	87.06	70.43	97	87.24	70.70	97
+      Transaction Accounts	12.28	6.48	86	9.07	3.67	89	7.14	3.55	84	3.73	3.34	68	3.25	3.21	62
+      Other Savings Deposits	61.37	51.18	65	63.39	52.32	78	66.26	52.19	82	70.96	52.80	88	72.08	53.77	88
+      Time Deposits	15.79	8.88	79	15.97	13.14	70	14.56	13.11	62	12.37	12.53	54	11.91	12.20	50
+      Foreign Office Deposits	N/A	6.86	N/A	N/A	1.39	N/A	N/A	1.39	N/A	N/A	0.91	N/A	N/A	1.19	N/A
+																
+    Federal Funds Purchased & Repos	0.00	0.73	6	0.47	1.07	44	0.98	1.05	57	2.18	1.12	76	2.26	1.16	77
+    Other Borrowed Money	0.11	5.14	10	0.27	4.95	4	0.09	5.23	4	0.39	5.28	7	0.20	5.47	7
+    Subord Notes & Debentures	0.00	0.45	27	0.00	0.11	68	0.00	0.10	72	0.00	0.12	70	0.00	0.14	70
+    Other Interest Expense Balances	0.11	5.65	10	0.27	5.13	4	0.09	5.41	4	0.39	5.48	7	0.20	5.68	7
+    All Interest-Bearing Funds	89.56	80.46	93	89.18	78.35	93	89.03	78.21	93	89.63	77.77	95	89.70	78.37	95
+																
+    Time Deposits Over Ins Limit	0.01	2.80	10	0.03	3.11	6	0.03	3.04	6	0.02	3.04	5	0.02	2.90	5
+																
+
+
+
+FDIC Certificate # 34221			FRB District/ID_RSSD 2 / 2489805			MORGAN STANLEY PRIVATE BANK, NATIONAL ASSOCIATION			 PURCHASE, NY			Balance Sheet $
+OCC Charter #  24981			County:  WESTCHESTER			Balance Sheet $--Page 4 						04/15/2023 10:23:55 PM
+Public Report
+
+																	Percent Change															
+		06/30/2020			12/31/2019			06/30/2019			12/31/2018			06/30/2018			1 Quarter			1 Year
+Assets:
+  Real Estate Loans		37,101,000			34,566,000			32,299,000			30,852,000			29,505,000			3.32			14.87
+  Commercial Loans		4,013,000			3,901,000			3,430,000			3,279,000			3,114,000			4.07			17.00
+  Individual Loans		11,913,000			10,523,000			8,931,000			8,137,000			7,515,000			8.08			33.39
+  Agricultural Loans		0			0			0			0			0			N/A			N/A
+  Other Loans & Leases		16,678,000			14,735,000			12,429,000			12,539,000			11,211,000			1.91			34.19
+    LN&LS Allowance		110,000			50,000			43,000			42,000			37,000			26.44			155.81
+    Unearned Income		0			0			0			0			0			N/A			N/A
+      Net Loans & Leases		69,595,000			63,675,000			57,046,000			54,765,000			51,308,000			3.77			22.00
+  U.S. Treasury & Agency Securities		16,071,000			12,590,000			12,745,000			11,416,000			9,533,000			13.46			26.10
+  Municipal Securities		0			0			0			0			0			N/A			N/A
+  Foreign Debt Securities		0			0			0			0			0			N/A			N/A
+  All Other Securities		2,331,000			2,281,000			1,987,000			1,087,000			1,470,000			1.39			17.31
+    HTM Securities Allowance		0			N/A			N/A			N/A			N/A			N/A			N/A
+  Interest-Bearing Bank Balances		8,632,000			3,791,000			3,138,000			7,215,000			6,599,000			-54.98			175.08
+  Federal Funds Sold & Resales		5,000,000			0			0			0			0			66.67			N/A
+  Trading Account Assets		0			0			0			0			0			N/A			N/A
+    Total Investments		32,034,000			18,662,000			17,870,000			19,718,000			17,602,000			-17.09			79.26
+    Total Earning Assets		101,629,000			82,337,000			74,916,000			74,483,000			68,910,000			-3.85			35.66
+								
+  Nonint Cash & Due From Banks		39,000			39,000			4,000			8,000			6,000			-20.41			875.00
+  Premises, Fix Assts, Cap Leases		0			0			0			0			0			N/A			N/A
+  Other Real Estate Owned		2,000			3,000			0			0			2,000			0.00			N/A
+  Dir & Indir Inv RE Ventures		0			0			0			0			0			N/A			N/A
+  Inv in Unconsolidated Subs		0			0			0			0			0			N/A			N/A
+  Acceptances & Oth Assets		855,000			657,000			634,000			678,000			710,000			34.22			34.86
+    Total Assets		102,525,000			83,036,000			75,554,000			75,169,000			69,628,000			-3.63			35.70
+  Average Assets During Quarter		103,614,000			80,535,000			74,161,000			71,957,000			67,254,000			18.26			39.71
+								
+  Liabilities:								
+  Demand Deposits		15,966,000			10,053,000			7,934,000			4,540,000			2,751,000			-19.11			101.24
+  All Now & ATS Accounts		0			0			0			0			0			N/A			N/A
+  Money Market Deposit Accounts		64,343,000			50,200,000			45,980,000			52,202,000			48,430,000			4.93			39.94
+  Other savings Deposits		0			0			0			0			0			N/A			N/A
+  Time Deps At Or Below Insurance Limit		13,574,000			13,761,000			13,314,000			9,167,000			10,103,000			-17.36			1.95
+  Less: Fully Insured Brokered Deposits		22,646,000			21,071,000			19,321,000			13,740,000			12,977,000			-8.11			17.21
+    Core Deposits		71,237,000			52,943,000			47,907,000			52,169,000			48,307,000			-2.20			48.70
+  Fully Insured Brokered Deposits		22,646,000			21,071,000			19,321,000			13,740,000			12,977,000			-8.11			17.21
+  Time Deps Above Insurance Limit		18,000			12,000			26,000			11,000			11,000			50.00			-30.77
+  Deposits in Foreign Offices		N/A			N/A			N/A			N/A			N/A			N/A			N/A
+    Total Deposits		93,901,000			74,026,000			67,254,000			65,920,000			61,295,000			-3.69			39.62
+  Federal Funds Purch & Resale		0			0			0			1,501,000			1,501,000			N/A			N/A
+  Fed Home Loan Bor Mat < 1 Year		0			750,000			0			0			0			N/A			N/A
+  Fed Home Loan Bor Mat > 1 Year		0			0			0			0			0			N/A			N/A
+  Oth Borrowing Mat < 1 Year		0			0			1,000			0			0			N/A			-100.00
+  Oth Borrowing Mat > 1 Year		23,000			50,000			16,000			7,000			5,000			27.78			43.75
+  Subordinated Notes & Debentures		0			0			0			0			0			N/A			N/A
+  Acceptances & Other Liabilities		393,000			248,000			338,000			558,000			219,000			-4.15			16.27
+    Total Liabilities (Incl Mortg)		94,317,000			75,074,000			67,609,000			67,986,000			63,020,000			-3.68			39.50
+  Total Bank Capital & Min Int		8,208,000			7,962,000			7,945,000			7,183,000			6,608,000			-3.07			3.31
+    Total Liabilities & Capital		102,525,000			83,036,000			75,554,000			75,169,000			69,628,000			-3.63			35.70
+								
+  Memoranda:								
+  Officers, Shareholder Loans (#)		7			7			7			5			4						
+  Officers, Shareholder Loans ($)		10,000			9,000			10,000			8,000			6,000			25.00			0.00
+  Held-to-Maturity Securities		5,529,000			5,929,000			6,030,000			4,235,000			2,975,000			-5.16			-8.31
+  Available-for-Sale Securities		12,873,000			8,942,000			8,702,000			8,268,000			8,028,000			21.07			47.93
+  All Brokered Deposits		31,470,000			27,054,000			23,871,000			15,980,000			14,308,000			-3.20			31.83
+  LN&LS in Foreign Offices		0			N/A			N/A			N/A			N/A			N/A			N/A
+  Loans Held for Sale		12,000			13,000			21,000			22,000			30,000			-14.29			-42.86
+  Loans not Held for Sale		69,693,000			63,712,000			57,068,000			54,785,000			51,315,000			3.80			22.12
+
+
+
+FDIC Certificate # 34221			FRB District/ID_RSSD 2 / 2489805			MORGAN STANLEY PRIVATE BANK, NATIONAL ASSOCIATION			 PURCHASE, NY			Balance Sheet %
+OCC Charter #  24981			County:  WESTCHESTER			Balance Sheet Percentage Composition--Page 6 						04/15/2023 10:23:55 PM
+Public Report
+
+		06/30/2020			12/31/2019			06/30/2019			12/31/2018			06/30/2018
+Percent of Average Assets	BANK	PG 1	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT
+  Loans Held For Sale	0.01	0.59	13	0.02	0.42	23	0.03	0.37	25	0.04	0.31	29	0.05	0.34	27
+  Loans Not Held For Sale	68.69	51.60	82	75.15	69.42	76	74.21	69.28	72	74.15	69.54	70	74.33	69.07	73
+    Less: LN&LS Allowance	0.08	0.72	13	0.06	0.54	3	0.06	0.56	4	0.06	0.59	3	0.06	0.60	3
+      Net Loans & Leases	68.62	51.66	82	75.11	69.71	72	74.18	69.67	70	74.14	69.34	72	74.32	69.08	74
+																
+  Interest-Bearing Bank Balances	10.82	11.02	62	5.28	2.60	85	6.09	2.53	87	8.32	2.62	91	7.85	2.75	90
+  Federal Funds Sold & Resales	2.74	1.74	68	0.00	0.19	49	0.00	0.17	48	0.00	0.10	52	0.00	0.08	53
+  Trading Account Assets	0.00	2.25	6	0.00	0.13	42	0.00	0.11	43	0.00	0.08	44	0.00	0.08	43
+  Held-to-Maturity Securities	5.92	5.13	55	7.32	2.53	85	7.27	2.63	81	4.49	2.85	73	4.15	2.90	71
+    HTM Securities Allowance	0.00	0.00	57	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+  Available-for-Sale Securities	11.11	17.31	17	11.41	13.44	40	11.56	13.38	39	12.06	13.89	39	12.67	14.05	47
+  Marketable Equity Sec at FV	0.00	0.04	27	0.00	0.02	37	0.00	0.02	39	0.00	0.02	34	0.00	0.03	36
+																
+    Total Earning Assets	99.22	91.77	93	99.12	90.77	95	99.10	90.85	95	99.01	90.89	97	98.99	91.09	97
+																
+  Nonint Cash & Due From Banks	0.04	0.92	10	0.02	1.09	2	0.01	1.05	2	0.01	1.12	2	0.01	1.08	2
+  Premises, Fix Assts & Cap Leases	0.00	0.73	10	0.00	1.17	3	0.00	1.13	3	0.00	0.96	4	0.01	0.96	5
+  Other Real Estate Owned	0.00	0.01	31	0.00	0.04	13	0.00	0.04	10	0.00	0.04	12	0.00	0.05	16
+  Dir & Indir Inv RE Ventures	0.00	0.19	48	0.00	0.07	71	0.00	0.07	71	0.00	0.06	72	0.00	0.05	73
+  Inv in Unconsolidated Subs	0.00	0.16	34	0.00	0.03	66	0.00	0.03	67	0.00	0.02	65	0.00	0.02	65
+  Acceptances & Other Assets	0.74	6.06	6	0.86	6.60	4	0.89	6.58	4	0.98	6.65	3	0.99	6.49	3
+    Total Non-Earning Assets	0.78	8.23	6	0.88	9.24	4	0.90	9.15	4	0.99	9.12	2	1.01	8.92	2
+      Total Assets	100.00	100.00	62	100.00	100.00	96	100.00	100.00	97	100.00	100.00	45	100.00	100.01	51
+																
+  Standby Letters of Credit	0.34	2.32	10	0.30	0.59	33	0.28	0.60	28	0.29	0.65	27	0.28	0.66	25
+																
+  Liabilities																
+  Demand Deposits	15.67	11.86	79	9.91	6.97	75	8.37	6.91	67	4.77	7.22	29	4.29	7.47	25
+  All NOW & ATS Accounts	0.00	1.42	10	0.00	1.78	18	0.00	1.78	19	0.00	1.63	16	0.00	1.58	18
+  Money Market Deposit Accounts	60.24	37.61	93	63.14	35.88	92	65.55	35.99	93	70.78	37.09	92	71.68	37.44	93
+  Other Savings Deposits	0.00	11.72	10	0.00	15.47	5	0.00	15.33	5	0.00	16.12	4	0.00	15.93	4
+  Time Deps At or Below Insurance Limit	14.99	5.21	86	15.64	9.42	87	14.66	9.49	84	11.97	9.09	73	11.62	8.87	73
+  Less: Fully Insured Brokered Deposits	23.42	5.70	93	23.37	3.57	96	21.77	3.69	96	16.66	4.01	95	15.55	4.09	94
+    Core Deposits	67.48	64.07	48	65.32	70.54	25	66.81	70.49	31	70.86	70.60	50	72.04	70.43	55
+  Fully Insured Brokered Deposits	23.42	5.70	93	23.37	3.57	96	21.77	3.69	96	16.66	4.01	95	15.55	4.09	94
+  Time Deps Above Insurance Limit	0.01	2.73	10	0.02	3.11	6	0.03	3.12	6	0.02	3.11	5	0.03	2.97	5
+  Deposits in Foreign Offices	N/A	5.45	N/A	N/A	1.96	N/A	N/A	1.97	N/A	N/A	1.37	N/A	N/A	1.71	N/A
+    Total Deposits	90.91	79.66	93	88.71	78.67	95	88.60	78.71	95	87.54	78.88	94	87.62	78.90	93
+																
+  Federal Funds Purch & Repos	0.00	0.67	17	0.39	1.06	41	0.67	1.05	50	2.17	1.12	76	2.24	1.14	77
+  Total Fed Home Loan Borrowings	0.26	2.14	20	0.27	3.97	15	0.00	4.13	9	0.29	4.41	12	0.25	4.53	16
+  Total Other Borrowings	0.03	3.59	10	0.03	0.55	17	0.02	0.53	15	0.01	0.42	22	0.01	0.40	24
+    Memo: Sht Ter N Core Funding	17.07	11.67	79	17.11	11.05	81	16.22	11.25	79	16.68	11.47	78	16.60	11.65	75
+																
+  Subordinated Notes & Debentures	0.00	0.44	27	0.00	0.11	68	0.00	0.10	72	0.00	0.12	70	0.00	0.14	70
+  Acceptances & Other Liabilities	0.36	2.12	3	0.51	1.12	8	0.60	1.06	13	0.41	1.01	4	0.33	1.01	1
+    Total Liabilities (Incl Mortg)	91.56	89.42	82	89.92	86.82	83	89.89	86.92	84	90.41	87.23	84	90.45	87.47	85
+																
+  Total Bank Capital & Min Int	8.44	10.58	17	10.08	13.18	16	10.11	13.08	15	9.59	12.77	15	9.55	12.53	14
+    Total Liabilities & Capital	100.00	100.00	96	100.00	100.00	95	100.00	100.00	95	100.00	100.00	94	100.00	100.00	96
+																
+  Memo: All Brokered Deposits	31.18	6.88	93	29.03	3.83	96	26.33	3.98	96	19.15	4.34	94	17.91	4.45	94
+    Insured Brokered Deposits	23.42	5.70	93	23.37	3.57	96	21.77	3.69	96	16.66	4.01	95	15.55	4.09	94
+																
+  Loans HFS as a % Loans	0.02	1.08	10	0.03	0.59	22	0.04	0.53	25	0.06	0.45	27	0.07	0.50	26
+
+
+
+FDIC Certificate # 34221			FRB District/ID_RSSD 2 / 2489805			MORGAN STANLEY PRIVATE BANK, NATIONAL ASSOCIATION			 PURCHASE, NY			Concentrations of Credit
+OCC Charter #  24981			County:  WESTCHESTER			Analysis of Concentrations of Credit--Page 7B 						04/15/2023 10:23:55 PM
+Public Report
+
+		06/30/2020			12/31/2019			06/30/2019			12/31/2018			06/30/2018
+Loan & Leases as a % of Tier 1 Capital Plus Allowance	BANK	PG 1	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT
+  Real Estate Loans	446.03	209.10	89	431.43	449.52	33	404.34	444.50	34	427.02	446.82	38	444.02	445.85	43
+    Construction & Development	0.61	11.21	10	0.59	40.17	7	0.45	40.82	7	0.35	42.15	5	0.00	41.70	4
+      1-4 Family Construction	0.00	1.76	20	0.00	8.06	11	0.00	8.71	11	0.00	8.91	10	0.00	8.26	11
+      Other Const & Land Development	0.61	9.43	10	0.59	31.26	7	0.45	31.43	7	0.35	32.07	5	0.00	32.27	4
+    Secured by Farmland	0.00	0.66	27	0.00	4.44	14	0.00	5.25	14	0.00	5.21	16	0.00	4.92	16
+    1-4 Family Residential	387.18	124.94	93	376.90	159.95	93	358.24	157.51	93	380.44	160.29	93	397.83	163.11	94
+      Home Equity Loans	1.68	17.35	20	1.90	20.67	16	2.05	21.71	15	2.45	23.65	15	2.63	25.05	17
+      1-4 Family 1st Lien Loans	385.50	103.89	93	375.00	132.25	95	356.18	127.95	95	377.99	129.29	95	395.20	130.23	95
+      1-4 Family Jr Lien Loans	0.00	1.22	13	0.00	2.46	9	0.00	2.71	9	0.00	2.95	8	0.00	3.02	8
+    Multifamily	12.39	13.76	58	10.91	35.75	16	8.60	31.56	15	10.12	31.76	20	11.08	31.34	21
+    Non-Farm Non-Residential	45.84	50.29	37	43.04	180.96	10	37.06	177.24	10	36.11	177.62	10	35.11	171.89	11
+      Owner Occupied Non-Farm Non-Residential	2.18	16.21	24	2.25	60.93	10	2.22	61.45	11	2.33	65.47	10	2.44	63.78	11
+      Other Non-Farm Non-Residential	43.66	32.59	65	40.79	115.06	12	34.84	111.23	12	33.79	110.43	11	32.67	106.10	12
+    RE Loans in Foreign Offices	0.00	0.33	65	N/A	4.79	N/A	N/A	4.75	N/A	N/A	3.02	N/A	N/A	5.03	N/A
+																
+  Financial Institution Loans	0.00	1.70	20	0.00	0.09	72	0.00	0.09	68	0.00	0.07	72	0.00	0.08	67
+  Agricultural Loans	0.00	0.70	34	0.00	2.78	23	0.00	3.38	22	0.00	3.44	24	0.00	2.97	26
+  Commercial & Industrial Loans	48.24	146.74	13	48.69	126.27	13	42.94	131.18	11	45.38	133.87	11	46.86	133.35	12
+  Loans to Individuals	143.22	83.59	79	131.34	35.88	91	111.81	33.58	91	112.62	38.45	90	113.09	39.54	90
+    Credit Card Loans	0.00	12.20	27	0.00	1.29	49	0.00	1.29	51	0.00	1.80	49	0.00	1.85	48
+    Auto Loans	0.00	31.88	27	0.00	10.43	20	0.00	10.16	19	0.00	10.63	17	0.00	10.69	16
+  Municipal Loans	1.42	9.66	34	1.46	11.67	26	0.89	12.21	19	1.01	13.00	19	1.13	12.33	23
+  Non-Depository and Other	199.09	63.27	93	182.45	27.43	93	154.71	24.94	93	172.54	20.87	95	167.58	22.79	94
+  Loans to Foreign Governments	0.00	0.20	62	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.01	N/A
+  Lease Financing Receivables	0.00	7.30	24	0.00	4.87	29	0.00	4.75	29	0.00	5.02	36	0.00	4.99	36
+    Leases to Individuals	0.00	0.13	86	0.00	0.00	92	0.00	0.00	90	0.00	0.00	91	0.00	0.00	92
+    All Other Leases	0.00	6.53	24	0.00	4.39	29	0.00	4.29	30	0.00	4.58	36	0.00	4.58	36
+																
+  Supplemental:																
+  Loans to Finance Commercial Real Estate	5.30	11.66	41	3.44	3.08	68	3.56	2.85	67	2.71	2.74	64	1.97	2.95	53
+  Foreign Office Loans & Leases	0.00	8.00	44	0.00	1.17	88	0.00	1.32	88	0.00	1.35	87	0.00	1.37	86
+																
+  Commercial Real Estate Loans as a % of Tier 1 Capital Plus Allowance:																
+  Non-owner OCC Commercial Real Estate	61.97	73.51	44	55.73	204.39	11	47.45	197.62	10	46.96	195.31	10	45.72	191.40	11
+    Memo: NOO CRE 3-Year Growth Rate	95.71	29.40	89	103.88	62.33	78	129.56	64.01	83	157.24	71.93	85	144.02	82.67	84
+  Total Commercial Real Estate	64.15	91.11	41	57.98	273.06	10	49.66	265.86	10	49.29	264.58	10	48.16	259.80	11
+																
+  Commercial Real Estate Loans as a % of Total LN&LS:																
+  Construction & Development	0.07	1.96	10	0.07	5.75	7	0.06	5.85	7	0.05	6.03	5	0.00	5.95	4
+  Non-owner OCC Commercial Real Estate	7.40	13.23	20	7.01	30.23	9	6.64	29.05	9	6.19	28.06	9	5.92	27.55	10
+  Total Commercial Real Estate	7.66	15.92	17	7.29	40.27	9	6.95	39.08	9	6.50	38.06	9	6.23	37.28	10
+
+
+
+FDIC Certificate # 34221			FRB District/ID_RSSD 2 / 2489805			MORGAN STANLEY PRIVATE BANK, NATIONAL ASSOCIATION			 PURCHASE, NY			Interest Rate Risk
+OCC Charter #  24981			County:  WESTCHESTER			Interest Rate Risk Analysis as a Percent of Assets--Page 9 						04/15/2023 10:23:55 PM
+Public Report
+
+		06/30/2020			12/31/2019			06/30/2019			12/31/2018			06/30/2018
+Long Assets Insts w/Options	BANK	PG 1	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT
+  Mortgage Loans & Pass Thrus	31.56	18.12	89	36.53	18.59	94	38.09	18.18	94	36.82	17.99	94	38.33	18.15	93
+    Loans & Securities Over 15 Years	9.79	10.33	48	10.72	7.07	75	10.58	6.50	77	9.85	5.69	79	9.78	5.71	77
+    Loans & Securities 5-15 Years	13.75	4.87	89	15.79	5.73	95	16.29	5.88	96	14.62	6.27	92	14.27	6.39	92
+																
+  Other Loans and Securities	50.81	49.48	48	55.30	62.88	17	54.49	63.32	17	51.41	63.92	11	49.66	63.87	14
+    Loans & Securities Over 15 Years	0.00	1.50	3	0.00	2.26	3	0.20	2.17	10	0.21	2.05	12	0.28	2.05	20
+    Loans & Securities 5-15 Years	6.95	7.05	48	6.46	10.37	25	7.55	10.00	36	5.20	9.96	20	3.68	9.95	14
+  Total Loans & Securities Over 15 Years	9.79	12.08	41	10.72	9.84	63	10.78	9.20	67	10.06	8.21	67	10.06	8.26	66
+																
+  CMO'S Total	3.47	5.44	34	2.71	4.68	37	2.36	4.64	34	1.22	4.60	27	1.48	4.47	30
+    Avg Life Over 3 Years	3.09	3.84	48	2.38	2.92	46	2.23	3.17	45	1.09	3.85	29	1.33	3.60	31
+																
+  Structured Notes	0.00	0.00	89	0.00	0.01	83	0.00	0.01	80	0.00	0.02	81	0.00	0.02	83
+  Mortgage Servicing (FV)	0.00	0.12	27	0.00	0.07	35	0.00	0.06	36	0.00	0.08	35	0.00	0.09	35
+    Total	0.00	0.12	27	0.00	0.10	27	0.00	0.11	28	0.00	0.14	26	0.00	0.15	28
+																
+  Overall Risk Indicators																
+  Available for Sale	12.56	17.84	31	10.77	13.74	33	11.52	13.22	39	11.00	13.74	31	11.53	13.85	35
+  Held to Maturity	5.39	4.34	62	7.14	2.31	87	7.98	2.54	87	5.63	2.78	75	4.27	2.88	72
+  Off Balance Sheet	11.55	61.08	6	12.84	25.41	14	12.54	24.74	13	10.37	24.47	8	11.01	24.63	10
+																
+  Unrealized Appreciation/Depreciation	0.49	0.19	86	0.21	0.04	89	0.21	0.04	93	-0.07	-0.04	24	-0.14	-0.05	17
+  Unrealized App/Dep % Tier 1 Cap	6.09	2.39	79	2.19	0.48	89	1.98	0.44	91	-0.74	-0.46	22	-1.44	-0.59	18
+																
+  Contractual Mat/Reprice Data																
+  Loans/Securities Over 3 Year	43.54	35.46	82	47.23	42.46	71	46.89	42.38	69	40.14	42.43	39	40.29	42.11	43
+  Liabilities Over 3 Year	1.90	1.08	79	2.26	0.99	83	1.66	0.96	76	0.55	0.89	48	0.00	0.97	6
+    Net Over 3 Year Position	41.64	34.34	79	44.97	41.17	66	45.23	41.07	69	39.59	41.21	39	40.29	40.82	47
+																
+  Loans/Securities Over 1 Year	53.14	44.53	79	57.47	54.30	63	57.22	54.02	58	51.73	53.08	41	50.91	52.98	40
+  Liabilities Over 1 Year	5.78	3.24	82	7.67	3.82	86	7.86	4.25	85	4.49	4.55	58	2.37	4.92	26
+    Net Over 1 Year Position	47.36	40.96	72	49.80	49.92	45	49.37	49.02	51	47.24	47.77	43	48.55	47.34	54
+																
+  Non-Maturity Deposits	78.33	67.78	79	72.56	65.40	73	71.36	64.18	75	75.49	65.15	81	73.51	65.53	75
+  Non-Maturity Deps % Long Assets	179.90	202.76	27	153.64	162.30	50	152.19	160.43	50	188.06	164.32	77	182.46	165.69	70
+    Net Over 3 Year Position	-34.79	-32.67	58	-25.33	-22.90	42	-24.47	-21.77	39	-35.35	-22.54	20	-33.22	-23.14	28
+																
+  As % Tier 1 Capital																
+  Structured Notes	0.00	0.00	89	0.00	0.10	83	0.00	0.16	80	0.00	0.23	81	0.00	0.22	83
+  Mortgage Servicing (FV)	0.00	1.44	27	0.00	0.70	35	0.00	0.68	36	0.00	0.85	35	0.00	0.93	35
+    Total	0.00	1.47	27	0.00	1.03	27	0.00	1.11	28	0.00	1.49	26	0.00	1.58	28
+
+
+
+FDIC Certificate # 34221			FRB District/ID_RSSD 2 / 2489805			MORGAN STANLEY PRIVATE BANK, NATIONAL ASSOCIATION			 PURCHASE, NY			Liquidity & Funding
+OCC Charter #  24981			County:  WESTCHESTER			Liquidity & Funding--Page 10 						04/15/2023 10:23:55 PM
+Public Report
+
+		06/30/2020			12/31/2019			06/30/2019			12/31/2018			06/30/2018
+Percent of Total Deposits	BANK	PG 1	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT
+  Individ, Partnerships, and Corp.	100.00	93.84	96	100.00	91.23	98	100.00	91.37	98	100.00	91.61	98	100.00	91.80	98
+  U.S. Govt, States & Political Sub in U.S.	0.00	2.55	13	0.00	6.99	7	0.00	6.91	8	0.00	6.72	7	0.00	6.64	6
+  Comml Banks & Other Dep Inst. in U.S.	0.00	0.24	10	0.00	0.41	10	0.00	0.48	10	0.00	0.48	10	0.00	0.56	11
+  Banks in Foreign Countries	0.00	1.40	37	0.00	0.00	82	0.00	0.01	81	0.00	0.01	79	0.00	0.01	80
+  Foreign Govts and Official Inst.	0.00	0.61	51	0.00	0.00	89	0.00	0.00	88	0.00	0.00	89	0.00	0.00	85
+    Total deposits	100.00	100.00	96	100.00	100.00	95	100.00	100.00	94	100.00	100.00	92	100.00	100.00	94
+																
+  Domestic Demand Deposits	17.00	15.83	68	13.58	9.35	76	11.80	8.72	73	6.89	8.96	40	4.49	9.00	21
+  Domestic Other Transaction Accts	0.00	1.81	13	0.00	2.23	22	0.00	2.37	20	0.00	1.92	21	0.00	1.97	20
+  Domestic Nontransaction Accts	83.00	73.10	48	86.42	87.59	32	88.20	88.07	41	93.11	88.37	75	95.51	88.34	87
+  Total Domestic Deposits	100.00	87.29	96	100.00	98.53	98	100.00	98.70	98	100.00	98.55	98	100.00	98.64	98
+  Deposits in Foreign Offices	N/A	7.51	N/A	0.00	0.08	89	0.00	0.09	88	0.00	0.10	88	0.00	0.10	87
+    Total Deposits	100.00	100.00	96	100.00	100.00	98	100.00	100.00	98	100.00	100.00	98	100.00	100.00	98
+																
+  Liquidity/Funding Ratios																
+  Net Non Core Fund Dep $250M	5.80	2.63	58	21.63	12.07	86	21.39	13.39	82	11.14	13.84	38	11.13	13.71	37
+  Core Deposits	69.48	67.09	44	63.76	70.99	15	63.41	69.96	22	69.40	70.36	44	69.38	70.52	46
+  Short Term Non Core Funding	16.33	10.04	82	18.63	10.64	85	17.75	11.24	82	15.80	11.83	75	18.44	11.34	84
+  S.T Inv to S.T. Ncore Fund	106.47	227.08	31	33.63	56.90	61	31.68	56.91	56	65.96	50.94	80	59.81	56.48	74
+  S.T. Asset to S.T. Liabilities	540.95	354.32	78	331.49	150.67	88	328.36	144.02	88	372.24	158.54	87	243.36	169.25	80
+  Net S.T. Liabilities to Assets	-32.98	-17.58	13	-22.73	-2.80	10	-22.38	-2.29	9	-26.46	-2.34	9	-20.52	-2.91	13
+  Net Loans & Leases to Deposits	74.12	60.41	62	86.02	88.58	35	84.82	89.33	26	83.08	88.24	25	83.71	88.57	31
+  Net LN&LS to Core Deposits	97.70	73.94	86	120.27	99.62	86	119.08	101.54	84	104.98	100.64	58	106.21	99.79	62
+  Brkr Dep Mat < 1 Yr to Brkr Deps	81.18	85.16	24	76.47	80.84	23	75.12	83.89	20	78.89	84.93	23	88.46	83.58	39
+  Brokered Deposits to Deposits	33.51	8.12	93	36.55	4.51	96	35.49	5.14	96	24.24	5.68	95	23.34	5.45	94
+  Listing Service Dep to Deposits	0.00	0.37	65	0.00	0.15	58	0.00	0.12	60	0.00	0.12	59	0.00	0.16	58
+  List Service and Brkrd Dep to Deps	33.51	8.67	89	36.55	5.01	96	35.49	5.40	96	24.24	5.90	95	23.34	5.76	93
+  Sec Bor + sec FFP to Tot Bor + FFP	0.00	12.71	17	0.00	8.62	34	0.00	8.70	33	0.00	3.11	56	0.00	2.61	57
+  Recip Brkrd Dep to Tot Brkrd Dep	0.00	0.00	89	0.00	0.39	85	0.00	0.41	86	0.00	3.07	78	0.00	5.31	72
+																
+Total Deposits
+  Individ, Partnerships, and Corp.		93,901,000			74,026,000			67,254,000			65,920,000			61,295,000
+  U.S. Govt, States & Political Sub in U.S.		0			0			0			0			0
+  Comml Banks & Other Dep Inst. in U.S.		0			0			0			0			0
+  Banks in Foreign Countries		0			0			0			0			0
+  Foreign Govts and Official Inst.		0			0			0			0			0
+    Total Deposits		93,901,000			74,026,000			67,254,000			65,920,000			61,295,000
+						
+  Domestic Demand Deposits		15,966,000			10,053,000			7,934,000			4,540,000			2,751,000
+  Domestic Other Transaction Accts		0			0			0			0			0
+  Domestic Nontransaction Accts		77,935,000			63,973,000			59,320,000			61,380,000			58,544,000
+  Total Domestic Deposits		93,901,000			74,026,000			67,254,000			65,920,000			61,295,000
+  Deposits in Foreign Offices		N/A			N/A			N/A			N/A			N/A
+    Total Deposits		93,901,000			74,026,000			67,254,000			65,920,000			61,295,000
+						
+  Other Liquidity/Funding Data						
+  Non Core Liabilities $250M		22,687,000			21,883,000			19,364,000			15,259,000			14,494,000
+  Short Term Non Core Funding		16,740,000			15,466,000			13,410,000			11,879,000			12,838,000
+  Core Deposits		71,237,000			52,943,000			47,907,000			52,169,000			48,307,000
+  Time Deps $250M & Under Mat < 1 Yr		7,650,000			7,393,000			7,377,000			5,794,000			8,453,000
+  Time Deps $250M & Under Mat > 1 Yr		5,924,000			6,368,000			5,937,000			3,373,000			1,650,000
+  Time Deps over $250M Mat < 1 Yr		18,000			12,000			26,000			11,000			11,000
+  Time Deps over $250M Mat > 1 Yr		0			0			0			0			0
+  Fed Home Loan Bor Mat < 1 Yr		0			750,000			0			0			0
+  Fed Home Loan Bor Mat > 1 Yr		0			0			0			0			0
+  Other Borrowing Mat < 1 Year		0			0			1,000			0			0
+  Other Borrowing Mat > 1 Year		23,000			50,000			16,000			7,000			5,000
+  Secured Other Borrowings		0			0			0			0			0
+  Federal Funds Purchased		0			0			0			0			0
+  Secured Fed Funds Purchased		0			0			0			0			0
+  Listing Service Deposits		0			0			0			0			0
+  Brokered Deposits		31,470,000			27,054,000			23,871,000			15,980,000			14,308,000
+  Reciprocal Brokered Deposits		0			0			0			0			0
+
+
+
+FDIC Certificate # 34221			FRB District/ID_RSSD 2 / 2489805			MORGAN STANLEY PRIVATE BANK, NATIONAL ASSOCIATION			 PURCHASE, NY			Liquidity & Inv Portfolio
+OCC Charter #  24981			County:  WESTCHESTER			Liquidity & Investment Portfolio--Page 10A 						04/15/2023 10:23:55 PM
+Public Report
+
+		06/30/2020			12/31/2019			06/30/2019			12/31/2018			06/30/2018
+Percent of Total Assets	BANK	PG 1	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT
+  Short Term Investments	17.38	17.43	58	6.26	3.90	75	5.62	3.76	71	10.42	3.71	89	11.03	3.51	92
+  Marketable Equity Sec (MES)	0.00	0.03	27	0.00	0.02	44	0.00	0.02	45	0.00	0.02	40	0.00	0.02	41
+  Net LN&LS & SBLC to Assets	68.22	51.68	86	77.02	70.28	78	75.77	70.55	73	73.13	70.17	62	73.95	70.15	65
+  Pledged Assets	26.58	28.24	41	30.24	38.81	34	31.35	38.72	36	32.27	38.77	37	33.49	38.94	41
+																
+  Securities Mix																
+  % Total Securities																
+    US Treas & Govt Agencies	76.24	17.96	93	79.12	9.06	97	80.35	9.55	97	83.04	10.83	98	77.14	10.82	97
+    Municipal Securities	0.00	2.69	13	0.00	10.48	13	0.00	10.75	13	0.00	11.94	14	0.00	12.05	14
+    Pass-Through Mtg Backed Secs	2.09	35.93	10	2.56	31.87	5	2.83	31.21	5	3.52	29.75	6	4.33	29.94	6
+    CMO & REMIC Mtg Backed Secs	9.00	14.42	37	2.98	19.90	20	3.33	21.25	22	4.74	21.01	28	5.17	20.69	28
+    Commercial Mtg Back Secs	10.35	11.21	55	12.14	10.91	60	9.90	9.45	57	4.01	8.25	40	6.17	7.82	55
+    Asset Backed Securities	2.11	1.71	75	2.84	0.70	86	3.22	0.73	85	4.09	0.70	88	5.04	0.67	91
+    Structured Financial Products	0.00	0.95	58	0.00	0.24	79	0.00	0.16	81	0.00	0.21	82	1.39	0.24	89
+    Other Domestic Debt Secs	0.21	0.93	58	0.36	1.76	54	0.36	1.68	51	0.60	1.49	59	0.75	1.44	59
+    Foreign Debt Securities	0.00	3.90	27	0.00	0.04	77	0.00	0.08	73	0.00	0.06	75	0.00	0.09	74
+    Inv Mut Fnd & Oth Mktbl	0.00	0.19	27	0.00	0.21	43	0.00	0.19	44	0.00	0.18	40	0.00	0.21	40
+      Total	100.00	100.00	96	100.00	100.00	98	100.00	100.00	98	100.00	100.00	98	100.00	100.00	98
+																
+  Liquidity/Securities Ratios:																
+  App (Dep) Hi Risk & Struc/T1 Cap	0.00	0.00	96	0.00	0.00	88	0.00	0.00	88	0.00	-0.02	96	0.00	-0.01	96
+  App (Dep) in AFS sec to AFS Sec	3.46	3.05	62	0.69	1.00	36	0.48	0.90	31	-2.12	-1.51	24	-2.89	-2.22	22
+  App (Dep) in HTM Sec to HTM Sec	9.06	4.82	91	2.93	1.94	70	2.60	1.68	71	-1.25	-1.10	50	-3.19	-1.37	13
+  App (Dep) in HTM Sec to Eqy Cap	6.10	2.03	89	2.19	0.36	94	1.98	0.33	94	-0.74	-0.36	20	-1.44	-0.47	15
+  Pledged Securities to Tot Sec	2.26	24.91	10	0.03	34.49	5	0.03	36.98	5	12.33	37.56	16	13.81	39.98	17
+  Pledged Loans to Total Loans	38.51	39.83	41	39.39	45.64	45	41.48	44.60	50	41.44	44.62	51	42.45	44.31	53
+  Loans Held for Sale to Total Loans	0.02	1.14	10	0.02	0.64	25	0.04	0.61	24	0.04	0.35	31	0.06	0.48	31
+																
+Short Term Investments		17,823,000			5,201,000			4,248,000			7,835,000			7,678,000
+Short Term Assets		41,480,000			27,033,000			24,312,000			27,196,000			24,251,000
+Debt Securities 90+ Days P/D		0			0			0			0			0
+Total Non-Current Debt Sec		0			0			0			0			0
+Fair Value Structured Notes		0			0			0			0			0
+Pledged Securities		416,000			5,000			5,000			1,542,000			1,519,000
+Pledged Loans & Leases		26,840,000			25,104,000			23,680,000			22,714,000			21,796,000
+Loans Held for Sale		12,000			13,000			21,000			22,000			30,000
+
+
+
+FDIC Certificate # 34221			FRB District/ID_RSSD 2 / 2489805			MORGAN STANLEY PRIVATE BANK, NATIONAL ASSOCIATION			 PURCHASE, NY			Capital Analysis-a
+OCC Charter #  24981			County:  WESTCHESTER			Capital Analysis--Page 11 						04/15/2023 10:23:55 PM
+Public Report
+
+		06/30/2020			12/31/2019			06/30/2019			12/31/2018			06/30/2018
+Capital Ratios	BANK	PG 1	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT	BANK	PG 2	PCT
+  Percent of Bank Equity:																
+    Net Loans & Leases (x)	8.48	4.71	93	8.00	5.47	91	7.18	5.48	86	7.62	5.65	88	7.76	5.75	88
+    Subord Notes & Debentures	0.00	4.22	27	0.00	1.09	69	0.00	0.83	73	0.00	0.93	72	0.00	1.12	70
+    Com RE & Related Ventures	52.47	65.38	37	47.40	177.83	10	41.28	176.17	11	39.40	180.02	10	37.32	178.15	11
+  Percent of Average Bank Equity:																
+    Net Income	13.78	4.65	93	15.23	10.57	86	15.72	11.07	85	15.09	11.03	86	14.73	10.96	83
+    Dividends	14.37	3.99	93	7.53	6.03	62	0.00	5.53	11	0.00	5.16	11	0.00	4.33	20
+    Retained Earnings	-0.58	0.15	41	7.70	3.90	83	15.72	4.90	95	15.09	5.47	96	14.73	6.16	91
+  Other Capital Ratios:																
+    Dividends to Net Operating Income	104.24	78.28	64	49.45	59.33	34	0.00	52.46	11	0.00	47.27	11	0.00	39.93	20
+    Bank Eq Cap + Min Int to Assets	8.01	10.20	13	9.59	13.24	14	10.52	13.22	20	9.56	12.78	16	9.49	12.49	14
+  Growth Rates:																
+    Total Equity Capital	3.31	4.93	48	10.85	13.74	53	20.23	13.98	78	15.97	11.91	75	12.36	12.97	64
+    Equity Growth Less Asst Growth	-32.39	-12.29	6	0.38	2.54	37	11.72	4.35	80	0.55	2.17	44	-2.61	1.61	30
+  Intang Assets % Bank Equity																
+    Mortgage Servicing Rights	0.00	1.03	27	0.00	0.49	36	0.00	0.47	37	0.00	0.55	36	0.00	0.62	36
+    Goodwill	0.00	15.64	6	0.00	20.47	10	0.00	20.54	10	0.00	20.78	10	0.00	19.95	11
+    Purch Credit Card Relations	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+    All Other Intangibles	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+    Total Intangibles	0.00	17.56	6	0.00	22.74	6	0.00	22.80	6	0.00	23.10	5	0.00	23.42	4
+																
+  Leverage Ratio	7.9430	8.47	34	9.8864	10.08	44	10.7132	10.12	73	9.9824	10.02	49	9.8254	9.93	50
+																
+  Standardized Capital Ratios																
+    Com Equity Tier 1 Cap Ratio	21.9254	13.20	96	24.8437	12.71	95	27.4380	12.67	95	25.2038	12.52	95	24.6384	12.53	94
+    Tier 1 Capital Ratio	21.9254	13.37	96	24.8437	12.79	95	27.4380	12.74	95	25.2038	12.62	95	24.6384	12.64	94
+    Total Capital Ratio	22.1518	14.93	96	25.0122	13.75	95	27.6004	13.68	95	25.3652	13.62	95	24.7913	13.69	94
+																
+  Adv App Cap Ratios																
+    Com Equity Tier 1 Cap Ratio	44.9738	19.61	90	48.0797	44.77	40	50.5954	43.43	60	48.2599	37.77	75	48.9011	35.54	75
+    Tier 1 Capital Ratio	44.9738	19.63	90	48.0797	44.77	40	50.5954	43.43	60	48.2599	37.77	75	48.9011	35.54	75
+    Total Capital Ratio	45.0994	20.65	90	48.1824	45.36	40	50.6591	44.05	60	48.3539	38.60	75	48.9973	36.44	75
+																
+End of Period Capital ($000)						
+  Perpetual Preferred		0			0			0			0			0
+   + Common Stock		0			0			0			0			0
+   + Surplus		4,622,000			4,622,000			4,622,000			4,622,000			4,622,000
+   + Retained Earnings		3,257,000			3,296,000			3,291,000			2,697,000			2,166,000
+   + Accum Other Comp Income		329,000			44,000			32,000			-136,000			-180,000
+   + Other Equity Capital Comp		0			0			0			0			0
+    Total Bank Equity Capital		8,208,000			7,962,000			7,945,000			7,183,000			6,608,000
+      Minority Interest Cons Subs		0			0			0			0			0
+    Total Bank Capital & Min Int		8,208,000			7,962,000			7,945,000			7,183,000			6,608,000
+						
+Subordinated Notes & Debentures		0			0			0			0			0
+						
+Changes in Bank Equity ($000)						
+  Balance at Beginning of Period		7,962,000			7,183,000			7,183,000			6,194,000			6,194,000
+   + Net Income		566,000			1,185,000			594,000			1,002,000			471,000
+   + Sales or Purchase of Capital		0			0			0			0			0
+   + Merger & Absorptions		0			0			0			0			0
+   + Restate due to Acctg Error&Chg		-15,000			0			0			0			0
+   + Trans with Parent		0			0			0			0			0
+   - Dividends		590,000			586,000			0			0			0
+   + Other Comprehensive Income		285,000			180,000			168,000			-13,000			-57,000
+    Balance at End of Period		8,208,000			7,962,000			7,945,000			7,183,000			6,608,000
+						
+Intangible Assets						
+  Mortgage Servicing Rights		0			0			0			0			0
+   + Purch Credit Card Relations.		N/A			N/A			N/A			N/A			N/A
+   + Other Intangibles		N/A			N/A			N/A			N/A			N/A
+   + Goodwill		0			0			0			0			0
+    Total Intangibles		0			0			0			0			0
+						
+Total Assets for Leverage Ratio:						
+  Average Total Consolidated Assets		103,639,000			80,535,000			74,161,000			71,957,000			67,254,000
+  Less: Ded from CET1 Cap & add T1C		0			0			0			0			0
+  Less: Other Deductions		0			0			0			0			0
+  Total Assets for Leverage Ratio		103,639,000			80,535,000			74,161,000			71,957,000			67,254,000
+
+
+
+FDIC Certificate # 34221			FRB District/ID_RSSD 2 / 2489805			MORGAN STANLEY PRIVATE BANK, NATIONAL ASSOCIATION			 PURCHASE, NY			Capital Analysis-b
+OCC Charter #  24981			County:  WESTCHESTER			Capital Analysis--Page 11A 						04/15/2023 10:23:55 PM
+Public Report
+
+		06/30/2020			12/31/2019			06/30/2019			12/31/2018			06/30/2018
+Capital Analysis ($000)
+  Common Equity Tier 1 Capital: ($000)						
+  Common Stock Plus Related Surplus		4,622,000			4,622,000			4,622,000			4,622,000			4,622,000
+  Retained Earnings		3,281,000			3,296,000			3,291,000			2,697,000			2,166,000
+  Accum Other Comprehensive Inc (AOCI)		329,000			44,000			32,000			-136,000			-180,000
+  Common Equity T1 Minority Interest		0			0			0			0			0
+  Common Equity T1 Cap Before Adj/Ded		8,232,000			7,962,000			7,945,000			7,183,000			6,608,000
+						
+  Common Equity Tier 1 Capital: Adj/Ded						
+    Less: Goodwill		0			0			0			0			0
+    Less: Intangible Assets		0			0			0			0			0
+    Less: DTA (NOL & Tax Credit Only)		0			0			0			0			0
+    AOCI-Related Adjustments-Opt Out		N/A			N/A			N/A			N/A			N/A
+    AOCI-Related Adjustments-No Opt Out		0			0			0			0			0
+    Oth Ded (add) CET1 bef threshold ded		0			0			0			0			0
+    Less: Non-significant Investments		0			0			0			0			0
+  Subtotal before Threshold Limits		8,232,000			7,962,000			7,945,000			7,183,000			6,608,000
+    Less: Sig Inv, MSAs, DTA > 10% Limit		0			0			0			0			0
+    Less: Sig Inv, MSAs, DTA > 15% Limit		0			0			0			0			0
+      Less: Tot Sig Inv, MSAs, DTA  > Limit		0			0			0			0			0
+    Less: Ded due to insuff T1 and T2 Cap		0			0			0			0			0
+    Total Adj and Ded for CET1 Capital		0			0			0			0			0
+  Common Equity Tier 1 Capital		8,232,000			7,962,000			7,945,000			7,183,000			6,608,000
+						
+  Additional Tier 1 Capital:						
+    Additional T1C Inst & Related Surplus		0			0			0			0			0
+    Non-qualifying Cap Inst sub to phaseout		0			0			0			0			0
+    Tier 1 Minority Int Not Incl in CET1 Cap		0			0			0			0			0
+    Additional T1 Cap Before Deductions		0			0			0			0			0
+    Less: Additional T1 Cap Deductions		0			0			0			0			0
+  Additional Tier 1 Capital		0			0			0			0			0
+						
+  Tier 1 Capital		8,232,000			7,962,000			7,945,000			7,183,000			6,608,000
+						
+  Tier 2 Capital:						
+    T2 Cap Instruments & Related Surplus		0			0			0			0			0
+    Non-qualifying Capital Instruments		0			0			0			0			0
+    Tot Cap Min Int Not Incl in T1 Cap		0			0			0			0			0
+    ALLL in Tier 2 Capital		85,000			54,000			47,000			46,000			41,000
+    Exited Adv App Eligible Cr Reserves		23,000			17,000			10,000			14,000			13,000
+    Unrealized Gains on AFS Pref Stock		N/A			N/A			N/A			N/A			N/A
+  Tier 2 Capital Before Deductions		85,000			54,000			47,000			46,000			41,000
+  Exited Adv App T2C Before Deductions		23,000			17,000			10,000			14,000			13,000
+  Less: Tier 2 Capital Deductions		0			0			0			0			0
+						
+  Tier 2 Capital - Standardized Approaches		85,000			54,000			47,000			46,000			41,000
+  Tier 2 Capital - Advanced Approaches		23,000			17,000			10,000			14,000			13,000
+  Total Capital - Standardized Approaches		8,317,000			8,016,000			7,992,000			7,229,000			6,649,000
+  Total Capital - Advanced Approaches		8,255,000			7,979,000			7,955,000			7,197,000			6,621,000
+
+
+
+FDIC Certificate # 34221			FRB District/ID_RSSD 2 / 2489805			MORGAN STANLEY PRIVATE BANK, NATIONAL ASSOCIATION			 PURCHASE, NY			Capital Analysis-c
+OCC Charter #  24981			County:  WESTCHESTER			Capital Analysis--Page 11B 						04/15/2023 10:23:55 PM
+Public Report
+
+		06/30/2020			12/31/2019			06/30/2019			12/31/2018			06/30/2018
+Risk Weighted Assets
+  On BS Assets and Securitization Exp						
+    2% Category		0			0			0			0			0
+    4% Category		0			0			0			0			0
+    20% Category		873,000			648,400			557,200			409,000			415,600
+    50% Category		13,266,500			15,078,500			14,296,000			13,744,000			13,245,000
+    100% Category		19,410,000			12,946,000			11,111,000			12,002,000			10,676,000
+    150% Category		0			0			0			0			0
+    250% Category		0			0			0			0			0
+    300% Category		0			0			0			0			0
+    400% Category		0			0			0			0			0
+    600% Category		0			0			0			0			0
+    1250% Category		0			0			0			0			0
+  Other Risk-Weighting App Categories		553,000			513,000			392,000			292,000			273,000
+  Tot RWA Securitization Exp SSFA Mthd		81,000			89,000			133,000			142,000			189,000
+  Total RWA Securitization Exp Gross-Up		0			0			0			0			0
+  On-Balance Sheet Risk Weighted Assets		34,183,500			29,274,900			26,489,200			26,589,000			24,798,600
+  Memo - 0% Category - $		22,642,000			15,251,000			14,619,000			17,147,000			14,765,000
+						
+  Off BS/Oth Items Subj to Risk Weighting						
+    2% Category		0			0			0			0			0
+    4% Category		0			0			0			0			0
+    10% Category		0			0			0			0			0
+    20% Category		0			0			0			12,000			10,000
+    50% Category		52,000			61,500			63,750			58,000			59,000
+    100% Category		3,308,000			2,710,000			2,399,200			1,838,700			1,951,300
+    150% Category		0			0			0			0			0
+    625% Category		0			0			0			0			0
+    937.5% Category		0			0			0			0			0
+    1250% Category		0			0			0			0			0
+    1250% Category Securitization Exp		0			0			0			0			0
+  Oth Risk-Weighting App Categories		2,000			2,000			4,000			2,000			1,000
+  Tot RWA Securitization Exp SSFA Mthd		0			0			0			0			0
+  Total RWA Securitization Exp Gross-Up		0			0			0			0			0
+  Tot Deriv, Off-BS and Oth - Risk Wght		3,362,000			2,773,500			2,466,950			1,910,700			2,021,300
+  Memo - 0% Category - $		139,000			139,000			139,000			139,000			139,000
+						
+  Standardized Market Risk Weighted Assets		0			0			0			0			0
+						
+  Risk-Weighted Asset Before Ded		37,545,500			32,048,400			28,956,150			28,499,700			26,819,900
+   - Excess Allowable LN&LS Loss		0			0			0			0			0
+   - Allocated Transfer Risk Reserve		0			0			0			0			0
+  Total Risk Weighted Assets		37,545,500			32,048,400			28,956,150			28,499,700			26,819,900
+						
+  Current Credit Exposure All Derivatives		81,000			0			0			0			0
+						
+  Derivatives Notional Prin Amounts						
+  OTC Contracts Total		6,089,000			692,000			36,000			35,000			23,000
+    Interest Rate		6,089,000			692,000			36,000			35,000			23,000
+    All Other		0			0			0			0			0
+  Centrally Clreared Contracts Total		0			0			0			0			0
+    Interest Rate		0			0			0			0			0
+    All Other		0			0			0			0			0
+
+
+
+FDIC Certificate # 34221			FRB District/ID_RSSD 2 / 2489805			MORGAN STANLEY PRIVATE BANK, NATIONAL ASSOCIATION			 PURCHASE, NY			Capital Analysis-d
+OCC Charter #  24981			County:  WESTCHESTER			Capital Analysis--Page 11C 						04/15/2023 10:23:55 PM
+Public Report
+
+		06/30/2020			12/31/2019			06/30/2019			12/31/2018			06/30/2018
+Risk Based Capital ($000)
+  Tier 1 Capital						
+    Total Equity Capital Adjusted		N/A			N/A			N/A			N/A			N/A
+   - Ineligible Def Tax Assets		0			0			0			0			0
+   - Ineligible Intangibles		0			0			0			0			0
+   - Cumul Change F.V. Financial Liab		N/A			N/A			N/A			N/A			N/A
+    Net Tier 1		8,232,000			7,962,000			7,945,000			7,183,000			6,608,000
+						
+  Tier 2 Capital						
+   + Qualif Debt and Redeem Pfd		N/A			N/A			N/A			N/A			N/A
+   + Cumulative Preferred Stock		N/A			N/A			N/A			N/A			N/A
+   + Allowable LN&LS Loss Allow		85,000			54,000			47,000			46,000			41,000
+   + Unrl Gain Mktbl Eqy Sec (45%)		N/A			N/A			N/A			N/A			N/A
+   + Other Tier 2 Capital Comp		N/A			N/A			N/A			N/A			N/A
+    Net Eligible Tier 2		85,000			54,000			47,000			46,000			41,000
+						
+  Total RBC Before Deductions						
+    Tier 1 & Tier 2		8,317,000			8,016,000			7,992,000			7,229,000			6,649,000
+    Tier 3 & Fin Sub Adj		N/A			N/A			N/A			N/A			N/A
+   - Deductions for Total RBC		N/A			N/A			N/A			N/A			N/A
+    Total Risk-Based-Capital		8,317,000			8,016,000			7,992,000			7,229,000			6,649,000
+						
+  Risk-Weighted Assets						
+  On-Balance Sheet						
+    Category Two - 20%		873,000			648,400			557,200			409,000			415,600
+    Category Three - 50%		13,266,500			15,078,500			14,296,000			13,744,000			13,245,000
+    Category Four - 100%		19,410,000			12,946,000			11,111,000			12,002,000			10,676,000
+      Total On-Balance Sheet		34,183,500			29,274,900			26,489,200			26,589,000			24,798,600
+    Memo: Category One - 0%		22,642,000			15,251,000			14,619,000			17,147,000			14,765,000
+						
+  Off-Balance Sheet						
+    Category Two - 20%		0			0			0			12,000			10,000
+    Category Three - 50%		52,000			61,500			63,750			58,000			59,000
+    Category Four - 100%		3,308,000			2,710,000			2,399,200			1,838,700			1,951,300
+      Total Off-Balance Sheet		3,362,000			2,773,500			2,466,950			1,910,700			2,021,300
+    Memo: Category One - 0%		139,000			139,000			139,000			139,000			139,000
+						
+  Adjustments to Risk-Wgt Assets						
+  Risk-Weighted Asset Before Ded		37,545,500			32,048,400			28,956,150			28,499,700			26,819,900
+     - Excess Allowable LN&LS Loss Al		0			0			0			0			0
+     - Allocated Transfer Risk Reserve		0			0			0			0			0
+   + Mkt Risk Asset & Fin Sub Adj		N/A			N/A			N/A			N/A			N/A
+    Total Risk-Weighted Assets		37,545,500			32,048,400			28,956,150			28,499,700			26,819,900
