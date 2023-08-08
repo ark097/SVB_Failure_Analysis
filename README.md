@@ -11,3 +11,8 @@ The banking sector's vulnerability was likely the result of regulatory modificat
 
 The report included in this repo presents the findings of our in-depth investigation of the circumstances surrounding the collapse of Silicon Valley Bank. Our analysis delves into the various factors that contributed to the bank's failure, such as inadequate capital and liquidity buffers, poor risk management,
 and a challenging economic and regulatory environment. The results are based on a comprehensive examination of Silicon Valley Bank's income statements, balance sheets, summary ratios, and regulatory filings, compared against some of the banks in its peer group
+
+**A snapshot of the report containing some of the interesting visualizations**
+
+![image](https://github.com/ark097/SVB_Failure_Analysis/assets/41021854/b87ed7d3-a6d6-440b-b36d-9b687f461f41)
+
